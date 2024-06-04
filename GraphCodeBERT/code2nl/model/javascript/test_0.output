@@ -1,0 +1,3885 @@
+0	Get the number of models .
+1	Set class name
+2	Deserialize value
+3	Get highlight options
+4	Creates a new stream with the given arguments .
+5	Formats an error .
+6	Send an event to the server .
+7	Get the policy for the given name .
+8	Calculate line height
+9	Creates a new worker
+10	monkey patch the code
+11	Transform JS code into javascript .
+12	Create a new element
+13	Initialize the block .
+14	Triggers the given distance .
+15	Compress a block .
+16	Copy buffer to buffer
+17	Triggered when a block is stored .
+18	Converts a color to a color
+19	Calculates the number of lines of the page .
+20	Calculate the distance between two axes .
+21	Sets the page number .
+22	Returns the font label for the given font name .
+23	Calculate font space .
+24	Creates a yes push button
+25	Off PushDownDown
+26	Creates the default font stream for the given form object .
+27	Split a word into a list of words .
+28	Splits paragraph into lines
+29	Flush the buffer .
+30	Writes the output stream to the output stream .
+31	Map ArrayBufferViews to arrays
+32	Prompt user input .
+33	Create a PDF document
+34	Parses the given url .
+35	Returns true if the given exception is equal to the given exception .
+36	Check if two stack traces are equal .
+37	Fill an object with a replacement .
+38	Returns a string representation of an array .
+39	Notify handlers .
+40	Triggered when an error occurs .
+41	Report an exception .
+42	Adds a new stack trace to the stack trace .
+43	Computes the stack trace from a stack trace .
+44	Handle a promise rejection .
+45	Capture an exception .
+46	Creates a breadcrumb event handler .
+47	Captures a URL change .
+48	Check if current data is repeated .
+49	Get decimal places .
+50	Round a number .
+51	Create a new RangeTouch object
+52	Creates a new MutationObserver .
+53	Toggle event listener .
+54	Sets a toggle event .
+55	Called when an element is triggered .
+56	Unbinds event listeners
+57	Get a deep value from an object .
+58	Extends an object to another object .
+59	Creates a new element .
+60	Inserts an element at the given element .
+61	Inserts an element .
+62	Removes all children of the given element .
+63	Get attributes from a selector
+64	Toggle the given class name .
+65	Checks if an element is a class .
+66	Returns true if element matches selector
+67	Triggers focus events .
+68	Sets the tab focus .
+69	Sets the height of the element .
+70	Checks if the given type is supported .
+71	Set the aspect ratio .
+72	Get the quality options
+73	Returns the closest closest to the given value .
+74	Replace all occurrences of a string
+75	Converts a string to TitleCase
+76	Strip HTML tags from source
+77	Get HTML element
+78	Format a time .
+79	Get icon url
+80	Finds the elements of the element
+81	Create a label
+82	Create a badge .
+83	Create a time element
+84	Create a menu item
+85	Format a time .
+86	Update time display .
+87	Update the volume
+88	Set range value
+89	Update the range for the range
+90	Update the tooltip tooltip
+91	Update the current time .
+92	Update the current time
+93	Updates the current setting .
+94	Get the label for the given value .
+95	Set quality menu
+96	Gets the badge for the given quality .
+97	Set the speed menu
+98	Get menu size
+99	Show menu panel .
+100	Sets the URL of the button .
+101	Replace all properties in a string .
+102	Parse a URL
+103	build url params
+104	Update the captions
+105	toggle the captions
+106	Set the caption
+107	Set the language .
+108	Returns a list of all the captions associated with this media .
+109	Finds a track with the given languages .
+110	Get the label for the given track
+111	Get provider by url
+112	Returns true if the player is enabled .
+113	toggle native controls
+114	Build the UI .
+115	Set the title of the button
+116	Check if the button is playing
+117	Check if loading is loaded
+118	toggle controls
+119	Removes the current tab .
+120	Set player size
+121	Subscribe a bundle to a callback
+122	Publish a bundle .
+123	Execute callbacks
+124	Load a file .
+125	Loads a bundle
+126	Get video title
+127	Advance the ads .
+128	Loads google API .
+129	Setup the IMAP .
+130	Construct a PreviewThumbnails object .
+131	Convenience function to clamp a value .
+132	Toggle the current state .
+133	Create a new source source
+134	Converts a string to a string
+135	Preprocess the cart .
+136	Get new cart messages
+137	Check if redirectToSsr is valid
+138	Highlights a term .
+139	Create a MailingList
+140	Render the embed dialog .
+141	Called when the css build is done .
+142	Update the cached css files
+143	Update site state .
+144	Checks if all categories are valid
+145	Checks if a product category is valid .
+146	Checks if a language is changed .
+147	Create a new UserSettings object
+148	Get domain name from receipt or cart
+149	Converts a hash to a hash .
+150	Updates cached products .
+151	Set the query on the query .
+152	Generate static urls .
+153	Get list of accepted languages .
+154	Sets up the CSP policy .
+155	Get the latitude and longitude
+156	Checks if a post is shared
+157	Sanitize extra extra data
+158	Sets the draft ID of the post .
+159	Handles post lock on post lock
+160	Handles post lock .
+161	Update image blocks
+162	Update featured image preview .
+163	Handles preview on editor
+164	Handle insertClassicBlockMediaMedia
+165	Handles all post - post actions
+166	Open links in parent frame .
+167	Pin the toolbar .
+168	Initialize the storage .
+169	Finish the editor .
+170	Builds chunks from subtext
+171	Find the largest range in the set of ranges .
+172	Set up the locale
+173	Convert custom metadata to product attributes
+174	Parse a shortcode .
+175	Parses a DOM node .
+176	Checks if the given value is a default value .
+177	Sets the settings for the given action .
+178	Determine whether or not the request is set .
+179	Determine if the settings request failed .
+180	Get sync status .
+181	Checks if a status request is synchronous .
+182	Returns true if the request is resync .
+183	Returns true if the request is submitted .
+184	Determine if the API key is submitted .
+185	Determine if the message is submitted .
+186	Determine if the action was submitted .
+187	Checks if the request is a list of lists
+188	Checks if an action is a list of lists .
+189	Returns true if newsletter settings are submitted .
+190	Determine if the newsletter settings submitted .
+191	Delete all invites
+192	Creates a new StatsDataLocalList instance
+193	Creates a new product .
+194	Get purchases by site .
+195	Handles the renew action .
+196	Checks if the purchase is cancelable .
+197	Checks if a purchase is within a refund .
+198	Checks if the purchase is removable .
+199	Returns the type of the payment log .
+200	Get css name from filename
+201	Verify the given caption
+202	Loads a CSS file
+203	Recursively overwrite existing purchases
+204	Removes duplicate purchases by given predicate .
+205	UndocumentedSite
+206	Add product to list
+207	Create a site component .
+208	Update receipt state .
+209	Checks if the image is tracking .
+210	Checks if the given image is valid .
+211	Loads all notes in the store .
+212	Update the last seen time .
+213	Set the visibility of the keyboard .
+214	Determine if the given plugin is a valid notice
+215	Check if the element is in viewport range
+216	Scrolls the element into the viewport .
+217	Setup the build .
+218	Parse caption .
+219	Creates a keyboard shortcut .
+220	Returns the dependencies of the query .
+221	Checks if a sync is pending .
+222	Checks if the given site is full .
+223	Calculate the percentage percentage of the sync status .
+224	Setup quaternion .
+225	Records a product .
+226	Records an order in the qcomcast .
+227	Records the purchase in the given order .
+228	Records the order in the basket .
+229	Returns a new session id
+230	Returns a hash of the user s params
+231	Records an order in the cart .
+232	Record view checkout .
+233	Convert cart to carto items
+234	Records in citeo
+235	Record an order in Google Analytics
+236	Initialize Facebook .
+237	Determines if the context is a server side side side side .
+238	Sets the tabindex of the editor .
+239	Cleans up the replies cache
+240	Parses a git diff command .
+241	Request a list of posts
+242	Normalize API attributes
+243	Check if the image is large enough to be large .
+244	Replace all markers in the editor
+245	Gets the parent of the given node .
+246	Removes the clipboard .
+247	Removes undefined keys from an object
+248	Extract metadata from libPhoneNumberData
+249	Insert country aliases
+250	WPCOMUndocumented .
+251	Creates a new account password data .
+252	Send a transfer status .
+253	This function is called when a theme is initiated .
+254	Prefix theme id for install
+255	Query the docs for the given query .
+256	Returns a list of all docs for a given file path .
+257	Escape a regular expression .
+258	get pagination data
+259	Returns a list of users .
+260	Fetch all plugins for a given site .
+261	Returns a list of all the sites in the given site .
+262	Returns a list of all sites in the given site .
+263	Decode a base64 encoded string .
+264	Disable toolbar touch events
+265	Hide the toolbar
+266	Toggle the scrollbar .
+267	Writes errors to console .
+268	Get the arguments for the given properties .
+269	Returns the translation from the given JED object .
+270	Completes the complete account .
+271	Convenience function to complete a user deauthorization complete .
+272	Completes the OAuth OAuth init method .
+273	Apply the given cost to the given precision .
+274	Checks if a domain is a GSuite .
+275	Format a price .
+276	Gets the gsuite domain name for the given domain .
+277	Returns a list of gsuite domains that match the provided domain .
+278	Stop the mutation observer .
+279	Check if active placeholders are active .
+280	Get default options
+281	Configure global variables
+282	Inserts the DOM into the DOM .
+283	Loads the script .
+284	Get the initial state of the initial state
+285	Determine whether or not it should be added .
+286	Update product edits
+287	Checks if the given script is not a sandbox .
+288	Gets the email forwarding domain for the given email name .
+289	Returns a list of email addresses for the domain .
+290	Setup the application .
+291	Get plugin details .
+292	Get information about a theme .
+293	Query for themes .
+294	Returns true if value is a plain object .
+295	Converts a value to an array .
+296	Recursively iterates over each element in an array
+297	Checks if the given value is a class .
+298	Add a class to an element
+299	Remove a class from an element
+300	Toggle the given value .
+301	Get data from element
+302	Sets a data element .
+303	Remove data from element
+304	Remove an event listener
+305	Add an event listener
+306	Dispatch an event .
+307	Get the offset of the element
+308	Add timestamp to url
+309	Get a list of transform values
+310	Get max zoom ratio
+311	Get the position of the page
+312	Returns the center of the center of the given pointers .
+313	Adjusts the width of the canvas .
+314	Get rotated sizes
+315	Convert dataURL to an ArrayBuffer
+316	Convert an array of bytes to a data URL .
+317	Parse orientation .
+318	Crop the crop box
+319	Reset the canvas
+320	Clears the crop box .
+321	Replace the image .
+322	Destroy this element
+323	Move to the canvas
+324	Move to the canvas
+325	Zoom the canvas
+326	Rotate the image
+327	Scale the image
+328	Scale the image
+329	Scale the image
+330	Get canvas data
+331	Set canvas data
+332	Set aspect ratio
+333	Set drag mode
+334	Add a function to the event .
+335	Removes an event .
+336	Append an item to the parent .
+337	Append items to the tree
+338	Add an option to the list
+339	Add a tag to the list
+340	Remove an item from the list
+341	Paginate the page
+342	Cleans up the searchable .
+343	Parses an option .
+344	Creates a tree path .
+345	Create a mode switch
+346	Returns the last non - whitespace character .
+347	Returns the next non - whitespace .
+348	Parse a string .
+349	Parse a key .
+350	Returns the position for the given index .
+351	Updates the content of the editor .
+352	Destroy an anchor
+353	Render a desktop element
+354	Checks if the given value is whitespace .
+355	Ensure that value is enumerable .
+356	Validates a range .
+357	Checks if the given value is required .
+358	Validate a string
+359	Ensure that the given value is valid .
+360	Checks if the given value is a valid pattern .
+361	Validates the given value .
+362	Gets the style of an element .
+363	Gets the bounds of an element .
+364	Checks if element is fixed .
+365	Get the boundaries of a popper .
+366	Check if a modifier is enabled
+367	Create a new Popper object
+368	Write the HTML to the given directory .
+369	Get the output HTML for the input directory .
+370	Copies the polyfill .
+371	Writes the module to the index .
+372	Initialize the karma environment .
+373	Create a compiler .
+374	Creates a preprocessor .
+375	Converts a URL to an absolute URL .
+376	Normalizes a node .
+377	Get the text content of a node .
+378	Set text content
+379	Recursively walk a tree of nodes
+380	Walk through a node and return it .
+381	Recursively walk all child nodes .
+382	Recursively walk ancestor nodes .
+383	Query a node .
+384	Query all elements matching the given predicate .
+385	Inserts a new node at the given index .
+386	Remove all children of a node
+387	Gets the compiled code .
+388	Wrap transitioning context .
+389	Split a string into a list of lines .
+390	Handle output error
+391	Dasherize a hash
+392	Remove unused selectors .
+393	Removes all media rules from css .
+394	Filter unused rules .
+395	Parse uncssrc file
+396	Parses a list of stylesheets .
+397	Read all stylesheets from the given files .
+398	Get HTML for HTML files
+399	Parses the given stylesheets .
+400	Initialize an uncssrc file
+401	Create a Promise from a source
+402	Get all stylesheets
+403	Find all elements in a window
+404	Open a database .
+405	Delete a database .
+406	Get cursor advvance methods .
+407	Resolve the style
+408	Creates a new instance of the prototype .
+409	Adds a replacement to the current selector .
+410	Add all replacements to the given path .
+411	replace parent selector
+412	Create a new dimension .
+413	Parse a string .
+414	Parses a string .
+415	Returns a new comment .
+416	Parse a quoted string .
+417	Parse a variable .
+418	Parse a Dimension
+419	Parse JavaScript definition .
+420	Parse a variable call .
+421	Parse a rule .
+422	Returns a list of all entities .
+423	Parse a value .
+424	Parses an expression .
+425	Parse a comment .
+426	Properties of a file .
+427	Creates a new loader .
+428	Class constructor .
+429	Checks if the given rule is a fake rule .
+430	Binds a function to a function .
+431	Gets the state transitions between two nodes .
+432	Get initial transition state .
+433	Removes an object from an object .
+434	Create domain function .
+435	Format a domain .
+436	Gets the domain domain from the given categories .
+437	Get the domain domain from the given data .
+438	Get the domain domain from min and max .
+439	Gets the domain domain from the given axis .
+440	Get domain with zero values
+441	Get the max domain domain from the given axis .
+442	Gets the min domain from the given axis .
+443	Gets the domain of the given values .
+444	Checks if a component is a domain component .
+445	Generate the data array for the given axis .
+446	Sort data by key
+447	Get event key .
+448	Add event keys to data
+449	Creates a string map for the given axis .
+450	Updates the data in the given data .
+451	Formats an array of data .
+452	Generate a list of values
+453	Get the categories for the given axis .
+454	Returns the data for the given props .
+455	Get a list of string values from axis
+456	Get a list of categories from a category
+457	Get a list of strings from a data array
+458	Finds all axis components in a component .
+459	Gets the domain domain from the given axis .
+460	Returns the domain for the given axis .
+461	Fill the data for the given datasets .
+462	Update the current state
+463	Applies defaults to default options .
+464	Add baseline styles to the anchor
+465	Get the value of a claim value .
+466	Checks if the given brands are valid .
+467	Builds the reverse index from an object .
+468	Exports an object .
+469	Returns an instance of the given object .
+470	Checks if an object is an object
+471	Check if an object is a Node
+472	Check if an element is an element
+473	Checks if a node is a parent node .
+474	generate traversal handler
+475	Recursively recursively recursively recursively recursively .
+476	Creates a deep copy of an object .
+477	Get a deep property from an object .
+478	Transforms an object into an array .
+479	Run the given queue .
+480	Runs the given queue .
+481	Returns the legal box for the given box .
+482	Binds a function to the given context .
+483	Checks if the given descriptor is an accessor .
+484	Checks if the given descriptor is a data descriptor .
+485	Checks if the given descriptor is a constructor .
+486	Creates a default setter for the given key .
+487	Convenience function to compress a function
+488	Get the bound of the given object .
+489	Creates a new autobind .
+490	Sets the value of the queue .
+491	Creates an array of attributes and style attributes .
+492	Creates a new Vessel .
+493	Destroy all plugins
+494	Check if eventBinder is valid
+495	remove video time update
+496	Register events .
+497	Create a new BN
+498	Submits the gas usage .
+499	Get the block for the given block .
+500	Make a call
+501	Checks if the current state is empty
+502	Get data slice from data
+503	Checks the amount of gas and gas usage .
+504	Store the genesis block .
+505	Adds a block to the blockchain .
+506	Get the head of the blockchain .
+507	Runs the VM .
+508	Load the contract .
+509	Preprocess validations .
+510	Gets the start state of a block .
+511	run the block
+512	PaymmersAndMiner is used to pay a block from the block .
+513	Parse block results .
+514	Setup the state of the account
+515	run a transaction
+516	Checks the state of the state trie
+517	Reads the state of the storage .
+518	Handle a key .
+519	Records a key .
+520	Normalizes a sequence
+521	Finishes the recording .
+522	Create a new SetPolyfill .
+523	Search for fuzzy search string .
+524	Get a list of exported external functions
+525	Create an export button
+526	Converts a string to an entity
+527	Converts a string to a string
+528	Convert string to type
+529	Calculate the number of seconds .
+530	Convert data to a new array
+531	Export data to file
+532	Save data to file
+533	Creates a new session .
+534	Returns the target URI for the given platform .
+535	Clean up the dependencies directory
+536	Downloads libtensorflow
+537	Build the TensorFlow bindings
+538	Runs the buildtensorflow .
+539	Synchronously symlink to target path
+540	Move dependencies to dest
+541	Run the given action .
+542	Download and unpack a resource
+543	Convert CSS to AST
+544	Detects all options in a tree .
+545	Gets the options for the detected options .
+546	Returns a handler for the given option name .
+547	Checks if node is empty
+548	Get the prefix of a property name .
+549	Returns the extra indentation of the given nodes .
+550	Get extra indentation .
+551	Return the extra indentation of the given node .
+552	Recursively walk the nodes .
+553	Update the indentation .
+554	Update indentation node .
+555	Render the scene .
+556	Adds a vertex to this vertex .
+557	Remove a vertex from the vertex .
+558	Remove a face from a face .
+559	Remove all vertices from the given face .
+560	Add a new face to the mesh .
+561	Creates a new mesh .
+562	Set active faces .
+563	Find the closest edge of the vertex .
+564	Delete a vertex from the given edge .
+565	Add an edge to the face .
+566	Calculates the face of the face .
+567	Vertex node .
+568	Add a vertex to the list .
+569	Add a new vertex to the list .
+570	Add a vertex .
+571	Adds a vertex to the list .
+572	Add a new element to the list
+573	Called when the window is resize
+574	Log a message .
+575	Print a warning message .
+576	Throw an error .
+577	Combines the URL with the given URL .
+578	Creates a new PageViewport .
+579	Convert to viewport rectangles
+580	Create a PromiseCapability .
+581	Send message handler
+582	Send message handler
+583	post message
+584	Hook to add a callback to the stack
+585	Called when the window is resize
+586	Called when a window is pressed
+587	Handle mouse move event
+588	Handles the scene .
+589	Load sequence data from files
+590	Initialize the scene .
+591	Initialize the renderer
+592	Update localizer
+593	Maps the canvas to the canvas .
+594	Get the shortlinker instance
+595	Constructs a sentence .
+596	Associates the Assertion .
+597	Creates a DeviationFragment .
+598	Sort results .
+599	Map a result to a score
+600	Map results to a list of results .
+601	Participle .
+602	Creates a new instance .
+603	Returns a list of blocks from the given text .
+604	Format a number .
+605	Participle .
+606	Determine if the given part is a valid exception .
+607	Get the beginning of a sentence .
+608	Calculates the text presence of a paper .
+609	Split a sentence into words .
+610	Creates a list of sentences .
+611	Split a sentence into words .
+612	Creates a new snippet preview .
+613	Verifies that the given arguments are valid .
+614	Returns a list of wordCombinations .
+615	Calculates the occurrences of a wordCombination .
+616	Get a list of wordCombinations .
+617	Sort wordCombinations .
+618	Filter wordCombinations .
+619	Returns a list of word words that match the given function .
+620	Filters a list of words at the beginning of a function .
+621	Returns a list of words at the end of the given function .
+622	Filters the function words at the beginning of a function .
+623	Filter a list of wordCombinations .
+624	Filter a list of wordCombinations .
+625	Filters a list of combinations .
+626	Filter a list of combinations .
+627	Returns a list of words for the given language .
+628	Construct a WordCombination .
+629	Creates a new assessment .
+630	Constructs a MissingArgumentError .
+631	Creates a new sentence .
+632	Returns a list of subheadings of the given text .
+633	Get all sentences from a block
+634	Create a worker
+635	Associates aessor
+636	Creates a new store .
+637	Remove links from text
+638	Remove images from text
+639	Checks if the given text is empty .
+640	Get the relevant words .
+641	Returns the base URL of the app .
+642	Update unformatted text
+643	Rate title length
+644	Rate meta description
+645	Updates the progress bar .
+646	Get the title of the page
+647	Get the meta description
+648	Show trace .
+649	Get indices by word .
+650	Finds all words in a sentence .
+651	Sort a list of indices .
+652	Finds all words in a sentence .
+653	Create a measure element
+654	Initialize the plugin .
+655	Initializes the default resolver .
+656	Checks if two URLs are equal .
+657	Checks if the given url is an internal link .
+658	Returns the number of syllables .
+659	Returns the number of syllables for the given word .
+660	Creates an array of deviation fragments from a syllable config .
+661	Removes all syllables from a word .
+662	Count the syllable of a word .
+663	Count the syllable of a word .
+664	Returns the number of syllables in the given locale .
+665	Get a list of word words
+666	Builds a dictionary of keyphrase forms .
+667	Collects all forms for a given key phrase .
+668	Returns a list of forms for a researcher .
+669	Create an InvalidTypeError
+670	Gets the regex from two arrays .
+671	Matches two strings .
+672	Returns a list of tokens that match the transition words .
+673	Match two sentences .
+674	Returns an array of indices of the given text .
+675	Gets the indices of the given character .
+676	Replaces all characters with the given index .
+677	Initialize a new score object .
+678	Parse a sentence .
+679	Initialize the browser .
+680	Convert readable stream to string
+681	Authenticate the user
+682	Search for items
+683	Delete items
+684	Removes items from the queue .
+685	Determine if the given subject is a valid type
+686	Create a new instance of a new instance
+687	Determine if the subject is a share .
+688	Checks if the given content type matches the given content type .
+689	Creates a query .
+690	Mouse click event .
+691	Remove all rows from the view
+692	Add wildcard buttons
+693	Returns the label of the subject .
+694	Determine whether the subject is a subject or not .
+695	Returns the annotated document .
+696	Gets the sortBy property .
+697	Sets the selected object
+698	set the xupdate status
+699	Delete a post
+700	batch delete statement
+701	Display the form for a relation .
+702	Returns a human readable description of a subject .
+703	Draw the query and save the query
+704	Loads a store
+705	Returns a list of objects that match the given path .
+706	Parses the given subject .
+707	Generate a tree tree for a subject
+708	Creates an object tree tree .
+709	Renders the subject of the subject
+710	Determine if a subject is a container
+711	Removes a table from a table
+712	Called when an option is clicked .
+713	Handle file select
+714	Returns the SHA1 hash of the given buffer .
+715	Convert Markdown to text
+716	Generate a hash
+717	Encrypt a private key
+718	Encodes a message .
+719	Decrypt a private key .
+720	Convert ua to a word array
+721	Parses the given cryptowords .
+722	Computes the distance between this point .
+723	Handles focus event .
+724	Add an item to the list
+725	Clears the search options .
+726	Add multiple items to the list
+727	Removes an item from the list
+728	Check if the input is valid
+729	Close the dropdown .
+730	Inserts the given element at the given position .
+731	Render a template
+732	Update the metrics
+733	Parse descriptors .
+734	Extend style .
+735	Convert a style object to a dictionary .
+736	Create a resource namespace
+737	Parse the given arguments .
+738	Parse options .
+739	Creates a new constructor .
+740	Removes an object from an object .
+741	Safe exec function
+742	Generate a signature .
+743	Creates a new Stripe resource .
+744	Creates a new stripe method
+745	Get the user agent s user agent .
+746	Get user agent .
+747	Creates a share URL .
+748	Open a share .
+749	Touch a share .
+750	Open a share .
+751	Mounts the popup
+752	Loads and parses a file .
+753	Calculate the distance between the canvas
+754	Handles the mouse click event .
+755	Called when a drag is clicked .
+756	Get the control points between two points .
+757	Properties of a graph .
+758	Called when a drag is clicked
+759	Find the next point in the next point
+760	validate native format
+761	Creates a new canvas .
+762	Gets the size of a div .
+763	Creates a new Keycloak .
+764	Creates a new GrantManager .
+765	Constructor for rotation
+766	Configure keycloak .
+767	Enforcer constructor .
+768	Create a new token .
+769	Filters all CSS rules in an AST tree .
+770	Get style attributes
+771	Filter a list of allowed declarations
+772	Read a uint64 from the buffer .
+773	Check if a hash exists
+774	Reads the length of the packet .
+775	Get the version number .
+776	Sets the number of bytes .
+777	Emits an object .
+778	Sends a byte to the stream .
+779	Calculates the checksum of a byte .
+780	Removes the text from the text
+781	Scroll the log element
+782	Set filter value
+783	Sets the URL for the given URI .
+784	Initialize the logger
+785	Calculate the distance from the camera .
+786	Handle mouseDown event .
+787	Clone an object
+788	Navigate to a slide
+789	Update the current state
+790	Update progress bar
+791	Update the tab index .
+792	Returns an object with the given fields .
+793	Load a single file
+794	Populate a single file
+795	Loads the given map .
+796	Load settings .
+797	Read a file .
+798	Executes a GET request .
+799	Gets the user home directory .
+800	Create a new request .
+801	Log a request error .
+802	Get the name of a file .
+803	Write the page body
+804	Write all elements to the resolver .
+805	Make standardize function .
+806	Push a state to the browser .
+807	Replace the current state .
+808	Write a client bootstrap file to the output directory .
+809	Handle error interceptor
+810	Normalize an error .
+811	Wrap logger .
+812	Creates a new threshold based on defaults .
+813	Merges two objects .
+814	Checks if all scripts are ready .
+815	Creates a callback for loading a script .
+816	Called when a script is executed .
+817	request a script
+818	Execute a preloaded script .
+819	Execute a script .
+820	Called when the registry is ready .
+821	Called when the script is ready .
+822	Called when a script is executed .
+823	Advances the exec cursor .
+824	Initializes the script chain .
+825	Add a chain to the chain .
+826	Create a production build .
+827	Finds the path to the log file .
+828	Format a message .
+829	Load the package name .
+830	Generate typedocDocs
+831	Generate a component .
+832	Generate component name .
+833	Generate module file .
+834	Generate package json
+835	Generate public API ts file
+836	Read directory recursively recursively
+837	Copies the readme from the source file .
+838	Generate a template file .
+839	Highlight the given code .
+840	Generate HTML code for HTML code
+841	Determines the scope of the given node .
+842	Merge two objects .
+843	Defines the visitor for the given context .
+844	Checks if the case is not supported .
+845	Checks if node is not supported .
+846	Read package json file
+847	Get allowed modules
+848	Gets the top level of the given node .
+849	Returns a list of all exports of the given scope .
+850	Returns a list of all exports nodes in the scope .
+851	Get the location of a node .
+852	Ensure that module exports are not allowed .
+853	Ensure that the exports of the given global scope is allowed .
+854	Checks if a file is not ignored .
+855	Normalize a value
+856	Creates a filter that matches the given patterns .
+857	Combines a file path .
+858	Parses an option .
+859	Returns the name of the given type .
+860	Reports a deprecated warning .
+861	Get a list of possible extensions
+862	Get the default version
+863	Returns an array of ignored options .
+864	Check if key is ignored
+865	Checks if the given string matches the given pattern .
+866	Checks if the given node is trailing comma .
+867	Returns true if the given node is null .
+868	Reports the given node .
+869	Validates a regular expression .
+870	Validate a regular expression .
+871	Get file path
+872	Get module name .
+873	Checks if a file is a binary file .
+874	Returns a list of all existing extensions .
+875	Get the semver range from a file .
+876	Checks if the given file path exists .
+877	Get a list of paths
+878	Checks if a file is a valid file .
+879	Serialize attributes .
+880	Returns the module id for the given node .
+881	Removes a variable declaration .
+882	Returns the module path for the given module name .
+883	Transform an element in an element
+884	Process a file .
+885	Get custom component tags
+886	Gets the import filters for the given filter file .
+887	Get include template element
+888	Process an appSpecified media rule .
+889	Removes a declaration from a declaration .
+890	Process an app spec .
+891	Apply mixin to target .
+892	Flatten mixins into target object
+893	Add a builtin plugin .
+894	Normalize view plugins
+895	Handle a tag .
+896	Handle a filter .
+897	Initialize view transform options .
+898	Navigate to the router
+899	Compile a file .
+900	Create the init call arguments for the given declaration .
+901	Transform a MiniProgram .
+902	Get transform options
+903	Get page name
+904	Normalize a list of pages
+905	Normalize route info
+906	Add display page config
+907	Normalize window config
+908	Add a feature item to the given logger .
+909	Normalizes a feature item .
+910	Compiles a JSON file .
+911	Normalize a quick app .
+912	Get a template element from a template file .
+913	Parse template data
+914	Replace template variables with data
+915	Replaces an attribute variable with the given data .
+916	Update template data variable name
+917	Checks if the given name is a polyfill .
+918	Proxy data getter
+919	Add data change event handler
+920	Collects the dependencies of a property .
+921	Finds a list of computed properties of a given change .
+922	Initialize global components .
+923	Compile JSON file
+924	Initialize platform info
+925	Create a vf file .
+926	Try to resolve a module id
+927	Show event name .
+928	Get random string
+929	Sort default processors
+930	Add a file extension to an existing file extension
+931	Remove a file extension from a file extension
+932	Gets the list of files associated with the given processor .
+933	Initialize processor info
+934	Overrides the given object functions .
+935	Overrides an existing processor with the given options .
+936	Update reference processor info
+937	Registers an existing processor .
+938	Generate filter code
+939	Creates a hook for the API .
+940	Intercepts a promise .
+941	Helper function to hook API initialization
+942	Hook for the API call .
+943	Query component instance
+944	Initialize relations .
+945	Ensure polyfill support is valid
+946	Get the value of the given node .
+947	Creates a node .
+948	Remove comments .
+949	Handle a proxy event .
+950	Creates a new ComputedObserver .
+951	Creates a new ObserverObservable .
+952	Creates a new ObserverObservable .
+953	Initializes the polyfill plugins .
+954	Checks if the given plugin is a valid dependency .
+955	Normalize babel plugins
+956	Initialize babel processor options
+957	Start the build .
+958	Parse an event name .
+959	Initialize the plugin .
+960	Initialize component data
+961	Gets an instance of the given selector .
+962	Fetch data from url
+963	Normalize transformers
+964	Transforms an element to a template
+965	Transform text node .
+966	Analyze native components .
+967	Compile a file .
+968	update an array item
+969	Make an array Observable .
+970	Watch data change .
+971	Initialize JS processor .
+972	Initialize template processor
+973	Initialize style processor .
+974	Register wxs2 filter .
+975	Initialize processor .
+976	Process a file .
+977	Convert media query tokens to JS expression
+978	Checks if the media rule matches the given media type .
+979	Normalizes app media query tokens .
+980	Initialize app media target
+981	Initialize the app media query token .
+982	Parse app media query params
+983	Compile a file .
+984	Initialize the plugin .
+985	Initialize processor .
+986	Creates a confirm dialog .
+987	Wrap an object .
+988	Initialize the girder .
+989	Sort operations .
+990	Format a date string .
+991	Format the size of the given size .
+992	Format a number .
+993	Returns the sort direction of the given model .
+994	Compares two strings .
+995	Add a file to the manifest .
+996	Sign a manifest .
+997	Clone an object
+998	Calculate the number of nano seconds .
+999	Get the timestamp of the given epoch .
+1000	Try to shutdown the worker
+1001	Add an item to the layout
+1002	Sets the height of the row .
+1003	Creates a new row .
+1004	Add a new path to the storage
+1005	Set the activate handler
+1006	Determine if a path is found
+1007	Creates a new scope .
+1008	Remove scope mode
+1009	Get meta title from filename
+1010	Get base name from path
+1011	Initialize the user
+1012	Update a file .
+1013	Delete a file .
+1014	Get information about the user .
+1015	Upload a file .
+1016	Upload a file to a file .
+1017	Get the content of a file .
+1018	Get file id
+1019	Creates a folder for the given path .
+1020	Create a new file with the given path .
+1021	Get the file id .
+1022	Get metadata for a file
+1023	Unhooks getItemURL
+1024	Add a new event listener
+1025	Remove a handler from the list of handlers
+1026	Discover a user by address
+1027	Initialize the dropbox
+1028	List all files in the Dropbox API .
+1029	Download a file .
+1030	Create a shared link
+1031	Get the current user s account .
+1032	Delete a file
+1033	Get a list of shared links
+1034	Hook for syncing a dropbox
+1035	Unhook sync sync .
+1036	Hook for the sync cycle .
+1037	Unhook sync sync cycle .
+1038	Helper method to hook the getItemURL
+1039	Extract features from a chunk
+1040	Get video id from url
+1041	Get time from url
+1042	Called when all tables are selected .
+1043	Handle table data
+1044	Returns the offset of the cursor .
+1045	Create an import specifier .
+1046	Get rule codes
+1047	Add a word to the buffer .
+1048	Generate a list of words .
+1049	Check if the given value is valid .
+1050	Add a word to the dictionary .
+1051	Check if a value is in the given value .
+1052	Normalize a value
+1053	Formats the given value .
+1054	Construct a NSpell object .
+1055	Add a value to the collection
+1056	Parse the given buffer .
+1057	Parse a line .
+1058	Returns the casing of a string .
+1059	Apply the given value to the given rule .
+1060	Spell word .
+1061	Add a compound rule .
+1062	Checks if a value matches the given value .
+1063	Convert the model to JSON
+1064	Merge view data
+1065	Returns the attributes for the view .
+1066	Render the template
+1067	Gets the HTML tag .
+1068	Sets the parameters for the view .
+1069	Get app attributes
+1070	Call the given action .
+1071	Register a route .
+1072	Unmarshal a public key .
+1073	Generate a PbKDF2 .
+1074	Get the raw header of a block .
+1075	Initialize matic client
+1076	Match a pathname .
+1077	Redirect to a route .
+1078	Extract the entities from the given action .
+1079	Get error message .
+1080	Cancels the main task .
+1081	Called when the context is triggered .
+1082	Update the attributes of an element .
+1083	Called when the component was changed .
+1084	update event listeners
+1085	Add event listeners
+1086	Remove event listeners
+1087	Make sure all routes are safe
+1088	Parse Authorization header .
+1089	Get Authorization header
+1090	Parses a string .
+1091	Install Cef .
+1092	Download a cef tarball .
+1093	Check if filename matches globals
+1094	Gets the CORS request .
+1095	Get reply method
+1096	Creates a new Observable for the given channel .
+1097	get send method
+1098	Listen for a given id .
+1099	Get the object and parent of the given path .
+1100	execute main process method
+1101	Parse a GGA string into a dictionary
+1102	Parses a GSA string .
+1103	Parse RMC data .
+1104	Parse a GSV string into a structure
+1105	Compute index chunks from buffer .
+1106	Create a close button
+1107	Called when a popup is clicked
+1108	Determines if the element is a bounding box .
+1109	Main entry point .
+1110	Creates a new WebView .
+1111	Process the given props .
+1112	Write headers to file
+1113	Checks if the given name matches the regular expression .
+1114	Show help message
+1115	Create a RoboHydraHeadType instance
+1116	Proxy a request to a request
+1117	Creates a new BigIq license provider
+1118	List private key
+1119	Create a new traffic group
+1120	helper function for creating a new instance
+1121	Gets the number of running processes
+1122	Initializes the encryption key .
+1123	Get master instance .
+1124	Mark the versions of the given instances .
+1125	Checks if master is external value
+1126	Get data from a property array
+1127	Checks if a task is running .
+1128	Creates a BigIQ54 license provider .
+1129	Encrypt a public key
+1130	Get the label of the module .
+1131	Get license provider
+1132	Force reset user password
+1133	Ends the progressy operation
+1134	Initialize tab contents .
+1135	Recalculate coverage tab
+1136	Selects a tab .
+1137	Compares an ascending order .
+1138	Flatten an array .
+1139	Returns an array of elements from a collection .
+1140	Reduce a collection of values from a collection .
+1141	Returns a random sample from a collection .
+1142	Binds a function to a function .
+1143	Bind all functions to an object .
+1144	Curry a function .
+1145	Wrap a value .
+1146	Mixin function .
+1147	Merges the given extension into the target object .
+1148	Generate a filter .
+1149	Generate a filter
+1150	Generate a filter
+1151	Sets the scale .
+1152	Get the coordinates of the node .
+1153	Calculate the coordinates of a point .
+1154	Calculates the point of this point .
+1155	Returns a copy of this vector .
+1156	Returns a copy of this vector with the given distance .
+1157	Returns the intersection of the polygon
+1158	Adds a rectangle to this rectangle .
+1159	Calculates the closest point to the given point .
+1160	Calculates the points of the given knots .
+1161	Returns a list of links for the given model .
+1162	Sets the links for the given model .
+1163	Set the value of the attrs attribute
+1164	Find the magnet element
+1165	Returns the selector for the given element .
+1166	Render the markup
+1167	Set the value of a label .
+1168	Watch the end of a link
+1169	Add a vertex to the graph
+1170	Finds the middle vertex between two points .
+1171	Get the view of a cell
+1172	Returns true if the given point contains the given point .
+1173	Finds the bounds of the view .
+1174	validate command
+1175	Check if a command is valid
+1176	Get value from cell
+1177	Converts a value to a boolean value .
+1178	Finds the minimum rank of a node .
+1179	Determines the depth of the given node .
+1180	Redirects a vertex to a node .
+1181	Construct a new Set .
+1182	create canvas
+1183	Registers an event on an element
+1184	Event handler for events .
+1185	Build config from env
+1186	Create image data
+1187	Get image data from source
+1188	Convert options to stdout
+1189	Updates the time for the given element .
+1190	Redirect to the given error
+1191	Create a new instance of the model .
+1192	Returns true if the range intersecting the given range .
+1193	Remove a range from the selection .
+1194	Returns true if the array contains the given needle .
+1195	Wrap the matched matches in the matched text .
+1196	Parses the given HTML element and returns it .
+1197	Create a sandbox .
+1198	Inserts a node into the DOM .
+1199	Selects a node .
+1200	Gets the merges between two text nodes .
+1201	Returns the value of the given command .
+1202	Checks if node is a blank text node .
+1203	Gets the previous sibling of a node .
+1204	Gets the next sibling .
+1205	Removes a line break from the given node .
+1206	Execute a command .
+1207	Update the field s value .
+1208	Set the element to be opened .
+1209	Parses the contents of the editor .
+1210	Get a list of parameters
+1211	Returns a map of parameters
+1212	Get authorization header .
+1213	Correct timestamp from script
+1214	Sign a message .
+1215	Initialize the accessor
+1216	Create a new signature method .
+1217	Make a new signature method .
+1218	Process initial data .
+1219	Returns the vendor name for the given property .
+1220	Set the style of an element
+1221	Merge two objects .
+1222	Get the position of the element
+1223	Splits a string into an array
+1224	Install a mouse move event
+1225	Returns a function that evaluates the given formula .
+1226	Checks if a formatter is valid
+1227	Default tokenizer
+1228	Creates a new class .
+1229	Initialize the selector
+1230	Initialize dropdown .
+1231	Create a new SubEmitterSocket
+1232	Creates a PubEmitter socket .
+1233	Converts a string to a regular expression .
+1234	Create a new socket .
+1235	Node constructor .
+1236	Create a new AST node .
+1237	Returns the next token .
+1238	Replaces special characters with double quotes
+1239	Parse an offset .
+1240	Reads a node .
+1241	Parses the input from the input stream .
+1242	Checks if the input has been entered .
+1243	Reads a node .
+1244	Read a constant declaration .
+1245	Parses a member flags .
+1246	Reads a node .
+1247	Parse static lookup .
+1248	Creates a new parser .
+1249	Parse a comment .
+1250	Parse a block .
+1251	Read a static variable .
+1252	Find the file corresponding to the given chunk id .
+1253	Finds the closest ancestor of the given target .
+1254	Finds the closest common ancestor between two chunks .
+1255	Add an animation to the page .
+1256	Updates the DOM node s properties .
+1257	Initialize a component .
+1258	Update a component .
+1259	Destroy a component
+1260	Destroy a component .
+1261	Encodes a UUID into a string .
+1262	cleanup filter
+1263	Filter the sidebar
+1264	Toggle the navigation .
+1265	Returns a handler for a filter .
+1266	Returns a function that returns a function that can be resolved by the given context .
+1267	Clean up a name
+1268	Computes a random number of random characters .
+1269	A BenchmarkSuite .
+1270	Run next setup .
+1271	Send a packet .
+1272	Create a new timer event .
+1273	Calculates the distance of a given timestamp .
+1274	Returns a string representation of this RegExpression .
+1275	RSet public key
+1276	private RSA private key
+1277	Returns a list of available locales for the given service .
+1278	Adds a property to the object
+1279	Adds the given value to the given object .
+1280	Convert options to LDML string
+1281	Convert a LDML string into a DateTime object .
+1282	Converts a date to a locale time .
+1283	Locates a PCI device .
+1284	Construct a binary constraint .
+1285	Checks if two vectors are equal .
+1286	Push an array to an array .
+1287	Creates an array of elements that match the given function .
+1288	Creates a copy of an array with the given start .
+1289	Returns an array of elements that match the given predicate .
+1290	Finds an array of elements in the array .
+1291	Returns an array containing the elements of this Array .
+1292	Get a method from obj
+1293	Creates a new string iterator .
+1294	Make a mirror .
+1295	Concatenate string to string
+1296	Set the value of a promise .
+1297	Checks if the given handler is a valid promise .
+1298	Collects all links from the list of nodes
+1299	Creates a temporary breakpoint for the given script .
+1300	Builds a CodeInfoTree tree from an array .
+1301	Process the internal code .
+1302	Finds a list of wrappers
+1303	Construct a FunctionCompileInfo object .
+1304	Checks if the scope context is changed .
+1305	Describe a change tree .
+1306	Make a breakpoint
+1307	Construct a ScriptBreakPoint .
+1308	Update script break points
+1309	Converts an array into a JSON array .
+1310	Convert a value to a protobuf value .
+1311	Runs the scheduler .
+1312	Construct a scheduler .
+1313	A task control block .
+1314	Create a new IdleTask
+1315	Construct a WorkerTask
+1316	A packet .
+1317	Calls ccall function .
+1318	Add a function to the module
+1319	Find package .
+1320	Returns true if the argument is a multisource .
+1321	Resolve file name
+1322	Checks if two strings are equal .
+1323	Determines if two states are equal .
+1324	Checks if the given class is a simple range .
+1325	Get range from text
+1326	Checks to see if the class is a class range .
+1327	Convert a string to a string .
+1328	Checks the given flags .
+1329	Parse a group reference .
+1330	Validates a unicode group name .
+1331	Creates a node .
+1332	Returns the location of the given start position .
+1333	Checks if the given expression is meta .
+1334	Traverse an AST node .
+1335	Extracts the first part of the first element .
+1336	Convenience function for merging two fragments .
+1337	Generate a node
+1338	Determine if the given value is in a character .
+1339	Convert a disjunction node to a list .
+1340	Install an algorithm .
+1341	Uninstall an algorithm .
+1342	Try to find an algorithm .
+1343	Returns the name of the given hashstr .
+1344	Verify a hash string .
+1345	Sanitize properties .
+1346	Returns a list of all the server interfaces .
+1347	Ping a server
+1348	Parse a list of rows
+1349	Parse a single line
+1350	Called when a time is entered .
+1351	Configure the selenium server
+1352	Scroll action .
+1353	Create a mock xhr request
+1354	get local module version
+1355	Fetches the next NPM versions .
+1356	Recursively serialize all methods .
+1357	Convert response to JSON
+1358	Callback for each item
+1359	Get the local host certificate .
+1360	Download a mkcert executable
+1361	Create a new cert
+1362	Remove app data
+1363	Clones an object .
+1364	Delete tags
+1365	Create details for details .
+1366	Create a custom action
+1367	List log logs
+1368	Update a saved search
+1369	Optimize a file
+1370	Read data from file
+1371	Applies defaults to defaults .
+1372	Parse Forwarded header value
+1373	Load the config file
+1374	Infer the master locale
+1375	Get the workflow GUID for the workflow .
+1376	Recursively recursively recursively recursively recursively .
+1377	Fallback to fallback
+1378	Get the workflow GUids for a workflow
+1379	Convert a file to a S3Params object
+1380	Creates a new Publisher .
+1381	Creates a ZarinPal payment
+1382	Define a deferred promise .
+1383	Parse the response
+1384	Display a text header
+1385	Get cluster state
+1386	Allocate all workers for the given execution
+1387	Get a chunk of data from the given slice .
+1388	Finish execution .
+1389	Get active execution context
+1390	Generate cluster state
+1391	Error handler
+1392	Allocate all available workers .
+1393	Get a single record
+1394	Verify status update .
+1395	Attach aRooms socket to the socket
+1396	Convert raw data to an array .
+1397	Convert incoming data into a DataEntity
+1398	Convert incoming data to CSV
+1399	Close the transform stream .
+1400	Close the stream .
+1401	Loop through the stream .
+1402	Add a read operation to the stream .
+1403	Cancel a readable stream .
+1404	Called when the controller is closed .
+1405	Called when a stream is closed .
+1406	Add a write request to the stream .
+1407	Checks if the object is writable .
+1408	Creates a writable stream .
+1409	Abort a writable stream .
+1410	Writes a writeable stream to the controller .
+1411	Creates a new promise with the given iterator .
+1412	Returns a list of URIs
+1413	Returns a sorted array of classes .
+1414	Sets the loader to the loader .
+1415	Create a directory .
+1416	Load the source code .
+1417	Find all resources and resources
+1418	scan for all libraries
+1419	Reads and parses the database .
+1420	Reads the database file .
+1421	Parse a jsonlint
+1422	Add a class name to this class
+1423	Loads the cldr .
+1424	Returns a translation object for the given locale .
+1425	Get all translations for a language
+1426	Get symbol type by name
+1427	Returns the library for the given class name .
+1428	Returns the path to the given class name .
+1429	Removes an environment check .
+1430	Returns the version of the QoDooDooDooDooDooDooDooze .
+1431	Returns the path to the resource .
+1432	Parse a comment .
+1433	Returns the path to the lockfile .
+1434	Load the contrib file .
+1435	Get repository tag by name
+1436	Get a library by name
+1437	Gets the cache .
+1438	Write the cache
+1439	Write cache to disk
+1440	Expand a member expression .
+1441	Parse the source file
+1442	Add a class to the stack .
+1443	Pop a class from the stack
+1444	Create a new scope .
+1445	Add a new node to the scope .
+1446	Set the value of a variable .
+1447	Checks if a variable exists .
+1448	Add a name to the scope .
+1449	Remove a name from the scope .
+1450	Add a name to the scope .
+1451	Checks if the given name matches the given name .
+1452	Ensure that the environment is required .
+1453	Require a class
+1454	Add a path to the required assets
+1455	Returns the path to the given class .
+1456	Returns the filename for the given class name .
+1457	Finds the first element in the array
+1458	Removes all files from the compiler .
+1459	Get a list of pages
+1460	Loads the templates from the given files .
+1461	Generate the site
+1462	Compiles the CSS .
+1463	List all contribs
+1464	Read the contents of the file .
+1465	Write data to file
+1466	Returns a translation object for the given id .
+1467	Find the library path .
+1468	Get application path .
+1469	Parse a file .
+1470	Get the qx path from the application .
+1471	Get the application path .
+1472	Get the version of the package
+1473	Executes a command .
+1474	Executes a command
+1475	Load YAML command .
+1476	Log a message .
+1477	Formats a message .
+1478	Returns a string representation of a message .
+1479	Parse environment variables
+1480	Migrate application .
+1481	Returns the target target class .
+1482	Reads and parses the json file .
+1483	Scan a directory
+1484	Add an asset to the library
+1485	Add library libraries
+1486	Loads the manifest .
+1487	Converts a string to an object
+1488	Load a JSON file
+1489	Write data to file
+1490	Creates a copy of a file .
+1491	Returns a promise for the given filename .
+1492	Remove a file
+1493	Renames a file .
+1494	Removes a directory
+1495	Returns the absolute path of the given directory .
+1496	Define environment variables
+1497	Scale columns by a group
+1498	Get total flexGrow
+1499	Force fill column widths
+1500	Parses a GET request .
+1501	Clears the given request .
+1502	Parse a single OID string .
+1503	Parses the given options .
+1504	Defaults to target
+1505	Compare two OIDs
+1506	Session constructor .
+1507	Returns true if oid is in tree
+1508	Creates a buffer with the given type .
+1509	Convert OID to a byte array
+1510	Convert an integer to an array .
+1511	Ensure the current token is fresh .
+1512	Convert a value to an array
+1513	Scales the size of the given graph .
+1514	Computes the depth of the graph .
+1515	Sorts a link between two links .
+1516	Checks if a link is a link
+1517	Find node by id
+1518	Compute node links
+1519	Calculate the angle of a link
+1520	Check if two links are circular
+1521	Returns the number of non - circular links in the given node .
+1522	Checks if a link is circular .
+1523	Checks if two nodes are overlap .
+1524	Perform a GET request .
+1525	Executes a command .
+1526	Send a private key
+1527	Spawn a child process
+1528	Spawns a child process .
+1529	A cas strategy .
+1530	Create a new CAS server
+1531	Creates a template .
+1532	Compile the template
+1533	Finds the pathname from the base directory .
+1534	Create a postman sandbox
+1535	Extend an instance of a class .
+1536	Build an object instance of object instance methods
+1537	Iterate over an array of arrays .
+1538	Collide two strings .
+1539	Collects the arguments from the given arguments .
+1540	Get a format object from an array
+1541	Gets the week number .
+1542	Format a date .
+1543	Compares a date .
+1544	Compile the bundle .
+1545	Create a new Foscamam instance
+1546	Put a point into an octant .
+1547	Fetch a point from an octree .
+1548	Move a point to an octant .
+1549	Finds all points inside a point .
+1550	Recursively cull the given octant .
+1551	Finds the octant by depth .
+1552	Finds the octant octant entry for the given point .
+1553	Finds the next octant of the current octant .
+1554	Performs a raycast on an octant .
+1555	Create a deferred promise .
+1556	Wraps a promise with a timeout .
+1557	Wait for an event
+1558	Promisify function .
+1559	Promisify method .
+1560	Promisify methods .
+1561	Promisify all functions .
+1562	Removes all methods from the Promise .
+1563	Asserts that a promise is checked .
+1564	convert promise to callback
+1565	Summarize an array of stats
+1566	Traverses the given file .
+1567	Watch a file .
+1568	Install watcher
+1569	install development watcher
+1570	Find all files in a directory
+1571	Get the height of the element
+1572	Get absolute page url .
+1573	Create thumbnails for images
+1574	Create a template .
+1575	Get template path
+1576	Registers the templates for the given folder
+1577	Get the thumb name of the image .
+1578	Creates a relation .
+1579	Copy all required files
+1580	Checks if a file is a data file .
+1581	Start watcher .
+1582	Returns true if value is empty .
+1583	Initialize a clone by tag .
+1584	Compile TS file .
+1585	Converts a number to a hex string .
+1586	Reset all styles .
+1587	Returns an array with the given range .
+1588	Returns the category for the given code .
+1589	Update sticky stack
+1590	VFile constructor
+1591	Create a new message
+1592	Get the config for a project
+1593	Convert config to code
+1594	Generate a new packet .
+1595	Creates a new route .
+1596	Creates a visitor .
+1597	Writes the content of the content of the given string .
+1598	Update current indent .
+1599	Parse command line arguments
+1600	Run the module .
+1601	Evaluate a script
+1602	Compile a file
+1603	Compile a file
+1604	Make a directory path
+1605	read from stdin
+1606	Determines if a node is a node .
+1607	Convert src to chunks
+1608	Convert chunks to source map
+1609	Parse YAML file
+1610	Writes the common JS code .
+1611	Writes an IIFE function to an IIFE .
+1612	Write the Ramda function as a global stub .
+1613	Sets the next subpacket .
+1614	Sends a batch of files .
+1615	Remove ignored bytes from byte array
+1616	Finds the first occurrence of the haystack .
+1617	Register an event .
+1618	Parse status block .
+1619	Parse command line interface .
+1620	Parse scan results
+1621	Parse scan results .
+1622	Parse a status block
+1623	Parses stdout and returns a callback
+1624	Expands the given options .
+1625	Parse a status block
+1626	Parse scan .
+1627	Create the content of an item
+1628	Returns the closest element of the given element .
+1629	Add a class to an element
+1630	Remove a class from an element
+1631	Checks if an element has a class name .
+1632	Gets the next sibling of the element .
+1633	Get the list of siblings of the element .
+1634	Unique country data
+1635	Initialize a new class
+1636	Creates a new class .
+1637	Check if an object exists in an object
+1638	Returns the number of keys in this object .
+1639	Checks if the given element is a class .
+1640	Start capture .
+1641	Stops the capture
+1642	Update the current state
+1643	Clears the UI
+1644	Creates a new request object
+1645	Set the current capture
+1646	Draws the server
+1647	Resizes the screen size
+1648	Draws the image
+1649	Sets the pix_per_per_per_per_Persec_per_Persec_per_Persec
+1650	Creates a path to a path
+1651	generate a path
+1652	Add a new cursor
+1653	Returns the x coordinate of the given time .
+1654	Get the process tree
+1655	List all processes
+1656	List the PID tree
+1657	Get list of PIDs
+1658	Run a command .
+1659	Parses the process tree .
+1660	Bootstrap the server
+1661	Remove a listener
+1662	Create a new model instance
+1663	Validate options .
+1664	Builds the page
+1665	Convert a browser property to an object .
+1666	Called when a plugin is received
+1667	Gets the callback for the browser .
+1668	Parses the password .
+1669	Initialise a listener
+1670	Handles the callback .
+1671	Gets the window handle for the browser .
+1672	Initialise the bluetooth plugin
+1673	send vibration request
+1674	Initialise Bluetooth Bluetooth device .
+1675	Starts the plugin .
+1676	Called when a plugin is discovered .
+1677	Extracts a Marker from a line .
+1678	Tokenize HTML tags
+1679	Tokenize a definition .
+1680	Tokenize tokenize
+1681	Parse a file
+1682	SoftReplace content .
+1683	Generate a nonce
+1684	Checks if two arrays are equal .
+1685	Destroy a node .
+1686	Get the next render node .
+1687	Get the previous view of the view .
+1688	Get a context node by id
+1689	Sets the given context node .
+1690	Resolve the size of a render node .
+1691	Returns a rounded value for the given property .
+1692	Performs a callback for each renderable .
+1693	Gets the direction of the layout .
+1694	Returns the view sequence at the given index .
+1695	Handle mouse down event .
+1696	Start touch event .
+1697	Handle a touch event .
+1698	Scroll the scroll event .
+1699	Sets the velocity of the particle .
+1700	Calculate scroll offset
+1701	Snapshot the scroll position
+1702	Normalizes previous view sequence .
+1703	Get visible item
+1704	Move the view sequence to the scroll position .
+1705	Ensure that the view sequence is visible .
+1706	Go to the next page .
+1707	Recursively render the DOM .
+1708	Sets the state of pullToRefreshStatus .
+1709	Constructs a ViewStackLayoutLayout .
+1710	Create the layout .
+1711	Get the spec for the specified item
+1712	Get the transferable for the given item .
+1713	Initialize transferable animations .
+1714	Ends the transferable animations .
+1715	Process animations .
+1716	Initialize the show animation
+1717	Start the show animation
+1718	Halt the item at the specified position .
+1719	Initialize the hide animation .
+1720	start hide animation
+1721	set item options
+1722	Update the state of the view .
+1723	Base constructor .
+1724	Get the date from scrollwheels
+1725	Create the layout
+1726	Handles click event .
+1727	Create the overlay
+1728	Sets the selected item .
+1729	Sets the listeners for the tab .
+1730	Updates the view .
+1731	Resolve node size
+1732	Create font layout .
+1733	Removes all dependencies from the given dependencies .
+1734	Encodes the given payload .
+1735	Main entry point .
+1736	Loads a tile from a tile
+1737	Loads an auth vector from the given url .
+1738	Configure geometry source .
+1739	Hydrate layer group .
+1740	Increments the given version .
+1741	place the layer with the given id
+1742	Move a group to a group .
+1743	Change data from source
+1744	Convert a map to a map .
+1745	Add random points to the store
+1746	Strip zeros .
+1747	Decode parameters from data .
+1748	Encodes a method signature .
+1749	Encode method .
+1750	Decode a log item .
+1751	Decode an array of events into an array of events .
+1752	Loads the image .
+1753	Returns a list of all keys in redis
+1754	Delete a queue
+1755	Returns a new instance of the queue
+1756	Get a job by id
+1757	Add data to queue
+1758	Removes a job from the queue .
+1759	Get a queue for a given type .
+1760	Get jobs from queue
+1761	Create a redis client .
+1762	Executes a multi - batch operation .
+1763	Create an I18n middleware middleware
+1764	Handle a group .
+1765	Emits keypress events .
+1766	Writes the cursor to the cursor .
+1767	Move cursor to cursor
+1768	Converts a value to a compute .
+1769	Create helper options .
+1770	Checks if the given value is an HTML string .
+1771	Debug helper .
+1772	Evaluate the given helper options .
+1773	Create a new text section .
+1774	Returns the type of the given type .
+1775	Generate a Markdown table .
+1776	Builds the docs for the given api .
+1777	Flushes a callback .
+1778	Initialize the WCT source .
+1779	Expand a URL to a base URL .
+1780	Get the prefix of the script
+1781	Draws an SVG icon .
+1782	Loads the suites .
+1783	Loads js suites .
+1784	Run mocha
+1785	Injects Mocha .
+1786	Loads the environment variables
+1787	Listen for errors
+1788	Add a helper to the given helper
+1789	Add local tasks to the submodule
+1790	Load all files in the given directory .
+1791	Runs the command .
+1792	Executes the webdriver .
+1793	Update the webdriver .
+1794	Initialize the JUnitReport
+1795	A USB process .
+1796	RemoteWritable stream .
+1797	Remote readable stream .
+1798	Log a Tessel connection .
+1799	Parse a path .
+1800	Creates a ChartJSProvider
+1801	Split a string into a string
+1802	Parse a dollar expression .
+1803	Gets the expression from the given input .
+1804	Returns a collection with the given selector .
+1805	Creates a new instance of ui .
+1806	Handles an event .
+1807	Sets a property value .
+1808	Scroll the row at the specified index .
+1809	Returns the DOM for the given type .
+1810	Returns an array of all items in the collection .
+1811	Create a new element
+1812	Calculate the bounds of the element
+1813	Parses an icon .
+1814	Initializes the context .
+1815	Binds all events to the given context .
+1816	Unbinds all registered events
+1817	Trigger an event .
+1818	Creates a S3Receiver .
+1819	Normalizes a protocol .
+1820	Build a SVG from a path .
+1821	Requests the given options .
+1822	Pretty print the result
+1823	Add a new value to the macro .
+1824	Add a tag to the current tag .
+1825	Returns the type of the given value .
+1826	Set default headers
+1827	Get API version
+1828	Get token by name
+1829	Creates a new next run .
+1830	Send a JSON request
+1831	Get the longest array of arrays .
+1832	Load a script
+1833	Loads a stylesheet
+1834	Save warning .
+1835	Handle an error .
+1836	Respond to the response callback
+1837	Cloud monitoring .
+1838	Create a new Nagios instance
+1839	Create new Relic
+1840	Create a PagerDuty instance
+1841	Create a new stack .
+1842	Render a template .
+1843	Handle an error .
+1844	Render callback .
+1845	Get login .
+1846	Attempt to attempt to authenticate the user .
+1847	Get the stacks
+1848	Get all deployments
+1849	Get the deployment summary
+1850	Construct a Jenkins instance
+1851	Find all items in the collection
+1852	Returns a new instance of this object
+1853	Add a function to the wrapper .
+1854	Runs a function with the given context .
+1855	Convert an abbreviation to a string
+1856	Log a message
+1857	Adds a child to this node .
+1858	Create a new abbreviationNode
+1859	Returns an array of attributes .
+1860	Sets an attribute value .
+1861	Returns a string representation of this node .
+1862	Returns the deepest child of this node .
+1863	Parse an abbreviation .
+1864	Find output placeholders .
+1865	Inserts the content of a node .
+1866	Add a value to a token
+1867	Tokenize a token .
+1868	Returns whether the given content is a newline .
+1869	Parses the given source .
+1870	Gets the current line .
+1871	Convert strings to a string
+1872	Creates a new line with indentation .
+1873	Split text into a new line
+1874	Creates a range from a text string .
+1875	Creates a Range object from a range .
+1876	Add a function to the list
+1877	Remove a function from the list
+1878	Get the settings from the system .
+1879	Finds a snippet by name .
+1880	Returns the parsed value for a given name .
+1881	Get the action name from the menu .
+1882	Get the output profile .
+1883	Gets the context node .
+1884	Returns the profile for the editor .
+1885	Determines if the content of the given editor is matched .
+1886	Determines whether or not the contents of the given editor should be checked .
+1887	Check if node is a block
+1888	Convert a string to an array
+1889	Convert data to a string
+1890	Create a matcher .
+1891	Process a text node .
+1892	Define a prefixed prefixed value
+1893	Get the value of the given name .
+1894	Get the value of a property
+1895	Get a dictionary of properties
+1896	Apply filters to a tree
+1897	Returns a list of filters .
+1898	Replaces the substring with the given value .
+1899	Get property by name
+1900	Returns a list of attribute names matching the given name .
+1901	Adds a value to the list .
+1902	Removes an element from the list .
+1903	Set the name of the source .
+1904	Returns the element inside the list
+1905	Sets the value of the value .
+1906	Sets the name of the property .
+1907	Removes whitespace tokens .
+1908	Find the value of a value .
+1909	Find parts of a string .
+1910	Returns the parts of the value
+1911	Parses the given content .
+1912	Add an attribute to the edit tree .
+1913	Returns the abbreviation of the given editor .
+1914	Parse an abbreviation .
+1915	Toggle HTML comment .
+1916	Toggle CSS comment .
+1917	Toggle the content of a comment .
+1918	Removes comments from the given string .
+1919	Creates a range of ranges from a source string .
+1920	Returns an array of class name ranges .
+1921	Create a list of ranges for a property .
+1922	Returns the matched range for a given CSS property .
+1923	Determine if the given editor matches the given direction .
+1924	Get the CSS name of a CSS file .
+1925	Decode data from base64
+1926	Update image size
+1927	Gets the image size for a file
+1928	Checks if the given snippet is a single property .
+1929	Normalizes a value
+1930	Find the prefixes for the given property .
+1931	Parse a list
+1932	Transform a snippet into a snippet .
+1933	Parse a snippet
+1934	Parse a linear gradient .
+1935	Fill all the positions of the given color stops .
+1936	Convert a direction to a string
+1937	Returns a list of properties for a given gradient .
+1938	Finds the gradient from a CSS property .
+1939	Expands the gradient outside the gradient .
+1940	Finds the gradient from the given position .
+1941	Parse a gradient .
+1942	Convert a gradient to a string .
+1943	Convert a gradient to a string .
+1944	Add an element to the collection
+1945	Remove an element from the collection .
+1946	Processes a class name .
+1947	Returns the indentation of the given node .
+1948	Checks if the given node is inside inline .
+1949	Returns a string representation of a tag .
+1950	Creates a string representation of a node .
+1951	Add a language to a language
+1952	Transmission error message
+1953	Sanitize data .
+1954	Get a list of all required properties .
+1955	Send required errors
+1956	Sender .
+1957	Append children to the given parent .
+1958	Returns an array of logical partitions .
+1959	Process a template
+1960	Replaces a variable with the given name .
+1961	Evaluate conditional conditions
+1962	Process a template
+1963	Evaluate condition
+1964	Default key generator
+1965	Get a list of available orders
+1966	Signout a user .
+1967	Lookup profiles by name
+1968	Get a session
+1969	Upload skin .
+1970	Fetch a user
+1971	Invalidate the cache
+1972	Get blocked servers
+1973	Get the status of the site
+1974	Fetch a profile history
+1975	Authenticate a user
+1976	Check if token is valid
+1977	Lookup a profile at a given date .
+1978	Set skin url
+1979	Convert a controller alias to a controller .
+1980	Encode the packet .
+1981	Check if message is valid
+1982	Returns the IP address of a message
+1983	Parse a resource
+1984	Gets the descendants of a component .
+1985	Flush pending padding .
+1986	Handles the event handler .
+1987	Called when an event is clicked .
+1988	Called when the element is clicked .
+1989	Handles blur events .
+1990	Generate a function that will return a function that will return a function that will return a function that will be used as a function .
+1991	Parse command line arguments
+1992	Process stdin .
+1993	Get the PIDs for the process
+1994	Process a file .
+1995	Run MochaWorker
+1996	Constructs a CucumberReporter
+1997	Find closest element by selector
+1998	Performs a delegate on an element .
+1999	Create a listener for a given selector .
+2000	Listen for a node .
+2001	Listen for an event list
+2002	Listen for a selector .
+2003	Get the attribute value for the given element .
+2004	Create a new AssetLoader
+2005	Constructs a FontLoader .
+2006	Update the size of the element .
+2007	Creates a new SizeWatcher .
+2008	Creates a new instance of this object .
+2009	Sets the position of the given entity .
+2010	Choose a point in the game
+2011	Creates a canvas .
+2012	Flip the given buffer in the given buffer .
+2013	Flip the given buffer .
+2014	Rotate an image .
+2015	Gets the data for the given keys .
+2016	Sets the data in chrome .
+2017	Construct a SoundManager .
+2018	Load a plugin .
+2019	Starts a plugin .
+2020	Stop all plugins
+2021	Start cozy .
+2022	Enables the given appor .
+2023	Disable the given appor .
+2024	Stops the cozy
+2025	Restarts the cozy .
+2026	Uninstalls a cozy .
+2027	Remove a plugin
+2028	Install a distribution
+2029	Print the distribution name
+2030	Save wallet data
+2031	Open a wallet
+2032	Calculate the address from a wallet .
+2033	returns a list of utxos
+2034	Create a config file
+2035	Load config file
+2036	Write the config file
+2037	Initialize the config
+2038	Copy a module to the destination directory
+2039	Add a manifest to the config
+2040	Removes an existing app .
+2041	Save plugin manifest
+2042	Delete a plugin
+2043	Enable a plugin .
+2044	Get the plugins
+2045	Get all apps
+2046	Loads an application .
+2047	Uninstall an application .
+2048	Get the manifest .
+2049	Send a message to the process .
+2050	Run a script
+2051	Sort the pitches
+2052	Parse a nav item
+2053	Checks if the user has access to the given page .
+2054	Register a toolbar .
+2055	Retrieve a list of toolbars .
+2056	Update the tool display .
+2057	Updates the toolbar .
+2058	Updates the toolbar .
+2059	Update the toolbar .
+2060	Remove a tool key
+2061	Registers a tool .
+2062	Adds a tool to the toolbar
+2063	Get a list of all elements of an element
+2064	Add an event listener
+2065	Remove an event listener
+2066	Add a duration from a moment .
+2067	Get language definition
+2068	Format a moment .
+2069	Add a time to the array
+2070	Create a date from a string
+2071	Make a date from a string
+2072	Loads a processor .
+2073	get json file
+2074	Checks if the given credentials are configured
+2075	Shutdown the client
+2076	Start the Sauce Connector
+2077	Parse response type
+2078	Create a plugin .
+2079	Compiles the given input path .
+2080	Create a new Theme object
+2081	Parse a record
+2082	Compiler compiler .
+2083	The plugin manager .
+2084	Load static config file
+2085	Normalizes a port .
+2086	Listen on the server
+2087	Converts a date to a date time .
+2088	Checks if node is a plugin
+2089	Resolve a module tree .
+2090	List all objects in the bucket .
+2091	Create a new class
+2092	Get the super method of this class .
+2093	Returns true if the given child is a sub - mixin .
+2094	Create a new file .
+2095	Renames an object .
+2096	Update the stats for a file .
+2097	Process a cache entry .
+2098	Prepopulate metadata
+2099	Check if cache is stale
+2100	Get an object id
+2101	Find a single document .
+2102	Remove a document from the database
+2103	Call this function .
+2104	Init model .
+2105	Get the asset dir
+2106	Retrieves the local product
+2107	Remove a token from the database
+2108	Remove a token from the store
+2109	Check if a tenant is valid
+2110	Require a model
+2111	Called when the connect middleware is done .
+2112	Creates a callback for the connect middleware .
+2113	Create a koa connect middleware
+2114	Make an ordinal word .
+2115	Returns true if notification is granted
+2116	Show a notification .
+2117	Creates an object with the given arguments .
+2118	Creates a new Okta API .
+2119	Creates an instance of Okta API .
+2120	Creates a new Okta API .
+2121	Construct a group
+2122	Change event handler
+2123	Convert a UTF8 array to a string
+2124	Returns the length of the given string .
+2125	Constructs a profile
+2126	Constructs a credentials object .
+2127	Make a request
+2128	Construct an app model .
+2129	Constructs an AppUserModel from an app .
+2130	Constructs an app group model .
+2131	Converts raw errors into an array .
+2132	Get the severity of the result .
+2133	Standard validation filter .
+2134	Converts a boolean value to a numeric value .
+2135	Reset the size of the element
+2136	Creates a new resize event .
+2137	Wrap a mock function .
+2138	Run a test .
+2139	Run a test .
+2140	Prepare the JSON representation of a share
+2141	Checks if the given content is valid .
+2142	Add an expression to the match .
+2143	Refresh the given entry .
+2144	Link the next entry
+2145	Set the value of an attribute .
+2146	Groups a group of nodes .
+2147	Merge template attributes
+2148	Replaces the given element with the given elements .
+2149	Encode a path .
+2150	Checks if node is pure .
+2151	Sanitize uri provider
+2152	Checks if two URLs are equal .
+2153	Get the base URI of the document .
+2154	Format a number .
+2155	Defaults to dst
+2156	Called when the animation is paused .
+2157	This method is called when an element is changed .
+2158	Replaces the ngMessages in the template .
+2159	Get global locale
+2160	Creates a configuration from a string .
+2161	Get the duration of the given threshold .
+2162	Disables the given element .
+2163	Sanitize and configure options
+2164	Refreshes the position of the item .
+2165	Creates a new instance of MdToController
+2166	Position down the dropdown
+2167	Sets the horizontal alignment of the menu .
+2168	Gathers the elements of the element
+2169	Handle the selected item .
+2170	Handle search text .
+2171	Handle a keydown event .
+2172	Get the display value for a given item .
+2173	Update scroll .
+2174	Creates a new MhipsCtrlCtrl
+2175	Handle stretchTabs .
+2176	Handle the offset change
+2177	Scroll the scrollbar
+2178	Determines if the page is pagination .
+2179	Adjusts the offset of the tab .
+2180	Update the ink bar styles
+2181	Create a barcode object .
+2182	Update the state of the tree
+2183	Print a message .
+2184	Set default defaults
+2185	Convert a function to a function .
+2186	Convert a function to a function .
+2187	Clone a value
+2188	Creates a new pipe .
+2189	Creates a pipe .
+2190	Returns true if two elements are unique .
+2191	Determine the delaunay of a triangulation .
+2192	Construct a partial HullHull
+2193	Event constructor .
+2194	Show validation .
+2195	Recursively recursively recursively recursively recursively .
+2196	Creates a deep copy of an object .
+2197	Push all cookies to the browser
+2198	Creates a new sniffer provider .
+2199	Add a valid validator to a validator .
+2200	Returns the absolute path to the given document .
+2201	Simplified function .
+2202	Finds the integral of the given expression .
+2203	Check if source file exists
+2204	Parse inline values .
+2205	Applies indentation to content .
+2206	Get array values
+2207	Validate if the given value is valid .
+2208	Validates inline values
+2209	Validate for each value in an array
+2210	Validate an inline value
+2211	Validates inline values
+2212	Extracts a section from the content .
+2213	Parses the given file content .
+2214	Processes the content
+2215	Compare two strings
+2216	Checks if a node is a JavaScript script .
+2217	Checks if the given value is valid .
+2218	Check if a node is collapsable .
+2219	Render the view
+2220	Flash middleware
+2221	Get the path of the framework .
+2222	Gets the framework path for the given module .
+2223	Auto inject services
+2224	Setter for setter .
+2225	Creates a new async observable .
+2226	Load a graph .
+2227	Creates a new instance of the current scope
+2228	Recursively recursively recursively recursively
+2229	Creates a temporary credential .
+2230	Creates a new Service instance
+2231	Gets the signer class .
+2232	Defines the methods of the service
+2233	Abort the request .
+2234	Iterate over the results of the pagination .
+2235	Creates a read stream .
+2236	Constructs a new AWS Service instance .
+2237	Checks if the response is successful .
+2238	Check if the response is an error
+2239	SharedIniFileCredentials constructor
+2240	Get identity id
+2241	Add an IP to the collection
+2242	Gets the data context for the given canvas .
+2243	Finds the recorder for the given div .
+2244	Create a click tracking context
+2245	Escape a string
+2246	Returns a list of scopes .
+2247	Get a configuration object .
+2248	Get the configuration from the given path .
+2249	Get a list of types
+2250	Converts a color code to a string
+2251	Creates a text string .
+2252	Clear the current line .
+2253	Render the legend .
+2254	Create a new callbacks for the given method .
+2255	Get header from data
+2256	Formats the difference between two times .
+2257	Construct a RestClient
+2258	Register local storage events .
+2259	Run the given options .
+2260	Fetch results from the given options
+2261	Map the results to the results .
+2262	Handle a message .
+2263	Creates a new instance
+2264	Convert a class to a ring .
+2265	Ensure that the given name is a valid name .
+2266	Creates a new access token .
+2267	Encodes an object into a string .
+2268	Parse query string
+2269	Returns true if template object matches obj
+2270	Creates a new feed loop .
+2271	Creates a new Redis system .
+2272	Creates a new retry strategy .
+2273	Gets the service services for the given element .
+2274	Create a fatal error .
+2275	Build the query .
+2276	Executes the query .
+2277	Generate a name from a source file .
+2278	Parse the given options .
+2279	Get the value of the given steam object .
+2280	Make a request
+2281	Get parameters from steam object
+2282	Add a function to the interface
+2283	Build steam wrapper method
+2284	Retrieve Steam API methods
+2285	Filter a photo
+2286	Get the photo cache for a photo
+2287	Get image size
+2288	Checks if an element has a class .
+2289	Creates a new Lipzig event .
+2290	Trigger an event .
+2291	Processes a gloss .
+2292	Creates a UrlHelper .
+2293	Serialize the current state
+2294	Track a property .
+2295	Returns a random date
+2296	Returns a new price with the given volatility .
+2297	Create a new Incidents
+2298	Gets the unit unit for the given min .
+2299	Returns the rendered template for the given variable .
+2300	Get the path of a file
+2301	Creates a scaffold .
+2302	Parse a lookup .
+2303	Extracts a template from a lookup .
+2304	Applies an expander to an array .
+2305	Extract data from an object
+2306	Sets the value of an object .
+2307	Convert text to HTML
+2308	Compute the expression
+2309	Patch file objects
+2310	Handle a message
+2311	Handle a progress event .
+2312	Resolve an xhr request .
+2313	Reject an error .
+2314	Create an instance of a directive
+2315	Safely call function .
+2316	Load middleware filters .
+2317	Load the resources from the given provider .
+2318	Load providers .
+2319	Loads the configuration .
+2320	Construct a new Currency object
+2321	Gets the options .
+2322	Returns the window for the given element .
+2323	Creates a new input instance .
+2324	Handles input events .
+2325	Compute the input data .
+2326	Handles touch events .
+2327	Called when a mouse event is pressed
+2328	Finds a tree by id
+2329	Find the id of an element
+2330	List local dataset client client
+2331	List all pending changes for the given dataset .
+2332	List pending changes
+2333	Remove pending changes
+2334	Computes the delta between two servers .
+2335	Process sync records .
+2336	Returns the data for the given metric .
+2337	Initialize a dataset
+2338	Stop the sync sync .
+2339	Stop all syncs
+2340	Remove a collision .
+2341	List dataset clients
+2342	Remove all datasets from a dataset
+2343	Removes a dataset from a dataset .
+2344	Reads a dataset client .
+2345	Update dataset client client
+2346	Create an index for a collection .
+2347	Create indexes for a given dataset .
+2348	Compares two records .
+2349	Compare two records .
+2350	List all databases .
+2351	Removes all datasets from the database .
+2352	Updates an existing dataset .
+2353	Update a dataset .
+2354	Update a dataset client .
+2355	Reads a dataset .
+2356	Finds and deletes and deletes a dataset .
+2357	do listUpdates
+2358	Performs a delete operation .
+2359	Saves a dataset .
+2360	Performs a list of updates .
+2361	Construct a DatasetClient
+2362	Invoke a dataset
+2363	Convert an item array to an object
+2364	Scheduler constructor
+2365	Updates dataset clients .
+2366	Inserts a document to the database
+2367	Sets a value in the cache .
+2368	Get the value of a key
+2369	Deletes a key
+2370	Synchronously synchronously synchronously synchronously synchronously synchronously .
+2371	Create a new dataset
+2372	Deletes a dataset
+2373	Process pending changes .
+2374	Creates a MongoDB queue .
+2375	List existing indexes .
+2376	Invokes the request interceptors .
+2377	Add items to queue
+2378	Formats a list of hashes into a hash .
+2379	Removes all updates in the request from the database .
+2380	Process a dataset .
+2381	Creates a DatasetClientsCleaner .
+2382	Callback for callback
+2383	Checks if the given element matches the given element .
+2384	Add elements to the collection .
+2385	Remove elements from the list
+2386	Returns an ArrayList with the given predicate .
+2387	Returns an ArrayList with the given iterator .
+2388	Creates a new ArrayList .
+2389	Returns a new ArrayList with the given predicate .
+2390	Sort by iterator .
+2391	Convert this object to arguments
+2392	Creates a new KoaNucks instance
+2393	Get the registers for the given CPU .
+2394	Parse a crash report
+2395	Convert a report into a string
+2396	Get the crash thread from the report .
+2397	Parse the report .
+2398	Parse the report .
+2399	Parses an error message .
+2400	Set the console log level .
+2401	Parse a crash .
+2402	Orders the stack .
+2403	Requests a GET request
+2404	Convert RGB color to hex
+2405	Add mutators to the observable array
+2406	Get the observable for the given array .
+2407	Starts watching for an observable .
+2408	Called when the observable is present .
+2409	Delete backup .
+2410	Implements inline import .
+2411	Get input files
+2412	Validate config
+2413	Read the config file
+2414	Read a file
+2415	Parses the given data .
+2416	Read imports from the given data .
+2417	inline imports
+2418	Write data to file
+2419	Calculates the coefficient of the SHT .
+2420	Calculate the elevation of a given coefficient .
+2421	Calculate the elevation of an array .
+2422	Calculate an array of xyzR and z .
+2423	Calculate the number of factors
+2424	Calculates the PN of the given number of points .
+2425	Computes the inverse of a matrix .
+2426	Returns the inverse of the matrix .
+2427	Calculates the rotation of the given yaw .
+2428	Sift down an array .
+2429	Returns the next child of the given array .
+2430	Sift up the elements in the array .
+2431	Executes a command .
+2432	Create a custom field .
+2433	Creates a new many - to - many - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2434	Creates a new one - to - many - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2435	Create a new Entity
+2436	Creates a new entity .
+2437	Observe resize window
+2438	get all tasks
+2439	Check if a tile is a valid tile
+2440	Returns the text as a string .
+2441	Encodes the given raw data .
+2442	Decode a key
+2443	Processes a raw XML file
+2444	Validate options .
+2445	Checks if an object is an array
+2446	Checks if an object is an iterator .
+2447	Returns true if object is a stream .
+2448	Get the type of an object
+2449	Returns a copy of the same object
+2450	Check if an object is a structure
+2451	Determines if the given object is an object .
+2452	Invoked when a route is done
+2453	Fetch a query
+2454	Wrap a function .
+2455	Add an action to the server
+2456	Creates a new FBOAuth2 client .
+2457	Create an EventEmitter .
+2458	Creates a spy .
+2459	Creates a new instance of the logger .
+2460	Creates a logger .
+2461	Create a new JsonApiResource
+2462	Merges the given value into the given value .
+2463	Register a new namespace .
+2464	Register an object with the given name .
+2465	Remove an object from the container
+2466	Reduce stream
+2467	Reduce all hooks
+2468	Compares two functions .
+2469	Replace the contents of a file .
+2470	Generate a sentence from a dictionary .
+2471	Checks if a script is ignored .
+2472	Render a list of activities .
+2473	Returns the top - level list of activities .
+2474	Filter a list of activities .
+2475	Execute a GET request
+2476	Add paths to project config
+2477	Finds the header of an array
+2478	Lookup an object by name
+2479	Checks if the input is a ssh .
+2480	Install dependencies .
+2481	Add an assertion to the assertion .
+2482	Add a class to the DOM
+2483	Create a new element
+2484	Delete a key from a hash
+2485	Create a new SocketTransport .
+2486	Command constructor .
+2487	Add font weight
+2488	Initialize the graph
+2489	Called when the form is submitted
+2490	Create a new AppClient
+2491	Write a value to the buffer .
+2492	Convert a buffer to a hex string
+2493	Convert a value to a hex string .
+2494	Convert hex value to number
+2495	Called when the node is focused .
+2496	Returns a JSON representation of this object .
+2497	Binds to the browser .
+2498	Removes events from the window
+2499	Lookup a route .
+2500	Loads the content of the given location .
+2501	Trigger an event .
+2502	Compile a partial template .
+2503	Checks if the given text is valid .
+2504	Checks if a string is inside a string .
+2505	Resolve the given paths .
+2506	Checks if a file exists .
+2507	Checks if a file exists .
+2508	Unwatch all files .
+2509	Write data to file
+2510	Read a file .
+2511	get file info
+2512	Get the path of a file .
+2513	Get file name
+2514	Get extension from filename
+2515	Get a file item
+2516	Get all children of a given parent .
+2517	Compares a list of files in a directory .
+2518	Create a new task .
+2519	Create a new task .
+2520	Creates a new DOM object .
+2521	Flush the given fastdom .
+2522	Creates a new knob .
+2523	Process pointer position
+2524	Set the value of a chain .
+2525	Recursively recursively recursively recursively .
+2526	Loads the CSS file .
+2527	Convert stream to buffer
+2528	Creates a new Bucks instance .
+2529	Creates a function that returns a function that can be used to create a function .
+2530	Update the cache
+2531	Gets a chain from storage .
+2532	Get chain data from storage
+2533	Get chain context
+2534	Creates a multi button
+2535	Creates a sprite .
+2536	Checks if an object has a given path .
+2537	Sets the value of a nested object .
+2538	Mixin methods
+2539	Check if value is a string
+2540	Checks if an array contains a value .
+2541	Returns the index of the given value .
+2542	Counts the number of elements in the array .
+2543	Creates a function that wraps the wrapped function .
+2544	Inserts the given details into the source .
+2545	Converts a value to a finite number .
+2546	Convert value to number
+2547	Returns an array of array - like keys .
+2548	Assigns a value to an object .
+2549	Restore a function from a function .
+2550	Check if value is an index .
+2551	Checks if the given value is an iterable .
+2552	Returns the value of the given value .
+2553	Returns the value of the given value .
+2554	Delete a key from the map .
+2555	Sets a value to the cache .
+2556	Cast value to path
+2557	Get the value of an object .
+2558	Creates a new instance of tests .
+2559	Attach library to this object
+2560	Applies the library to the prototype .
+2561	Set the value of this object .
+2562	Returns a copy of this class .
+2563	Remove library from prototype
+2564	Get the current value of the current value .
+2565	Creates a new button .
+2566	Bind a property to an object
+2567	Get the keys of an object
+2568	Convert arguments to camelCase
+2569	Decamelize a string
+2570	Returns the difference between two strings .
+2571	Intersects two strings
+2572	Repeat a string
+2573	Trim a string
+2574	Trim a string
+2575	Convert a string to a title
+2576	Splice a string into a string
+2577	Returns a string with ellipses .
+2578	Shuffle a string
+2579	Reverse a string
+2580	Remove trailing slash
+2581	Pads a string to a string .
+2582	Wrap a string into a string
+2583	Increment the days of the given date .
+2584	Increment the month of the given date .
+2585	Increments the year of the given year .
+2586	Convert a date to a string
+2587	Convert a number to an integer .
+2588	Converts a number to a number .
+2589	Calculates the factorial of a number .
+2590	Check if a number is an integer
+2591	Returns the number of elements in n .
+2592	Pads a number to a string .
+2593	Inherits a constructor .
+2594	Creates a new array with the given arguments .
+2595	Intersect two arrays
+2596	Rotates an array .
+2597	Make a unique array .
+2598	Returns an array of unique elements .
+2599	Sort an array .
+2600	Sort an array .
+2601	Create a new histogram
+2602	Creates a copy of an object .
+2603	Returns the number of occurrences of an object .
+2604	Returns an array of the keys of an object .
+2605	Checks if a given number is numeric
+2606	Returns the value of the given arguments .
+2607	Returns true if argument is an argument .
+2608	Convert a string to an integer
+2609	Returns a random value
+2610	Checks if the given object is a function .
+2611	Returns the first element of an object .
+2612	Returns the last element of an object .
+2613	Returns the last function of the last call .
+2614	Returns a new object with the given types .
+2615	Returns an array of keys matching predicate .
+2616	Returns the maximum value of an object .
+2617	Get the maximum value of an object .
+2618	Returns the minimum value of an object .
+2619	Returns the minimum value of a given function .
+2620	Checks if the given arguments are implemented .
+2621	Checks if the given object is an object
+2622	Creates a new joystick .
+2623	Creates a new DOM widget .
+2624	Updates the container .
+2625	Checks if two arrays are equal .
+2626	Creates a new series
+2627	Creates a new parallel parallel .
+2628	Creates a new menu .
+2629	Create options element
+2630	Creates a multiSlider
+2631	Process pointer position
+2632	Find all matches in a regular expression
+2633	Called when a test is executed .
+2634	Checks if promise should fail
+2635	Checks if promise is successful
+2636	Copies an asset to the given context .
+2637	Recursively sets the value of the given key .
+2638	Checks whether a file is a file or not .
+2639	Creates a new canvas .
+2640	Create a canvas element
+2641	Convert an attribute to an object map .
+2642	Returns a list of related posts
+2643	Update the datepicker
+2644	Dispatches the database .
+2645	Run the request queue .
+2646	Creates a new slider .
+2647	Process pointer position
+2648	Store a job
+2649	Handles handshake .
+2650	Pivot table
+2651	Initialize the token
+2652	Get email template
+2653	Update email variables .
+2654	Add phones to a phonebook
+2655	Get phone number
+2656	Update phone numbers .
+2657	Add phones to blacklist
+2658	Delete phones from black list
+2659	Add a campaign to a campaign
+2660	Send a SMS message
+2661	Get list of campaigns
+2662	Get information about a campaign .
+2663	Cancel a campaign .
+2664	Get the cost for a campaign
+2665	Delete a sms campaign
+2666	Iterate over all elements in an array
+2667	Emit an event .
+2668	Render a tree .
+2669	Validate package name
+2670	Validate project name
+2671	Parse a file .
+2672	Creates a new Config object .
+2673	Capture a stream .
+2674	Handle message handler .
+2675	Create a new session
+2676	Prints the state of the current state .
+2677	Add a new message
+2678	Executes a text command .
+2679	JSON command .
+2680	Create global globals
+2681	Create a new shell .
+2682	Create a new shell
+2683	Install a module .
+2684	Prints all installed modules .
+2685	Initialize the shell .
+2686	Create a new message .
+2687	Creates a kernel info response .
+2688	Create a new execution error message
+2689	Creates a new execution response .
+2690	Create a complete response message .
+2691	Creates a new data message .
+2692	Reads a message from a socket .
+2693	Write message to socket
+2694	Execute HTML code .
+2695	Executes a script command .
+2696	Handle kernel info
+2697	Creates the handlers for the given session .
+2698	Setup the options for the tab
+2699	Main entry point .
+2700	Computes the signature of the given values .
+2701	Create a signature .
+2702	Create an error .
+2703	Install an extension
+2704	Prints a list of extensions .
+2705	Initialize the shell .
+2706	Determines if the given destination is a directory
+2707	Find a file in the given directory .
+2708	Reads a string from a string .
+2709	Reads a string from a string .
+2710	Create a new Mailto object
+2711	Get mailto url
+2712	Get form data
+2713	Get form data
+2714	Returns a string representation of the request .
+2715	Register the xdiv element
+2716	Process a condition .
+2717	Construct a Credulous instance
+2718	Set up data store
+2719	Returns the maximum index of an array .
+2720	Process data items
+2721	Add a label
+2722	Loads a log file .
+2723	Create a new instance
+2724	Log an error .
+2725	Send a message .
+2726	Calculate the maximum number of loggers .
+2727	Create a logger .
+2728	Get a logger .
+2729	Configure the registry .
+2730	Register a plugin .
+2731	Adds an object to the cache .
+2732	Returns a list of all items in the cache .
+2733	Adds an object to the cache .
+2734	Create a new object
+2735	Returns the number of items in the cache .
+2736	Removes all objects from the cache .
+2737	Add an update to the cache
+2738	Replace an object with the given options .
+2739	Add a handler to the handler .
+2740	Check if the response is ok
+2741	Merge all endpoint parameters
+2742	Create a new Apos group
+2743	Updates the next roll left
+2744	Determine if the user is a user .
+2745	Try to apply all updates
+2746	Log a message
+2747	Intercept write stream .
+2748	get random music list
+2749	Format a message .
+2750	Resolve a bot .
+2751	Block serializer .
+2752	Create a span serializer .
+2753	Lazy serializer
+2754	Create a list item
+2755	Create block type serializer .
+2756	Serialize a span .
+2757	Reset the current position
+2758	Calculate the lerp .
+2759	Update a datamodel model
+2760	Initialize the plugin .
+2761	Buffer file contents .
+2762	Send a hello message
+2763	Next middleware
+2764	Show a hello message
+2765	Show a hello
+2766	Show the hello
+2767	Create a new middleware
+2768	Creates an express view .
+2769	Try to match a sequence
+2770	Convert a mat4x4x4x4x4x4x4 .
+2771	Creates a function that applies the given function to the given function .
+2772	Validate input value
+2773	Send a message
+2774	Serialize package states
+2775	Serialize atom .
+2776	Splits a string .
+2777	Recursively walk a list of items
+2778	Parse an item
+2779	Resolve url attribute
+2780	Parse property value
+2781	Process patterns .
+2782	send a message
+2783	Loads the given URL .
+2784	Creates a new term .
+2785	Recursively recursively recursively recursively recursively .
+2786	Format a date .
+2787	Format a date time .
+2788	Get the style of an element
+2789	Checks if the object has changed
+2790	Sets template values
+2791	Checks if the given url matches the given method .
+2792	Checks if the given stream is whitespace .
+2793	Convert a base query to an underscore .
+2794	Filter query params
+2795	Add where clause
+2796	Get the query params
+2797	Ensure that entity is empty
+2798	Initialize the model .
+2799	Initialize the date format .
+2800	Format the given schema .
+2801	Format the given schema .
+2802	Set foreign keys
+2803	Transform constraint violations .
+2804	Sets the tail value of the tail .
+2805	Checks if node is empty
+2806	Creates a new LogWatcher .
+2807	Loads an image
+2808	Sets the value of the property .
+2809	Creates a function with the given arguments .
+2810	Compares two strings .
+2811	Assert that two strings are equal .
+2812	Asserts that the given object is valid .
+2813	Checks if the element should be dragged .
+2814	Build services .
+2815	Get all nodes in the tree .
+2816	Freeze object
+2817	Create a new instance of Subscribable class .
+2818	A binary search tree iterator .
+2819	Initialize an XHR request .
+2820	Sets the request header .
+2821	Convert data to a string
+2822	Parse query string
+2823	Aborts all requests .
+2824	Invokes the config function .
+2825	Ensure that view is valid
+2826	Print environment information .
+2827	Convert src to dest
+2828	Constructor for a component .
+2829	Sets the template .
+2830	Replace the template with the given new model .
+2831	Add a new element to the DOM element
+2832	Inserts a template to the DOM element .
+2833	Base implementation .
+2834	Creates a function that invokes the index of the schema .
+2835	Loads an emitter .
+2836	create directory
+2837	sha1 hash
+2838	Creates a new Observer .
+2839	Get a package from a directory
+2840	Get project
+2841	Convert local image to base64
+2842	End the CSS file
+2843	Render apilist .
+2844	Register a callback for a property .
+2845	Removes a property from the registry .
+2846	Notify listeners .
+2847	Generate a rowgroup
+2848	Add stats to database
+2849	Get the tail of an array .
+2850	Returns a deep copy of an object .
+2851	Creates an accumulator from an array .
+2852	Creates a wrapper for the given function .
+2853	Returns a new array with the elements of the given arrays .
+2854	Returns the mean of an array .
+2855	Returns true if value is typed array
+2856	Remove an object from an object .
+2857	Removes elements from an array .
+2858	Check if value is an error
+2859	Creates a new wrapped function .
+2860	Iterate over all elements in an object .
+2861	Returns a new object with the given predicate .
+2862	Construct a SelectQuery object
+2863	Check if field name is valid
+2864	Format a table .
+2865	Creates a mapping for the given plugins .
+2866	Enables disabled plugins .
+2867	Merge the authorizations of the given config .
+2868	Create a ticket
+2869	Export Cube
+2870	Create a ListBoxMixin
+2871	Apply a gray transformation to an image .
+2872	Calculate the direction of a sequence .
+2873	Calculate the root of a number .
+2874	Calculate the hilbert index .
+2875	Compute the Hilbert index of the given index .
+2876	Get console reporter options
+2877	Handle a taskFatal error .
+2878	Compile scss files
+2879	Returns a range of page numbers
+2880	Show a list of tasks
+2881	Execute a command .
+2882	Read YAML file
+2883	write yaml file
+2884	Add middleware to a file
+2885	Create a module
+2886	Convert a schema to a schema
+2887	Builds a SQL statement .
+2888	Builds a WHERE clause .
+2889	Prepare a query string .
+2890	Convert a type to a SQL type .
+2891	Returns true if the given criteria is valid .
+2892	Process icon template
+2893	Generate icon files
+2894	Injects the token value into the request .
+2895	Inject the given token value into the URL .
+2896	Returns the home directory for the given username .
+2897	Shutdown a connection
+2898	Execute a query
+2899	Drop a table .
+2900	Add a new attribute
+2901	Updates the database .
+2902	Destroy a table
+2903	Print an error message
+2904	Print output to stdout
+2905	Exit the given error
+2906	Get CLI options
+2907	Creates a composite error .
+2908	Handle a request .
+2909	Kill the process
+2910	TreeWalker .
+2911	Enumerate all properties .
+2912	Create a new TVar object .
+2913	Construct a new contract instance
+2914	Creates a new transaction .
+2915	Spawn a child process with the given arguments .
+2916	Apply a format to a string .
+2917	Construct a FormatError
+2918	Choose the data source for the given file
+2919	Load templates from a stream .
+2920	This function is called when the registry is done .
+2921	Load template from file
+2922	Process a file .
+2923	Pick a template from the registry
+2924	Get template name
+2925	Sets the value of an object .
+2926	Recursively get the value of an object .
+2927	Called when a message is received .
+2928	Convert value to percentage
+2929	Round the given value .
+2930	Generates a random number between two numbers .
+2931	Creates a new Flow
+2932	Creates a future .
+2933	Generate a hash
+2934	Returns the index of the given string .
+2935	Returns the last index of a string .
+2936	Split a string into a single line .
+2937	Implements inline handler .
+2938	Handle insert handler .
+2939	Creates a MarkyMark object from a document .
+2940	Convert data to javascript
+2941	Convert data to DDB
+2942	Clone an object
+2943	Deep merge two objects
+2944	Get the contents of a site .
+2945	Get the hostname of a request .
+2946	Sets the list of packages to be loaded .
+2947	Load all models from the given datasource
+2948	Recursively create a new entity
+2949	Build all roles from the given roles .
+2950	Creates a screen cap .
+2951	Creates a function that invokes a function .
+2952	Reset local or reset locale
+2953	Get the tree of the given theme .
+2954	Cache the cache
+2955	Get a value from redis
+2956	Sets the value of a key .
+2957	Sets the value of the cache
+2958	Delete a key
+2959	Checks if the request is bypassing .
+2960	Get auth context
+2961	Add mail to form
+2962	Verify recaptcha .
+2963	Copies a file from a file .
+2964	Returns the path to the destination file .
+2965	Remove file at path
+2966	Base constructor .
+2967	Creates a new class .
+2968	Returns the size of the grid
+2969	Get the outer size of the grid .
+2970	Recursive concatenation .
+2971	Check if the user is authorized .
+2972	Create a new InSift instance
+2973	Get user from token
+2974	Render HTML code
+2975	Create a TripCase instance
+2976	Translates a matrix .
+2977	Creates an instance of Instagram .
+2978	The admin admin admin .
+2979	Sanitize a string
+2980	Executes a property .
+2981	Loads the user s user .
+2982	Get meta data
+2983	Transforms a matrix to a matrix
+2984	Get column columns
+2985	Sorts the model data
+2986	Inserts a form into the model .
+2987	Create a model for a model
+2988	Executes the given filter method .
+2989	Evaluate embed getter
+2990	Checks if the contents of the contents of the given scoped .
+2991	Bundle server .
+2992	Set the active state .
+2993	Binds a dataview
+2994	Generate a HMAC signature .
+2995	Sign an input .
+2996	Verify HMAC signature
+2997	Verify an RSA signature
+2998	Verify signature .
+2999	Get the type of an object
+3000	Add properties to obj
+3001	Sets the type of the tool .
+3002	Returns a list of all columns in the grid .
+3003	Checks if the given type is an identifier .
+3004	Advances the next token .
+3005	Parses the HTML tag .
+3006	Create a new ghost .
+3007	Handle visibility change
+3008	Get a value from the cache
+3009	Return a map of file names
+3010	Called when the view is ready .
+3011	Checks the file status .
+3012	Get all files in a directory
+3013	Convert a key to an array .
+3014	Removes a key from the map .
+3015	Iterate over all items in the collection
+3016	Creates a new hash .
+3017	Run the given ast
+3018	Runs the given ast .
+3019	Parses a token .
+3020	Creates a new model instance .
+3021	Create a CI CI CI object
+3022	Create a table .
+3023	Returns the weight of a word .
+3024	Returns the highest position .
+3025	Handles selection events .
+3026	Returns a new instance of the given duration .
+3027	Convert start and end dates to end .
+3028	Sets the duration of the given duration .
+3029	Get object from date
+3030	Properties of a DateRange .
+3031	Initializes the flash plugin
+3032	Handles a flash state change .
+3033	Creates a flash message
+3034	Sends binary data to flash
+3035	Sets the ready state .
+3036	Sets the response body
+3037	Consume a string .
+3038	Consume a template .
+3039	Create a new HttpLog object
+3040	Creates a new view .
+3041	Skip whitespace nodes .
+3042	Create new li element
+3043	Sets the cursor position to the original position .
+3044	Create a listener for the bot
+3045	Converts a UUID into a binary string .
+3046	Convert a string to a string
+3047	Convert promise to object
+3048	Loads a new instance of the component
+3049	Binds to the store .
+3050	Callback for callback
+3051	Sets the state of the event .
+3052	Restore the stateful state
+3053	Checks if the given property name is set .
+3054	Save property names to state
+3055	Destroy the state task .
+3056	Start the timer
+3057	Stop the server
+3058	Parses a node .
+3059	Parse a comment .
+3060	Parse an example line .
+3061	Match identifier .
+3062	Disable disabled actions
+3063	Disable the given index
+3064	Sets the value of the writeable .
+3065	Set the status of the action
+3066	Gets the current sort .
+3067	Get the preview of the preview .
+3068	Create a new HTTPError
+3069	Create a quick tip .
+3070	Initialize the editor .
+3071	Sets the source editor .
+3072	Update buttons .
+3073	Create a new form .
+3074	Create a control element
+3075	Generate a sha256 hash
+3076	Add a set of attributes
+3077	Emit a paragraph .
+3078	Process a group .
+3079	Processes a selectable group .
+3080	Processes a single node .
+3081	Emits the given walk .
+3082	Parse input .
+3083	Emit a select menu .
+3084	Render the form controls
+3085	Set the status of the status
+3086	Adds a trailer to the stream .
+3087	Finds the next window .
+3088	Unbinds all listeners
+3089	Mark errors as invalid
+3090	Sets the values of a field .
+3091	Clears the layout .
+3092	Get information about a file
+3093	Get all directories
+3094	Get all directories in a directory
+3095	Checks if a directory is a repository
+3096	Expand a parent node .
+3097	Add a record to the list of records .
+3098	Collapse all records in the collection .
+3099	Runs inline and compiles the source code into a trace .
+3100	Properties of a SimpleDate object .
+3101	Initialize the quick start
+3102	Applies each optimization to each of the map .
+3103	Creates a new synchronous getter between two bindings .
+3104	Add a task to the queue .
+3105	Creates a new Iterator .
+3106	generate a DOM element
+3107	Convert an object to a string
+3108	Add an online user to the user
+3109	Sets the value of the element .
+3110	Returns the x x x x x x x x x x x x x x x y x x x y x x x y x x y x y x x x y x x x x x x x x x x x x x x x x x x x y x x x x x x x x x x x x x x x x x x x x y x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+3111	Get the position of the element
+3112	Returns the top of the top of the element .
+3113	Set the position of the element
+3114	Set the bounds of the rectangle
+3115	Sets the position of the view .
+3116	Sets the scroll to the specified record .
+3117	Add a new tab .
+3118	Returns the active tab .
+3119	Start a new sync client .
+3120	Sets the height of the element .
+3121	Loads a loader .
+3122	Remove a key from the map .
+3123	Adds an object to the collection .
+3124	Iterate over all items in the collection
+3125	Inserts an item into the collection .
+3126	Removes an item from the collection
+3127	Removes items from the collection .
+3128	Checks if an item is in the collection .
+3129	Returns the sum of the values of a property .
+3130	Extract unique values from a property
+3131	Returns a copy of this collection .
+3132	Creates a new image
+3133	Returns the type of the given value .
+3134	Add a video player
+3135	Add a binding .
+3136	Removes a key from the list
+3137	Handles a keydown event .
+3138	Determine if the key is a key
+3139	Bind a key to a key
+3140	Enables event listeners .
+3141	Removes the event listener .
+3142	Remove all bindings
+3143	Flushes the flush queue .
+3144	Remove an item from the list
+3145	Run the current layout .
+3146	Called when the layout is complete .
+3147	Sets the size of the given item .
+3148	Set the model
+3149	Creates a new instance of the model .
+3150	Creates a new writer .
+3151	Get required filename
+3152	Create a write function to write log file
+3153	Get the logs object
+3154	Delete a file
+3155	Initialize the stub .
+3156	Prints the standard output
+3157	Create a new setting .
+3158	Get all settings
+3159	Sets the settings from the settings .
+3160	Returns a string representation of the settings .
+3161	Returns the combined status of the statuses .
+3162	Default arguments provider
+3163	Execute the command
+3164	Consumes a doctype or comment .
+3165	Consume an opening tag .
+3166	Consumes a directive entity .
+3167	Execute a HTTP request
+3168	Initialize the element dialog
+3169	Removes all records from the storage .
+3170	Register a new version .
+3171	Checks if the given package name matches the given version .
+3172	Set options from an object
+3173	Add options .
+3174	Add feature option
+3175	Initialize the field .
+3176	Converts a string into a string .
+3177	Parses the header .
+3178	Finalize the menu .
+3179	Sets the size of the target .
+3180	Convert date to string
+3181	Calculates the number of days in the given date .
+3182	Creates a native Date object .
+3183	Reads the settings from the process .
+3184	Reads and parses the configuration file .
+3185	Reads an option from the command line .
+3186	Initialize the animation
+3187	Calculates the minimum value of the chart .
+3188	Set title
+3189	Sets the icon cmp .
+3190	Sets the icon
+3191	Sets the icon .
+3192	Sets the selected item .
+3193	Checks if the given value is a valid type
+3194	Find morphs in morphs
+3195	Generates assignment state out of the given block .
+3196	Parses a directory and returns a list of files
+3197	get file path
+3198	Extend a deep copy of an object
+3199	Clones an object
+3200	Fix path .
+3201	Convert string to string
+3202	Cleans up a callback .
+3203	Iterate over elements
+3204	Set filter fields
+3205	Gets a Gedcom date from a string .
+3206	Returns the previous tab .
+3207	Initialize the QuickTipManager
+3208	Get the value of an element
+3209	Remove all children of this element
+3210	Sort array by field
+3211	Convert a string to a string
+3212	Reads the next character .
+3213	Parse an AST node .
+3214	Computes the difference between two strings .
+3215	Binds to the given store .
+3216	Sets the selection .
+3217	Selects the selected record .
+3218	Handles selection events .
+3219	Sets the selection .
+3220	Check if a record is selected
+3221	Removes deleted records from the store .
+3222	Deploys rules to the given client .
+3223	Lock a sequence .
+3224	Renders the parent class .
+3225	Called when an event is clicked
+3226	Hide all items
+3227	Show all items
+3228	Render all items
+3229	Sets the style of this collection .
+3230	Add an object to the collection
+3231	Remove an object from the collection
+3232	Removes all registered listeners .
+3233	Merge custom renderers .
+3234	Returns the position of the cell .
+3235	Initialize the popup
+3236	Returns true if all columns are locked
+3237	Move the column to the specified column
+3238	Create a resize marker
+3239	Create a clear button
+3240	Checks if the DOM element is defined in the DOM .
+3241	Called when the text is pressed .
+3242	Renders the clear button
+3243	Checks if the text field is overflow .
+3244	Checks if the text field is empty
+3245	Update the clear button
+3246	Called by JSHintError
+3247	Save a member .
+3248	Makes a set of elements .
+3249	Parses a string .
+3250	Parses a string .
+3251	Sets the size of the given axis .
+3252	Calculate the size of the axis .
+3253	Sets the children of the given items .
+3254	Parse a duration string .
+3255	Returns the values of this field .
+3256	Update the field s value .
+3257	Ensure that value is a default value
+3258	Checks if the given value is a valid number .
+3259	Converts a boolean value to a boolean
+3260	Converts a value to an array .
+3261	Convert a string to camelcase
+3262	Expand an array of arguments
+3263	Expand options
+3264	Determines if a flag is negated .
+3265	Returns true if the argument is a variadic argument .
+3266	Checks if the argument is a valid variadic .
+3267	Strip a flag .
+3268	Strip the given value .
+3269	Removes a variable from a variadic string .
+3270	Removes tokens from a string .
+3271	Set the highlight for the given item
+3272	Initialize the highlight
+3273	Checks if a component matches the specified selector .
+3274	Get vinyl file
+3275	Create a new vinyl file
+3276	Get a list of all the files in the given files .
+3277	Resolve a module
+3278	Get a list of modules from a file .
+3279	Returns true if the file is duplicated .
+3280	Get all files in the given paths .
+3281	Get all files in a given file
+3282	Creates a stream of src files
+3283	Creates a resolver .
+3284	Parse options .
+3285	Change the previous page
+3286	Sets the next page .
+3287	Called when the page is changed .
+3288	Change the current page
+3289	Creates a new instance of the prototype .
+3290	Get the options for the given arguments .
+3291	Returns a list of plugins .
+3292	Wrap a task
+3293	This method is called when the request is called .
+3294	handle abort request
+3295	Called when a request is completed .
+3296	Create a script
+3297	Creates a table grid .
+3298	Fixes table cell selection
+3299	Fix table caret position
+3300	Get the width of a column
+3301	Remove a row from the grid
+3302	Sets the columns of the grid .
+3303	Default transformer .
+3304	Get a string representation of a ref .
+3305	Click a string
+3306	Sort an array
+3307	Resolve filter .
+3308	Get the current type of the given type .
+3309	Validates the given type .
+3310	Checks the given node .
+3311	Construct a SelectionType .
+3312	Define a DeferredType .
+3313	Construct a new ArrayType .
+3314	Parses the prediction .
+3315	Create a conversion hint .
+3316	Construct an Argument .
+3317	Change the text of the argument .
+3318	Prints the given command .
+3319	Assigns the given assignment .
+3320	Returns the assigned assignment .
+3321	Sorts the assignment .
+3322	Returns an array of arguments
+3323	Returns a list of assignment assignments .
+3324	Returns a string representation of this command .
+3325	Constructs a cliView
+3326	Calculate the scroll position
+3327	Update the completer .
+3328	Called when a key is pressed
+3329	Handles the mouse event .
+3330	Updates the completion prompt .
+3331	Gets the completion of the element .
+3332	Called when the element is changed .
+3333	Create a new ViewView
+3334	Update the cursor
+3335	Add a member to a clone
+3336	Parse a string .
+3337	Finds a key from the given data .
+3338	Get the fields of a model
+3339	Constructs the grid field .
+3340	Determine if the drop button is active .
+3341	Called when a cell is dropped .
+3342	Create a CSS style
+3343	Removes an element from the DOM .
+3344	Add a CSS style to the document .
+3345	Returns an array of CSS rules
+3346	Adds a CSS rule to the CSS ruleset .
+3347	Clone an object
+3348	Fills the given node .
+3349	Compare two nodes
+3350	Initialize the list .
+3351	Parse incoming form
+3352	Sort arguments .
+3353	Create a panel
+3354	Sets the display style .
+3355	Calculate the aligner
+3356	Select the selected item
+3357	Sets the selected record .
+3358	Sets the selected node .
+3359	Sets the value of this node .
+3360	Parse a key .
+3361	Sets the sort function .
+3362	Update the sort function
+3363	Sets the sort function .
+3364	Properties of a recurring date .
+3365	Sends a static file to the server .
+3366	Sets the user data
+3367	Update the content of the editor
+3368	Restore draft content
+3369	Remove draft content
+3370	Unload the editor
+3371	Requests an HTTP request
+3372	Set the filters
+3373	Sets the given store .
+3374	Initialize the header
+3375	Validate the filter .
+3376	Get a filter
+3377	Add a filter to this object
+3378	Returns a list of filters
+3379	Removes params from params
+3380	Sets the selected record .
+3381	Approximate date
+3382	Creates an HTML element
+3383	Determine if the form is a multipart upload .
+3384	Get the url for the form
+3385	Gets the form parameters
+3386	Determines if the current request has been loaded .
+3387	Abort a request
+3388	Abort the request .
+3389	Called when a request is completed .
+3390	Called when the request is completed .
+3391	Checks if the status code is an exception .
+3392	Convert a request to an object .
+3393	Creates a script tag
+3394	Returns the number of days in a month .
+3395	set default values
+3396	Gets the timestamp for the given time .
+3397	Generate a sequence .
+3398	Assert that the given value is a valid number .
+3399	Try to fetch the address from the loader .
+3400	Starts a load part of the module .
+3401	Update the link set on the load set .
+3402	Finish a load .
+3403	Link a set of modules
+3404	Link a loadable module
+3405	Initialize the group .
+3406	Called when a menu item is clicked .
+3407	Hide the header
+3408	Retrieve a row from the grid column
+3409	Processes an element
+3410	grab content from clipboard
+3411	Convert paste to HTML
+3412	Insert content into the editor .
+3413	Adds a command to the editor .
+3414	Get the contents of a map .
+3415	Ends the compilation .
+3416	Add checkbox to view
+3417	Set the checker on the grid column
+3418	Called when the grid is selected .
+3419	Sets the header .
+3420	Sort the list
+3421	Sets the value of this field .
+3422	Initialize the desktop config
+3423	Initialize the application .
+3424	Initialize the taskbar .
+3425	Add a new view
+3426	Returns true if the array is true .
+3427	Returns a copy of an array
+3428	Returns the first element of an array .
+3429	Removes an item from an array .
+3430	Returns an array of unique elements .
+3431	Returns an array containing the intersection of an array .
+3432	Returns a copy of an array .
+3433	Returns an array of elements in an array .
+3434	RFlatten an array .
+3435	Returns the smallest element of the given array .
+3436	Returns the sum of the elements in the array
+3437	Appends an array to an array .
+3438	Find an element by its name
+3439	Add a keyframe to the queue .
+3440	Handles a keyframe event .
+3441	Returns the parent node of the given node .
+3442	Removes a caret container
+3443	Moves the selection of the selection .
+3444	Convert regular expression to non - editable .
+3445	Setup logger .
+3446	Convert a logger to a logger .
+3447	Calculate the height of the box .
+3448	Set opacity .
+3449	Adds a class to the DOM .
+3450	Initialize the dialog
+3451	Called when a label is clicked .
+3452	Creates a command to run the command .
+3453	Convert md5 hash to base64
+3454	Destroy the surface .
+3455	Creates a new parser .
+3456	Join plugins .
+3457	Setup a member .
+3458	Accept a single file .
+3459	Create a definition for the given mapping .
+3460	Get the root of an action
+3461	Creates a new instance of Remoting methods
+3462	Creates a handler for the given action .
+3463	Called when a transaction is completed .
+3464	Called when a transaction is received
+3465	Gets a transaction .
+3466	Execute a method call
+3467	Serialize a transaction .
+3468	Send a request to the server .
+3469	Send callbacks
+3470	Create table lookup table
+3471	Add custom elements
+3472	Gets the content of a node .
+3473	Removes the element from the DOM .
+3474	Dispatch event handler .
+3475	Executes a command
+3476	Executes a command .
+3477	Checks if the given command is aligned .
+3478	Removes the contents of the given node .
+3479	Unmarks the parent caret container .
+3480	Renders a block on IE .
+3481	Move the cursor to the current position .
+3482	create new block
+3483	Creates a new block with the given offset .
+3484	Checks if the right side of the right side of the node is right .
+3485	Inserts a BR element
+3486	Generate a unique id
+3487	Executes a callback .
+3488	Copy properties from source .
+3489	Destroy an object
+3490	Iterate over an array of methods
+3491	Creates an array of arrays .
+3492	Report the indentation of a node .
+3493	Get fixer function .
+3494	Returns the indentation of the given node .
+3495	Checks if the given node is a node .
+3496	Checks if node is a node .
+3497	Checks the indent of a node .
+3498	Checks if the given nodes are indented .
+3499	Checks if the last node is a valid node .
+3500	Checks if the given node is a valid node .
+3501	Gets the variable declaration node .
+3502	Determines the indentation of a function node .
+3503	Checks if a node is a single line .
+3504	Checks if the given node is an array .
+3505	Checks if the given node has an indentation .
+3506	Returns true if the given node is a block body .
+3507	Checks the indentation of a block .
+3508	Check the indentation of a variable declaration .
+3509	Returns the expected indent for the given node .
+3510	Creates a new factory .
+3511	Defines a factory .
+3512	List all records
+3513	Returns the size of the element .
+3514	Gets the scroll height .
+3515	Creates a new iterable .
+3516	Cache loader .
+3517	Registers a loader .
+3518	Sets a loader .
+3519	Loads a loader .
+3520	Returns true if the group matches the given group .
+3521	Gets the value of this value .
+3522	Compile the given content .
+3523	Get the value of the text field
+3524	Initialize the grid
+3525	Select the selected index .
+3526	Creates a new constructor .
+3527	Create a new layer
+3528	Resolve deferred promise
+3529	Reads the config file .
+3530	Run the build command .
+3531	Starts the process .
+3532	Checks if an argument is illegal arguments .
+3533	Try to match the given matcher .
+3534	Executes a command .
+3535	Listen for a message
+3536	Get image dimensions
+3537	Create a client ready for the client .
+3538	Create a CouchDB cache .
+3539	Convert an object to an object
+3540	Initialize the tree .
+3541	Configure the plugin .
+3542	Checks if the constraints are required .
+3543	Create an XML HTTP request
+3544	Creates a function with the given arguments .
+3545	Calls a function on the given function .
+3546	replace placeholders
+3547	Returns the class of the given value .
+3548	Iterate over an array of objects
+3549	Returns true if the given value matches the given type .
+3550	Checks if value is empty
+3551	Converts a list into a string .
+3552	Search an object from a namespace
+3553	Extend an object with the given properties .
+3554	Extend multiple objects
+3555	Normalize arguments .
+3556	Make extendable constructor .
+3557	Define a subclass .
+3558	Throw an error if the value is empty .
+3559	Returns the value of the given value or null if the value is not set .
+3560	Define enum property
+3561	Unconfigurable namespace
+3562	Change the first character of the first character .
+3563	Extracts a boolean from an array .
+3564	Merge two objects
+3565	Sets the value of this object .
+3566	Returns the value of the current value .
+3567	Iterate over all values in this collection .
+3568	Remove a value from the list
+3569	Removes a key from the collection .
+3570	Adds a key to the map .
+3571	Adds an object to the map .
+3572	Returns a copy of this object .
+3573	Returns the next item .
+3574	Returns an iterable of the items .
+3575	Iterate over all items .
+3576	Returns an Iterator .
+3577	Sets a value for the given key .
+3578	Add a priority to the queue
+3579	Creates a new item .
+3580	Checks if a security group exists .
+3581	Checks if autoScalingGroup exists .
+3582	Build the params for the given identifier .
+3583	Checks if an instance exists .
+3584	Constructs a new EdmundsClient
+3585	Add a definition to the endpoint
+3586	Create a client
+3587	Get resource object
+3588	Checks if a launch configuration exists .
+3589	Create a KJU .
+3590	filter files
+3591	Reads a JSON file
+3592	Generate a random number
+3593	Returns true if the given raw data is a wiretree
+3594	Returns a list of function names
+3595	Gets the result of the process
+3596	Creates a new camera .
+3597	Loads an object from a URL .
+3598	Stream members of a package member .
+3599	Checks if a load balancer exists
+3600	Lint files .
+3601	Runs the browserifyBundle .
+3602	Pause command .
+3603	Properties of ValidationErrors .
+3604	Create a new line command
+3605	Creates a point command .
+3606	Get random number
+3607	Creates a generator for the given arguments .
+3608	Emitter .
+3609	Free memory allocations
+3610	Drawtext command
+3611	Write data to file
+3612	call handlers
+3613	Add a block to the block .
+3614	Convert an object to a string .
+3615	Generate a database header .
+3616	Return the key of the object .
+3617	Encodes the expiration time .
+3618	Convert an object to a string .
+3619	Convert an object to a buffer .
+3620	Write an object to the buffer .
+3621	Convert an array to a buffer
+3622	Convert an object into a buffer .
+3623	Get a buffer from a string
+3624	Returns the length of the buffer .
+3625	Get length encoding .
+3626	Creates a textfont command .
+3627	Properties of MerchantCalculations .
+3628	Replaces the value of a property with the given value .
+3629	Get a value from an object
+3630	Check if the bug is a bug
+3631	Returns true if the element matches the given selector .
+3632	Check if action is allowed
+3633	Cleans up the result
+3634	Find a single object
+3635	Dispatch the current context .
+3636	Start the router
+3637	Render the page .
+3638	get value from config
+3639	Get the value of a variable
+3640	Get the value of a variable
+3641	Get the value of a variable
+3642	Returns the value of a variable
+3643	Get a file path .
+3644	Checks if the given key exists .
+3645	Check if the key is a valid URL
+3646	Construct a VariableStatement .
+3647	Creates a new XMLHttpRequest object
+3648	Determines if a promise is like anAFuture .
+3649	Parses the stack trace .
+3650	Parses the stack trace .
+3651	returns a list of script lines
+3652	Get a list of source URLs
+3653	Records all handlers for the given type .
+3654	Creates a new example .
+3655	Removes an item from an array
+3656	Asserts that the given value is a test
+3657	Gets the source code for the given source .
+3658	Get function call lines .
+3659	Map an exception to an exception .
+3660	Create a new month form
+3661	Creates a new Floodgate .
+3662	Removes an object from an object
+3663	Get a user by name .
+3664	Create a collection .
+3665	Create a new entity
+3666	Get the options for the user .
+3667	Define a usergrid .
+3668	Creates a new SavespriteCommand .
+3669	Creates a new generator .
+3670	Forward an event .
+3671	Parse a block .
+3672	Parse the lexical environment .
+3673	Parses the next token .
+3674	Reads a readpixel command .
+3675	Generate a query string
+3676	Initialize the SDK .
+3677	Saves the file to the stream .
+3678	Finds the path of the request .
+3679	Runs a module
+3680	Move the stem to the stem .
+3681	Get config from config
+3682	Decorate an object with the given values .
+3683	Set the value of a property .
+3684	Recursively copies a copy of a source .
+3685	Creates a copy of an object
+3686	Creates a copy of a source .
+3687	Creates a copy of the given source .
+3688	Creates a copy of an object
+3689	Clone a source object
+3690	Compare two objects
+3691	Returns true if x is equal .
+3692	Iterate over all elements of an item
+3693	Returns the type for the given value .
+3694	Checks if an object is an extendable .
+3695	Extend an object .
+3696	Extend an object .
+3697	Recursively merges two values .
+3698	Merges two arrays .
+3699	File constructor .
+3700	Create a sysrpc error
+3701	Calculate the difference between two timestamps .
+3702	Returns the difference between two dates .
+3703	Calculates the total number of seconds from the given epoch .
+3704	Input command .
+3705	Create a piechart command
+3706	Convert an iterable to an iterable .
+3707	Creates a generator that yields items from an iterable .
+3708	Iterate over iterable until iterable is iterable .
+3709	Returns a generator that yields each item in the given iterable .
+3710	Creates a generator that can be used to iterate over items .
+3711	Creates a generator that repeats the given times .
+3712	Shuffle an iterable .
+3713	Extract diffs from compressed data
+3714	Construct a ShapeCommand .
+3715	Scrolls the sidebar .
+3716	Fixes the sidebar .
+3717	Scroll the sidebar .
+3718	Recursively iterates over all dependencies of a dependency .
+3719	Creates a unit for the given name .
+3720	Pick a unit from a source declaration .
+3721	Pick a list of units .
+3722	Initialize declarations .
+3723	Get sha salt
+3724	Checks if node is a BEM declaration .
+3725	Get the entity s entity .
+3726	Get a property by name
+3727	Get the key of a property
+3728	Add a doclet entity .
+3729	Checks if the given node is static .
+3730	Checks if the given node is a static object .
+3731	Get input arguments
+3732	Find the next item in the list .
+3733	Find the last item at the given index .
+3734	Find the next element in the given array .
+3735	Find the last element in the given array .
+3736	Finds the index of an item at the given index .
+3737	Returns the last index of an item at the given index .
+3738	Splits the data into an array .
+3739	Returns the first item in the list
+3740	Returns true if the string contains a string .
+3741	Pad a string to a string
+3742	Clone a deep copy of an object
+3743	Resolve path to url
+3744	Run next line .
+3745	Initialize the file contents
+3746	Save the file contents
+3747	Create a new instance of an object
+3748	Creates a new instance of an object
+3749	Create a new DimCommand .
+3750	generate entity description
+3751	generate block method
+3752	generate param
+3753	Generate a property .
+3754	Create a new IF command .
+3755	Creates a logger .
+3756	Forward an object to the receiver .
+3757	Creates a new FinderStrategy .
+3758	Create a sync file .
+3759	Write an object to the stream .
+3760	Write buffer to file
+3761	Close the file .
+3762	Abstract syntax tree .
+3763	Executes an AST node .
+3764	Create a MarkLogicStore .
+3765	Generate a list of vendor vendors
+3766	Creates a new instance of ctor .
+3767	Creates a copy of an object .
+3768	Creates an identity generator from an iterable .
+3769	Creates a generator that iterates over a given predicate .
+3770	Get first item from iterable
+3771	Creates a generator that iterates over a given predicate .
+3772	Concatenates the given iterables .
+3773	Creates a distinct set of distinct elements .
+3774	Creates a generator that can be used by the given key selector .
+3775	Flip a sequence of elements .
+3776	Creates a generator that repeats the given number of times .
+3777	Creates a generator that runs the iterator .
+3778	Returns the number of elements in the given source .
+3779	Returns true if all elements are empty
+3780	Closes a close command .
+3781	Block constructor .
+3782	Read command .
+3783	Compile a value .
+3784	Creates a drawsprite command .
+3785	Check if the string is a valid string
+3786	Converts a string to a string
+3787	Recursively recursively recursively recursively recursively .
+3788	Validates that an object is required .
+3789	Validates the given model object .
+3790	Returns a list of registered models .
+3791	Checks if the given model is valid .
+3792	Generate a random example
+3793	Sleep command .
+3794	Runs the compilation .
+3795	Error handler
+3796	Finds the first person .
+3797	Add a call to the scottie
+3798	Construct a circle command .
+3799	Polling for polling
+3800	Properties of a triangle .
+3801	Processes a file .
+3802	Creates a new service .
+3803	An analyzer .
+3804	Creates a new RrectCommand .
+3805	Consumes a value .
+3806	Insert a value to the next node .
+3807	Initialize the model
+3808	Construct an ArgumentStatement
+3809	Open open command .
+3810	A common resolver strategy .
+3811	Create a new WhileCommand
+3812	Loads a file
+3813	Load policies .
+3814	Bolicies the policies .
+3815	Creates a mapping of policies .
+3816	Bind a route to the router .
+3817	Construct a FunctionStatement
+3818	Loadsprite command .
+3819	Add a route to the router .
+3820	Convert an object to a url
+3821	Register a route .
+3822	Register static routes .
+3823	Add routes to the app
+3824	Reads the routes file .
+3825	Add a new route entry
+3826	Returns a list of routes
+3827	Returns the URL for the given action .
+3828	Sets a label .
+3829	Parse the given code .
+3830	Creates a new command statement .
+3831	Basic resolution strategy .
+3832	Convert data to an array
+3833	Adds a snapshot .
+3834	Emits the value of the marker .
+3835	Handle a new child .
+3836	Add children to the list
+3837	Open a modal view
+3838	Create a new color command
+3839	On change handler
+3840	Prints a print command .
+3841	Convert an object to an export
+3842	Returns the character at the given index .
+3843	Replaces the given string with the given string
+3844	Parse an expression .
+3845	Remove lines from a block
+3846	Draw all data points
+3847	Populate the labels for the given step .
+3848	Load a javascript file
+3849	Create a new TColorCommand
+3850	Publish an event
+3851	Creates a new ExecutionContext .
+3852	Sets the index at the given dimensions .
+3853	Returns the index at the given dimensions .
+3854	Creates an array with the given dimensions .
+3855	Parse a section
+3856	Creates a new section .
+3857	Throw SyntaxError
+3858	Append a line .
+3859	Registers an event .
+3860	Detaches a placeholder .
+3861	Attach a node to the DOM .
+3862	Append child element to parent .
+3863	Inserts a child node at the given index .
+3864	Change the position of an element
+3865	Sets the text of a node
+3866	Sets an attribute .
+3867	Returns the value of an attribute .
+3868	Remove an attribute .
+3869	Set the style of an element
+3870	Get the style of an element
+3871	Removes a style from an element
+3872	Adds a class to the DOM .
+3873	Checks if the given node is a class .
+3874	Removes a class from the DOM .
+3875	Get value from node
+3876	Add an event listener
+3877	Removes an element from the DOM .
+3878	Event handler for a DOM element
+3879	Returns a function that matches the given value .
+3880	Convert a function to a flat map .
+3881	Filters the value of a predicate .
+3882	Creates a function that returns the given value .
+3883	Called when the browser is clicked .
+3884	Redirect to the page

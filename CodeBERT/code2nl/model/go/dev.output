@@ -1,0 +1,1000 @@
+5238	Normalize returns a string representation of the URI .
+912	waitForIP waits for the host to be started .
+204	Stop stops the manager .
+6074	UnpackSignature decodes a signature .
+2253	native returns the native image .
+2006	ContainerDockerStats returns the stats for a container
+1828	handleResourceStateChange is used to handle a resource state change
+1143	MarshalJSON mocks base method
+6033	ObjectChange is part of the Handler interface .
+839	newComputeUtil returns a new ComputeUtil .
+5543	Part is part of the Client interface .
+6067	Offering implements the Client interface .
+7308	Drop deletes the database .
+4467	MarshalEasyJSON implements the json . Marshaler interface for DateTime .
+712	recordsForDNS returns a list of DNS records for the given domain .
+4837	genQueryOptions returns the query options for the query .
+3456	GetQueryIsFailedOk returns true if the query should be executed .
+260	Stop stops the manager .
+244	Select is used to select a series .
+767	NewDesignateProvider creates a new DesignateProvider .
+1791	UnmarshalJSON handles deserialization of a ContainerStatus .
+1905	cleanupPauseContainerNetwork cleans up the network namespace
+4139	Masked returns a copy of the network .
+4931	WriteFloat64 writes float64 to w .
+217	getSegmentSize returns the size of a segment .
+4597	merge merges the stack into the stack .
+1628	parseMetadataAtContainerCreate parses the metadata and returns a Metadata instance .
+5865	CreateContactGroup creates a contact group
+5323	Exec runs the command .
+5745	I18n returns a middleware handler for the given options .
+4464	Scan implements the sql . Scanner interface .
+3436	HasRenotifyInterval returns true if the options are set .
+1805	KnownVersions mocks base method
+3679	GetManageStatusTitleAlign returns the ManageStatusTitleAlign field if it s non - nil zero value otherwise .
+4827	ReadDir reads a directory from the given directory .
+2278	native returns a copy of the selection data .
+6630	findChild returns the path of the route .
+7121	Convert converts a value to a struct .
+53	initialize initializes discovery .
+6216	ClientAfterCooperativeClose is part of the Worker interface .
+6601	KeepAlive sets the current query .
+1307	sendTaskStatusToECS sends a task status to the server .
+5719	Get retrieves a item from the client
+3462	GetTimeRangeOk returns the TimeRange field if it s non - nil zero value otherwise .
+2787	FlattenHostPortGroupSpec is a helper to flatten host port groups .
+2276	native returns a copy of the ScrolledWindow .
+1273	MarshalJSON implements the json . Marshaler interface for TransportProtocol .
+1763	PopulateASMAuthData populates the signature data from the container
+6254	ChangeOfferingStatus implements the Handler interface .
+2757	vAppSubresourceSchema returns the schema schema for v1 .
+837	mkTokenCallback creates a new tokenRefreshCallback .
+759	newDesignateClient returns a new DesignateClient
+3112	Logger creates a new Logger .
+792	LoadOCIConfig loads OCIConfig from disk
+2940	resourceVSphereDatastoreClusterHasSDusterConfigChange returns true if the given resource is set .
+6942	Size returns the number of instruments .
+2817	expandVMUplinkUplinkPortOrderPolicy returns a list of VMware uplink ports .
+4945	BasicAuthDSN returns the URL for the connection .
+2166	nativeToDialog returns the gtk_widget object .
+6611	 Vendor lookup
+355	QueryInstant runs the given query and returns the result .
+5977	NewWriterPool creates a new WriterPool .
+3763	CreateDowntime creates a new Downtime
+4392	MarshalJSON implements the json . Marshaler interface for ObjectId .
+1022	Start starts the DedupManager .
+3100	NewRouteMap creates a new route map
+645	ByNames returns a slice of SourceGenerator .
+4522	GrepNot returns a filter that matches the given string .
+2401	Draw draws the game image .
+6794	Publish publishes a message to the given channel .
+5149	Running is part of the UI interface .
+5066	Instance creates a new instance of Render .
+7253	Facility returns the facility of the logger .
+7059	NotFound implements Handler .
+2962	datacenterFromID retrieves a datacenter by ID
+4729	Equal returns true if val is equal .
+1575	CreateSecretRequest mocks base method
+5771	getBroker returns an instance of the broker
+569	HandleFunc registers a handler for the given pattern .
+375	Set sets the value for the given key .
+5417	RemoveEntity removes the entity from the world .
+1866	GetCachedSecretValue returns the cached secret value for the given secret key .
+6332	DecodeCookie decodes a cookie
+2370	Close closes the player .
+653	NewServiceSource creates a new SourceSource .
+7006	Name returns the name of the Hello .
+1907	transitionContainer transitions a container to a container
+7098	Free releases the reference count .
+827	ValidateCertificate validates a certificate
+3113	NewTplFile creates a new TplFile
+2277	native returns the native Go search entry .
+3714	HasServiceService returns true if the Widget is service .
+5207	RawQuery creates a new PQL query .
+6833	Devices returns a list of devices
+2988	Less implements the sort . Interface .
+1332	GetInstanceIdentityDocument mocks base method
+3032	lookupZones returns a list of zones for a given project
+2910	findVirtualDeviceInListControllerSelectFunc returns a function that returns true if the given controller can be found .
+1716	requiresASMSECretret returns true if the task is set
+5490	Buy a phone number
+2187	native returns a copy of the TreeView .
+5749	Get is part of the API .
+5599	WithBody adds the body to the update vm state params
+5308	Info returns information about the SSH proxy
+584	NotFoundHandler returns an http . HandlerFunc that implements Mux .
+4990	ListZpools lists all zpools
+5201	OptIndexTrackExistence sets the trackExistence optional argument .
+1401	ServeHTTP implements the http . Handler interface .
+4375	HostnameValue returns the Hostname field if it s non - nil zero value otherwise .
+5973	IntegrityCheck returns the number of checksum .
+2005	resetStatsUnsafe resets the stats for the container .
+1338	CreateTags mocks base method
+3786	PostEvent creates a new event .
+3108	InternalServerError sets the error handler for the router .
+2211	Activate activates the action .
+5242	NewClient creates a new Client .
+5637	DerivePrivateKey extracts a private key from a private key .
+4562	RunScript runs the given input .
+1799	ContainerEvents indicates an expected call of ContainerEvents
+5608	WithPayload adds the payload to the OrderByFilter o k response
+2656	resourceVSphereComputeClusterDataFlushDataFlushData is a helper function for creating a new cluster config .
+6904	Append appends a string to the list .
+6294	MarshalBool implements the Marshaller interface .
+6356	Enumerate returns an Enumerator .
+458	WriteDeflate writes data to w .
+1876	Write container metadata
+6732	QRCodeData returns the URL for the given label .
+262	alertManagerFromGroup builds a list of alerts from the target group .
+6594	And adds n to the query .
+2584	Properties retrieves the properties of a virtual machine .
+3286	GetMonitorId returns the MonitorId field if it s non - nil zero value otherwise .
+2193	sourceAttach attaches the source to the source .
+542	AppendBytes appends a cookie to dst .
+1728	applyENIIHostname applies the hostname to the task .
+4646	Range returns the range of the given point .
+7179	Delete a token
+5881	doDec decodes a signed token .
+2577	Delete deletes a virtual device
+1741	SetDesiredStatus sets the desired status of the task .
+5369	LookupUID looks up uid by uid
+4089	SetAllow3State sets whether the check box is allowed .
+3241	GetShowPresent returns the ShowPresent field if it s non - nil zero value otherwise .
+7247	Okln logs a message
+5266	ExperimentalOptClientLogImports is a functional option for testing .
+3758	newAccessor creates a new accessor .
+1170	addPayloadTasks adds the payload to the payload request
+2169	native returns a copy of the VariantDict .
+2020	buildAppPorts builds the list of available ports .
+6102	TerminateChannel is part of the Processor interface .
+4598	Less returns true if the stack is less than one .
+4415	DeepCopy is an autogenerated deepcopy function copying the receiver creating a new Email .
+2152	Multiply multiplies two matrix .
+6119	AddMapping adds a mapping to the discovery .
+4788	computeSize computes the size of the given rectangle .
+3509	GetOperatorOk returns the OperatorOk field if it s non - nil zero value otherwise .
+4780	LoadJSONBytes loads the JSON bytes from src .
+3271	GetInverted returns the Inverted field if it s non - nil zero value otherwise .
+2965	diskApplyOperationDelete deletes a delete operation .
+1796	NewMockDockerClient creates a new mock instance
+1133	DeleteExpired removes expired items from cache .
+4174	Execute the space users
+4042	ClipRect returns a copy of the given canvas .
+744	getRecordID returns the ID of the domain .
+6191	AddMapping adds a mapping to the specified port .
+385	HasBytes returns true if the given key exists .
+7054	Group adds a pattern to the router .
+898	NewDriver creates a new driver
+1252	publishHealthMetricsOnce publishes metrics to the server .
+5140	Log a message
+1310	setTaskAttachmentSent sets the AttachmentAttachment field s value .
+6488	authenticate is used to authenticate a token
+5574	Update updates the agent settings
+3458	GetQueryString returns the QueryString field if it s non - nil zero value otherwise .
+4885	DecodeRune decodes a rune .
+520	Cookie returns true if the cookie is a cookie
+3152	Restore implements the App interface .
+3126	ParseConfig parses the prometheus config .
+4881	IsFatal returns true if the error is a fatal error .
+3834	Time returns the time of the UUID .
+4334	Unique adds a unique value to the bucket .
+2059	NewPortBindingsResponse returns a slice of PortBindings
+4532	NewHosts returns a new Hosts
+7051	HMAC creates a HMAC HMAC HMAC .
+94	offset returns the offset of the target target .
+5572	Delete a instance
+5904	NewHMACSigner creates a new HMACSigner .
+938	SetConfigFromFlags sets the flags for the driver
+5584	WithBody adds the body to the update vMPar params
+7248	Okf implements logger .
+4398	IsHostname checks if the given string is a hostname
+6151	AgentAfterUncooperativeClose is part of the Worker interface .
+2185	native returns a copy of the allocation .
+6296	MarshalUint64 encodes a uint64 into a byte array .
+5250	SyncSchema synchronizes the given schema .
+2786	and expand host port group
+913	waitStopped waits until the host is stopped .
+2404	IsMouseButtonJustReleased returns true if the mouse button is pressed .
+3561	HasPublicId returns the PublicId field if it s non - nil zero value otherwise .
+1295	getClientConfig returns an AWS CloudFormation config
+3716	GetSizeVersionOk returns the SizeVersionOk field if it s non - nil zero value otherwise .
+26	Log implements the Logger interface .
+5915	NewArena returns a new Arena instance
+7174	NewStack creates a new stack .
+5895	NewRSASigner returns a new Signer .
+2157	native returns a copy of this MainContext .
+4100	SetSelected sets the current value .
+6241	ToHash returns the hash of the given base64 .
+1463	SetKnownExitCode sets the known exit code .
+4158	NewClient creates a new client
+871	loadOrFindTenantID returns the tenant ID for the given subscription ID .
+7131	SetName sets the Name field s value .
+5122	collectAnsiIntoWindowsAttributes is used to collect an ANSI int64 values .
+2444	appendDrawTrianglesHistory appends the images to the image .
+6894	initKeyHandler initializes the key handler .
+5234	NewURIFromHostPort creates a new URI .
+4988	GetZpool returns a Zpool instance
+1629	parseMetadata parses the metadata for a container
+3063	validateAndWrapHandlers returns a slice of handlers that can be used to wrap the given handlers .
+6246	Uint64ToBytes converts a uint64 to a byte slice .
+1323	NewMockSSMClientCreator creates a new mock instance
+4418	DeepCopy is an autogenerated deepcopy function copying the receiver creating a new Hostname .
+6378	PallelSelector returns a new Iterator .
+4344	BuildKeypad builds a new graph .
+4	NewInstantQuery creates a new query .
+4906	Skip implements io . Reader .
+2655	resourceVSphereComputeClusterApplyDelete deletes a cluster .
+4002	failResult returns a new LintResult .
+159	stop stops the shards .
+916	Remove removes the VM .
+2973	Update implements the DiskSubresource interface .
+7198	Put adds a route to the router .
+6813	Child returns a new client .
+6609	New creates a new OuiDb .
+2519	expandHostNetworkSecurityPolicy creates a HostNetworkSecurityPolicy object
+1961	dockerCPUShares returns the number of CPU shares .
+474	ReleaseBody releases the body .
+1973	ContainerRemove mocks base method
+7192	ServeHTTP implements the http . Handler interface .
+4647	NewClusteringIndex returns a new ClusteringIndex .
+701	newFilteredRecords returns a list of DNS records for the given endpoint .
+5995	SetA sets the IP address
+3981	Valid checks if the TTL is valid .
+6684	ErrUnsupportedIdentity returns an error for the given identity .
+566	ServeHTTP implements the Mux interface for Mux .
+6230	GetGUISettings gets the GUISettings
+4363	Index returns the index of the given index .
+6273	GetLogs returns the Logs for the given token .
+1030	NewCLI creates a new CLI
+1051	ExitCh returns the channel of the child of the child process .
+5404	GetgroupsName returns the group name of the group
+3893	typeSwitchStmt is a helper function to create a type switch .
+4503	Items returns a FilterFunc that accepts a slice of strings .
+1352	setClusterInConfig sets the configuration for the current cluster
+2171	native returns a copy of the header .
+4322	AddSSHKey adds an SSH key to the project
+7146	readByte reads a random byte from a random byte slice .
+4969	DerivePBKDF2 returns a copy of the given password .
+3466	HasUntilDate returns true if the recurring date is within the record .
+1735	GetKnownStatusTime returns the known status of the task .
+4417	SetBSON sets the hostname
+6187	GetProducts returns all available products .
+5979	Len returns the number of bytes in the pool .
+5651	Recover implements the KeybaseService interface .
+1647	NewMockTaskResource creates a new mock instance
+5840	RemoveText removes a text from the metric .
+2553	expandVirtualSwitchSwitchSwitchBeaconConfig returns a new HostVirtualSwitchBeaconConfig instance
+3268	GetCustomImageUrl returns the CustomImageUrl field if it s non - nil zero value otherwise .
+5502	NewDefaultLogger creates a new default logger .
+3059	buildAndSelectGuestIPs builds a list of IP addresses for a virtual machine .
+3588	HasWarningRecovery returns true if t is a warning .
+4239	NewNamedStream creates a new stream .
+3698	GetMustShowErrorsOk returns the MustShowErrorsOk field if it s non - nil zero value otherwise .
+991	MapSet sets the value for the given key .
+2030	buildLinuxMemorySpec builds a Linux MemoryMemorySpec .
+1840	waitForStopReported returns true if the task is stopped .
+524	Write writes the header to w .
+2769	flattenVAppConfig is a helper to flatten vapp_v1_Vm_config .
+172	NewFanout returns a new instance of Fanout .
+4819	Stdin sets stdin to stdin
+4537	FetchVersion returns the server s version .
+1885	New creates a new Cgroups object
+4820	Stdout sets stdout to stdout
+1804	InspectImage mocks base method
+58	Matches returns true if the given string matches the given string .
+581	NotFound adds a handler to the middleware .
+5798	UpdateUser updates a user
+5169	StartGeneric starts a generic segment .
+482	CopyTo implements the CopyTo interface .
+1875	TaskContainerMetadataHandler handles the request metadata for a container
+552	Reset resets the current route .
+257	Alertmanagers returns the list of alerts for alerts .
+7042	setConn sets the websocket connection .
+2706	restoreVimClient is used to restore a VIM client from the config file
+580	Trace registers a new http . HandlerFunc
+4211	ValidateRequestWithLeeway validates the request with leeway
+1949	UnmarshalJSON handles deserialization of a ContainerType .
+2281	SetData sets the data for the given element .
+5480	capitalize converts a string to a human - readable string .
+3976	Start starts the network bus
+1755	GetExecutionStoppedAt returns the execution time .
+1083	String returns a string representation of the WaitVar .
+5925	WriteIndentedNented writes b to w .
+7228	Noticef implements Logger .
+4677	ParseSource parses the contents of a source .
+4720	AddRelayTransport adds a transport to the transport .
+3872	addPath adds a path to the list of paths .
+1990	ResolveContainer resolves a container with the given ID .
+6427	Peek returns the next item in the queue .
+3874	UnmarshalStrict unmarshals a raw byte slice .
+6615	NewCmdWithRunner creates a new CmdWithRunner .
+3334	GetLastResolvedTs returns the LastResolvedTs field if it s non - nil zero value otherwise .
+1559	SetDeviceType sets the DeviceType field s value .
+772	addEndpoint adds a new endpoint to the endpoint .
+794	ApplyChanges applies changes to the current configuration .
+5398	IsOfSystem returns true if the group is a system .
+3531	HasMinFailureDuration returns true if the MinFailureDuration field s value .
+2902	HasChange returns true if the given key exists .
+3469	HasUntilOccurrences returns true if the recursively has been set .
+3367	GetClientX509CertURLGet returns the ClientX509CertURL field if it s non - nil zero value otherwise .
+3825	SetNodeInterface sets node interface
+7076	FromJSON creates a Fixture from a database .
+5972	YubiKey returns the key for the given input .
+443	WriteString writes a string to the request .
+5516	Handler handles the request .
+5353	SetForUid sets the UID for the given user
+5293	Extract extracts the result from the request .
+806	addHostOnlyDHCPServer adds a HHCPServer
+496	Host returns the host header
+3298	GetAlertType returns the alertType field if it s non - nil zero value otherwise .
+5965	Increment increments the counter .
+2779	Update updates the resource pool
+6558	Arg adds a new argument to the command .
+7058	Use adds middleware to the router .
+895	Start starts the driver
+2036	IsValidNetworkDevice checks if the device is valid
+1569	NewMockSecretsManagerAPI creates a new mock instance
+1558	SetDeviceName sets the DeviceName field s value .
+4393	MarshalEasyJSON implements the json . ObjectMarshaler interface for ObjectId .
+3675	HasLegend returns true if the Widget is set .
+1148	AddAllImageStates mocks base method
+1503	MarshalJSON implements the json . Marshaler interface .
+3789	ViewMetricMetadata returns the MetricMetadata for the given name .
+2046	RetryWithBackoffCtx attempts to retry a retryable backoff .
+7163	Compile compiles the source of the given source .
+617	Routes returns a router for the resource
+3630	HasShowDistribution returns true if the TraceServiceDefinition is enabled .
+6619	SupplierWithPrependedArgs returns a Cmdderr with the given arguments .
+7056	Handle registers a new route .
+7012	SetBg sets the color of the color
+4508	Reverse returns a new filter .
+802	SaveIPv4 saves the ipv4 configuration
+414	NewPipeConns creates a new PipeConns .
+5342	CommentM writes a comment to the file .
+4428	SetBSON sets the UUID field s value .
+6848	NewCachedLoader creates a new cache .
+120	newParser returns a new parser .
+764	CreateRecordSet creates a record set .
+6173	NewMonitor creates a new Monitor .
+6952	Get returns the value of the environment variable
+1936	AllImageStates indicates an expected call of AllImageStates
+1362	IsAWSErrorCodeEqual returns true if the given error is an error .
+3329	GetLastNoDataTsOk returns the LastNoDataTs field if it s non - nil zero value otherwise .
+3978	HasClientSubscribed returns true if the client has a subscription .
+3943	Substitute returns a substring that matches the given string .
+1751	GetPullStartedAt returns the time of the task .
+7083	Name sets the name of the run config
+3285	HasCanceled returns true if the Downtime has been canceled .
+480	SetBodyString sets the body of the request .
+1348	printECSAttributes prints the capabilities of the agent .
+3104	handle adds a route to the router .
+17	scalarBinop returns the scalar of scalar .
+3198	GetStringId returns the id of the given id .
+2172	native returns a copy of the list .
+6423	Enumerate implements queue .
+6431	countScalars returns the number of elements in the slice .
+3727	GetTitleText returns the TitleText field if it s non - nil zero value otherwise .
+2336	UserToDevice converts a device to a device .
+3465	GetUntilDateOk returns the Time field if it s non - nil zero value otherwise .
+5706	putToBottom adds the given address to the Sentinel .
+5984	NewMeasuredWriter returns a new MeasuredWriter .
+6417	Sorti implements the sort . Interface interface .
+4552	depTier returns the total tier for the given domain .
+5422	NewGroup creates a new group
+5885	Expiration sets the expiration time .
+3986	CheckRDNNSequenceWhiteSpace checks if the given byte sequence is valid .
+1268	NewASMClient mocks base method
+1555	Monitor mocks base method
+2430	RotateGeo rotates the given angle .
+1783	Disconnect mocks base method
+479	AppendBodyString appends a string to the request .
+4744	EncryptAES encrypts a plaintext using AES ciphertext .
+6027	Ints64 returns a slice of int64 values
+4441	DeepCopy is an autogenerated deepcopy function copying the receiver creating a new ISBN10 .
+499	SetUserAgent sets the user agent .
+6127	SuggestGasPrice returns the amount of gas price in the backend .
+2569	NewNetworkInterfaceSubresource creates a new NetworkInterfaceSubresource .
+468	BodyWriteTo implements io . WriterTo interface .
+410	RequestURI returns the request URI .
+4785	LoadWithEnvJSONJSONBytes loads an env from the given src .
+3905	ParseVerb parses a string .
+4119	SetMaximized sets the maximum size of the window .
+6985	NewWriter returns a new WriteCloser
+4350	SequenceEntropy returns the length of the sequence length .
+1289	GetCgroupRoot returns the cgroup root directory
+465	BodyWriter returns the body of the response .
+4160	Send a message
+656	filterByAnnotations returns a list of services that match the provided annotations .
+6974	New returns a new Reader .
+1522	Merge merges the given configuration into a Config .
+561	AllowContentType returns an http . Handler for the given content type .
+4874	SetIdx sets the idx .
+556	Add adds a new route to the route params
+5531	NewLuaObjectFromName creates a new LuaObject from Lua .
+7060	AddHandlerBuilder adds a handler to the router .
+1926	initializeTaskENIDependencies initializes the task endpoints .
+3307	GetSourceType returns the SourceType field if it s non - nil zero value otherwise .
+982	Execute executes the given template .
+7293	CopyFile copies a file at the given path .
+4666	new helper method
+2016	verify response fields
+4742	StringFindBetween returns the difference between two strings .
+4870	In returns true if the parameter is in the mode
+325	nthLast returns the last nth element in the ring .
+5073	Run runs the transaction .
+671	DeleteRecord deletes a record .
+3434	GetRenotifyInterval returns the RenotifyInterval field if it s non - nil zero value otherwise .
+5385	NewInfo returns a new info .
+4781	LoadTOMLBytes loads the TOML bytes from src .
+4630	ErrorStack returns the string representation of the error .
+4282	GetAdditionalGroupsPath returns the group path for the given group
+2591	Relocate is part of the virtual machine .
+2136	native returns a copy of the AccelMap .
+1673	NewASMAuthResource creates a new ASMAuthResource
+5486	Delete deletes an application .
+5867	FetchBroker fetches a Broker by its ID .
+2573	baseVirtualDeviceToVirtualEthernetCard converts BaseVirtualEthernetCard to base64 .
+1955	WriteHeader mocks base method
+2175	native returns a pointer to a GtkSearchBar .
+3242	GetShowPresentOk returns the ShowPresentOk field if it s non - nil zero value otherwise .
+1072	childEnv returns a list of all the environment variables
+5287	valuesFromLine returns a slice of elements from the given line .
+2457	NextPos returns the next position .
+3745	GetImageUrl returns the ImageUrl field if it s non - nil zero value otherwise .
+2590	MoveToFolder moves a virtual machine to a virtual machine .
+6159	checkInPeriod checks if the given period is in the given period .
+594	ContentCharset returns a new http . Handler for the given charset .
+76	ApplyConfig applies the given config to the storage .
+3754	GetIncludeUnits returns the IncludeUnits field if it s non - nil zero value otherwise .
+5088	New creates a new Validate .
+4612	load loads the cache from the cache .
+819	Start the VM
+600	SearchArticles returns a list of articles .
+4404	SetBSON sets the base64 value
+1746	SetAppMesh sets the app mesh
+4144	Mask returns the mask of the mask .
+1085	NewLogFilter returns a new LogFilter
+2859	IsResourceInUseError returns true if the given error occurred .
+7216	SetBufferLength sets the buffer length .
+563	HandlerFunc creates a new middleware middleware .
+7202	NewSalter returns a new Salter
+2001	handleDockerEvents is used to handle docker events
+3027	ToServerListQuery returns a string representation of the server .
+2334	SetMatrix sets the matrix .
+1292	LoadImage loads an image from the container
+3589	GetRecoveryWindow returns the RecoveryWindow field if it s non - nil zero value otherwise .
+6830	NewContext creates a new context .
+4450	UnmarshalJSON implements json . Unmarshaler
+5763	Gauge adds a metric to the metric .
+2478	resolveStaleImages resets the old images .
+5010	pack28 packs a uint32 into a uint32
+5357	SetysForUid sets the value for the given key .
+4333	Send sends a timer to the bucket .
+64	HashForLabels returns the hash of the given labels .
+5471	Get retrieves a queue by ID .
+6693	LockServer implements Client .
+4543	RegistryRepoName returns the name of the image name
+2452	IsInvalidated returns true if the image is invalid .
+5434	WaitFor waits for a message to be sent .
+848	parseTags parses a list of tags .
+7193	UseHandler adds a handler to the route .
+1100	base64Decode decodes base64 encoded string
+945	GetCreateFlags returns the flags for the given VM .
+7288	OK returns true if the syslog .
+876	DriverName returns the driver name
+6081	UpdatePassword updates password
+2231	WaitIsUrisAvailable returns true if the clipboard is available .
+2308	native returns a copy of the TreeStore .
+4954	Parse parses a string into a byte slice .
+1725	DockerHostConfig returns the host config for a container
+5878	getSuitableAlgFromCurve returns an Algorithm based on the curve .
+2808	FlattenVmarshalVmarshalVmarshalVirtualSwitchVlanIDSpec is an autogenerated conversion function .
+1667	MarshalJSON method of TaskVolume
+5631	ComputePrivateKey computes the private key for the given path .
+5195	HasIndex returns true if the schema exists .
+6987	Delete deletes the given path .
+2162	AddAction adds an action to the action map .
+4140	Contains returns true if the network is contained in the network .
+2057	NewTaskResponse creates a new task response
+6931	Snapshot returns a copy of the rate .
+416	LastUseTime returns the last time in the host .
+756	replaceRecord replaces the record with the given endpoint .
+5196	NewPQLBaseQuery creates a new PQLBaseQuery .
+2266	native returns a copy of the overlay .
+361	StatusMessage returns the string representation of the status code .
+29	ApplyConfig is part of the Handler interface .
+2732	tagCategoryByName retrieves a category by name .
+6317	RenderTemplate renders a template .
+1071	All templates .
+5219	Row returns a new PQL row .
+2145	native returns a copy of the matrix .
+6072	ClientOpen opens a client for the given agent .
+3619	GetNewStatus returns a new ToggleStatus instance
+4519	RunFilter runs the filter .
+5780	DeleteMetricClusterByCID deletes a metric from the cluster
+3503	HasScope returns true if the series has scope .
+4594	updateLocations updates the location of the source directory .
+79	RateLimit creates a new log limit .
+616	NewWrapResponseWriter returns a WrapResponseWriter .
+7234	getChildEntry returns the entry for the given pattern .
+5660	CompareHashAndPassword compares the given password and password .
+1221	RemoveContainerReference removes a container reference
+4469	UnmarshalEasyJSON implements the json . Unmarshaler interface .
+295	Adapter returns a storage adapter .
+6837	PushSMS sends a message to the device .
+3024	MoveObjectTo moves the object to the given folder .
+4771	ReadLine reads a line from the reader .
+4526	IsComment returns true if the line is a comment .
+1213	APIVersion returns the version of the docker client
+3520	GetUserAgent returns the UserAgent field if it s non - nil zero value otherwise .
+1044	Stop stops the client
+342	SetLastError sets the last error
+2525	schemaHostNasVolumeSpec returns a schema for the host .
+2987	Swap implements the sort . Interface interface .
+6521	GetTransactions returns a list of transactions .
+7050	SafeCreate creates a new file .
+326	next returns the next token .
+2931	flattenClusterDependencyRuleInfo flattens a clusterDependencyRuleInfo structure .
+1720	convertENITIIConfig converts an EnvIPConfig to an environ .
+5587	DetachPersistentDisk removes the persistent disk with the specified identifier .
+2044	GetTaskHealthMetrics mocks base method
+5463	GetNextAlertsInRange returns an alert page for a given range .
+842	StaticAddress returns the static address for the given address .
+2897	resourceVSphereDatastoreAffinityRuleFindRuleFuncRuleFindEntryFindEntryFindEntryFindEntryFindEntryFindEntryFindEntry finds the value of the given key in the pod .
+6390	Take a number of elements in the iterator .
+4586	IsPtr returns true if the argument is a pointer to a pointer .
+7242	Debugln logs a debug message
+7165	writeTo implements io . WriterTo interface .
+5084	Release releases the connection .
+6139	PSCSettle is part of the backend interface .
+1266	UnmarshalJSON handles deserialization of VolumeResource .
+1939	ENIIByMac mocks base method
+7082	PublishPort is part of the RunConfig interface .
+1331	NewMockHttpClient creates a new mock instance
+6552	NewDataWriter returns a new DataWriter .
+6641	Overlaps returns true if the Rectangle is overlap .
+1450	storeV3EndpointIDToTaskUnsafe is used to store the V3 endpoint ID .
+7220	log sends a message to the logger .
+3377	GetTokenURIOk returns the TokenURI field if it s non - nil zero value otherwise .
+203	NewManager creates a new Manager
+1469	IsMetadataFileUpdated returns true if the container is updated
+2721	applyVirtualDevices takes a list of virtual devices and applies it to disk .
+6409	IsEmpty returns true if the list is empty .
+3372	HasPrivateKey returns true if this is a private key
+6571	ChangeCustomHostVar creates a new custom host variable
+5487	URL returns the name of the recording .
+7078	MarshalBinary implements the Marshaler interface for MACMaskArg .
+6021	InterfaceOr implements the interface .
+2032	OverrideCgroupParent overrides the default CgroupRoot .
+1304	taskShouldBeSent returns true if the event was sent .
+6450	Set sets the severity value .
+5744	initLocales creates a new language based on the provided options .
+885	Stop stops the driver
+3133	UnmarshalText unmarshals a string into a Duration .
+7144	SetFromDocker sets the docker port
+317	NewBufferIterator creates a new BufferedSeriesIterator .
+7033	GetRemoteFile returns the remote file
+3855	NewCursor creates a new cursor
+1822	emitCurrentStatus emits the current status of the task
+1634	SetDriverVersion sets the driver version
+6689	ResetPasswordForDatabase creates a new database server .
+3770	Get API key
+2864	parseVersionFromInfo parses a VSphere version and returns it .
+2500	CopyImage returns a copy of the image .
+6721	setAuthHeader sets the access token
+6515	CreateUser creates a new user
+7137	Negotiate returns the content of the given request .
+1864	retrieveSSMSretretrieves the secrets for a given region .
+1826	cleanupCredentials removes credentials from the pool
+193	NewAdapter creates a new Adapter
+5406	AddSystemGroup adds a system group to the system .
+1582	DeleteSecretWithContext mocks base method
+3264	HasInvert returns true if the condition is in a conditional format
+2689	Rename implements storage . Storage .
+2282	DragSetIconPixbuf sets the color of the image .
+7080	NewMulti creates a new LogBackend .
+568	Handle registers a handler for mux .
+6335	ServeHTTP implements the http . Handler interface .
+2286	native returns a copy of the spin button .
+2876	expandClusterAffinityRule returns a new ClusterAffinityRuleSpec .
+5255	httpRequest sends a request to the server .
+4173	Execute executes the command line arguments
+3274	GetDashboardCount returns the DashboardCount field if it s non - nil zero value otherwise .
+5566	WithContext adds the context to the get vmsByStates params
+6911	SaveEntity saves an object to the database
+2712	wait waits for the response to be completed .
+226	NewNerveDiscovery creates a new Discovery instance
+944	randomString returns a random string
+7184	readMessage reads a message from the client .
+2139	native returns the current GtkTextView .
+1462	SetSentStatus sets the sent status of the container
+4756	HTTPDelete deletes the given URL .
+2174	native returns a copy of the view .
+313	FromQueryResult converts a prometheus query into a SeriesSet .
+888	getNameAndPid returns the name of the process .
+4887	On returns true if the tracer is enabled
+3559	GetPublicId returns the PublicId field if it s non - nil zero value otherwise .
+2831	resourceVSphereDRSVMOverrideParseIDParseID parses a string and returns the string representation of the resource .
+5968	QR returns the QR code for the given label .
+6442	Swap swaps the elements in the list .
+3574	GetOk returns the Ok field if it s non - nil zero value otherwise .
+4966	Encode encodes data into a byte slice .
+4189	Execute executes the command
+947	NewDriver creates a new Driver
+3155	NewWhisper creates a new Whisper
+4723	New creates a new Runner .
+1557	SetInferenceDevices sets the InferenceDevices field s value .
+2086	LinkByName mocks base method
+363	Parse parses a string .
+5806	UpdateAcknowledgement updates an acknowledgement .
+3572	GetCriticalRecoveryOk returns the CriticalRecoveryOk field if it s non - nil zero value otherwise .
+13	evalSubquery evaluates a subquery .
+4259	spname returns the name of the given file .
+6606	Exec executes a request .
+4410	MarshalJSON implements the json . Marshaler interface .
+5626	getPubKey returns the public key associated with the key .
+5893	Sign implements the RSA method .
+6078	GetObjectByHash gets the object by hash .
+6037	NewWorker creates a new worker .
+5493	GetPage returns the page for the given page .
+1614	RotateSecretWithContext mocks base method
+2983	findControllerInfo returns the controller info for the controller .
+3533	GetMinLocationFailedOk returns the MinLocationFailedOk field if it s non - nil zero value otherwise .
+573	Delete is a handler for Mux .
+5441	AddTrigger adds a handler to the bot .
+2704	SaveVimClient saves a virtual client to disk .
+5104	Insert inserts documents into bulk .
+2571	Read network interfaces
+6946	Close closes the Registry .
+1020	NewKVListQuery creates a new KVListQuery .
+5896	getFieldWithTag returns the field with the given tag .
+2460	Update updates the current tile .
+4154	Insert inserts an entry into the router .
+2533	expandClusterHostGroup expands a cluster group by name .
+3345	HasEndTime returns true if the host is end time .
+2672	flattenClusterVMComponentProtectionSettings is a helper function for creating a new cluster .
+3296	GetTimezoneOk returns the TimezoneOk field if it s non - nil zero value otherwise .
+5711	Addr returns the address of the slave .
+2422	Draw draws an image .
+4541	FqName returns the name of the object .
+1042	Consul returns the Consul API client
+1571	CancelRotateSecret indicates an expected call of CancelRotateSecret
+3444	GetThresholdWindowsOk returns the ThresholdWindows field if it s non - nil zero value otherwise .
+5447	Cancel cancels a request .
+3105	Handle registers a handler for the given route .
+5548	RequestUsers sends a request to the client
+6128	EstimateGas returns the gas estimate for the given call .
+1425	Disconnect disconnects the client
+5042	Batch sets the number of batches .
+4662	bearingTo returns the bearing of the given point .
+2465	availableFilename returns the filename for the given prefix .
+3326	GetStackedOk returns the StackedOk field if it s non - nil zero value otherwise .
+4488	UnmarshalJSON implements json . Unmarshaler
+6829	TitleFromContext extracts the trace ID from the context .
+3	NewEngine creates a new engine .
+2489	Fill implements the Image interface .
+2350	EdgeFlag sets the edge flag .
+1721	convertAppMeshToCNIConfig converts an AppMesh to an AppMesh .
+3521	GetUserAgentOk returns the UserAgentOk field if it s non - nil zero value otherwise .
+6436	Get returns the value associated with the given position .
+4751	Error returns a string representation of the ErrorList .
+5363	Add adds a GShadow to GShadow .
+2639	removeDatastore removes a datastore .
+3809	SetIPBlockList sets the IP block list
+3622	GetService returns the Service field if it s non - nil zero value otherwise .
+5534	Get retrieves the value from the object .
+1750	SetPullStartedAt sets the PullStartedAt field s value .
+4187	DeleteConfigIfExists deletes the config directory
+3876	Close closes the encoder .
+6502	ApiKeyClient returns a client with the given secret key .
+6028	Flats returns a slice of float64 values
+1390	CleanupNS mocks base method
+5397	NewSystemGroup creates a new Group .
+694	dnsimplementsZone returns the zone for the given hostname .
+2324	SetColors sets the color
+4222	keyIsExpired returns true if the key is expired .
+5438	Run starts the bot .
+5185	DefaultCluster returns a default Cluster
+5072	NewRunner creates a new Runner .
+2745	expandSliceOfDistributedVirtualSwitchHostConfigSpec returns a slice of DistributedVirtualSwitchHostConfigSpecConfigSpec .
+765	UpdateRecordSet updates the record set .
+6704	AddNodesToLoadBalancer creates a load balancer
+6153	AgentPreServiceSuspend is part of the AgentService interface .
+1924	Rename mocks base method
+5511	Println prints a log message
+2542	expandCustomGuiUnattachedUnattachedUnattached returns a new CustomizationGuiUnattachedUnattachedUnattached .
+6607	xtoi2 returns the number of bytes in s .
+1631	parse network metadata
+1207	sdkDockerClient returns the client sdk client .
+200	setEvaluationTimestamp sets the evaluation timestamp .
+378	SetNoValue sets the value for the given key .
+3892	switchStmt is used to switch a statement .
+5007	EncodeAll encodes src into dst .
+6961	Clear clears the set .
+6295	MarshalUint32 marshals a uint32 into a byte array .
+596	split splits a string into a string .
+3730	GetURL returns the URL field if it s non - nil zero value otherwise .
+3395	GetOverallState returns the OverallState field if it s non - nil zero value otherwise .
+7259	NewStdFormatter creates a new StdFormatter .
+5159	Init initializes the engine
+4715	InitializeOptions initializes options .
+1592	GetSecretValue mocks base method
+5884	Proxy configures the GServiceAccount .
+5704	Idle implements the Client interface .
+3145	Copy returns a copy of this Points .
+4049	FillRect fills the rectangle with the given width .
+3273	HasInverted returns true if the DashboardConditional field exists .
+1998	GetInstanceMetrics returns the metrics for the specified container
+1208	DockerStateToState converts a container to a container .
+5374	AddSystemUser adds a user to the system .
+5633	SignBTCMessage signs a message with the given private key .
+45	LoadFile loads a YAML file
+7312	WaitPeerListening waits for a given network address .
+7048	SafeRemoveSSH removes a file at the given path .
+6308	Prefix returns a new AssetPipeline .
+873	saveTenantID saves tenant ID
+6376	First returns the first element of the given subject .
+3482	GetTags returns the TagsMap field if it s non - nil zero value otherwise .
+1792	MarshalJSON method of ContainerStatus
+1440	TaskByArn returns the task by ARN .
+6587	EnableSvcNotifications enables service notification
+5700	validateStruct validates a struct .
+4243	BoundingBox creates a BoundingBox with the given hash .
+3805	String returns the string representation of the node .
+411	AppendBytes appends the destination URI to the request .
+4566	Clone returns a copy of the template .
+2041	ContainerDockerStats indicates an expected call of ContainerDockerStats
+6949	FilterBefore is used to filter a set of rows in the store .
+994	MapValues returns a slice of values .
+3739	GetSearch returns the SearchOrLogQuerySearch field if it s non - nil zero value otherwise .
+1092	keyExistsFunc returns true if the key exists .
+6565	GetString returns a string representation of a record .
+3806	ccIP returns the CRC of the given IP .
+5468	GetPage returns the page of the page .
+4351	ExtraLeetEntropy returns the entropy of the given password .
+4578	splitPath splits a path into a slice of strings .
+4877	Level returns the level of the error .
+2599	UUIDs returns the list of UUIDs for the given UUID .
+7302	CreateBucketIfNotExists creates a new bucket .
+3625	GetShowBreakdown returns the ShowBreakdown field if it s non - nil zero value otherwise .
+5018	ParseURL parses a URL into a DialInfo struct
+6676	Len returns the length of the vector .
+5892	Client returns an http . Client that can be used to authenticate .
+7307	PutGob stores a key in the bucket .
+4135	Equal returns true if two NetworkNumber objects are equal .
+3495	GetAggrOk returns the AggrOk field if it s non - nil zero value otherwise .
+6804	Bool returns the value of a flag .
+3652	GetToTs returns the ToTs field if it s non - nil zero value otherwise .
+1303	Info indicates an expected call of Info
+6092	TopUpChannel implements the Handler interface for TopUpChannel .
+7057	Options adds options to the router .
+3888	stmtList adds a function to the builder .
+3686	GetManageStatusTitleText returns the ManageStatusTitleText field if it s non - nil zero value otherwise .
+2123	TypeString returns the string representation of the Variant .
+6158	AgentPreOffOfferingDelete deletes an existing agent .
+2025	NewNamedError returns a DefaultNamedError
+6880	MakeWidget creates a Widget .
+5223	RowTopN creates a new row .
+2271	native returns a copy of the range .
+6370	Enumerate iterates over the directory
+4270	NewConsole creates a new console .
+3969	New creates a new EventBus
+5134	Output prints the color .
+1959	GetClient returns the client s client .
+2249	native returns a copy of the FileFilter .
+3603	HasFrom returns true if the time range is in the range .
+634	validateChangeBatch checks if the given zone is valid
+5845	FetchRuleSets retrieves the list of rules from the API .
+2340	Draw draws an image .
+1920	MkdirAll mocks base method
+2225	native returns a copy of this CheckButton .
+2751	flattenDVSNameArrayUplinkPortArrayPplinkPortPolicy is a helper function to flatten a DVS name
+2619	SliceInterfacesToManagedObjectReferences returns a slice of ManagedObjectReferenceReferences
+7315	Unsubscribe removes all handlers from the bus .
+4424	DeepCopy is an autogenerated deepcopy function copying the receiver creating a new CIDR .
+660	ExoscaleWithLogging creates a new ExoscaleOption .
+1235	constructNetworkConfig builds the network configuration for the given plugin .
+1894	synchronizeContainerStatus synchronizes the container status .
+3137	SetMaxSize sets the maximum size of the cache
+5684	Error implements the error interface .
+1251	publishHealthMetrics publishes health metrics .
+5786	FetchAnnotations retrieves all annotations from the API .
+1752	SetPullStoppedAt sets the PullStoppedAt field s value .
+526	Header returns the header of the request header .
+3398	GetOverallStateModified returns the OverallStateModified field if it s non - nil zero value otherwise .
+3339	HasLastTriggeredTs returns true if the group has been tracked .
+2710	SavedVimSessionOrNew creates a new instance of the vSphere client
+4445	DeepCopy is an autogenerated deepcopy function copying the receiver creating a new CreditCard .
+3816	NumNodes returns the number of nodes in the server .
+3406	HasContent returns true if the note is content of the note
+510	Reset resets the response header .
+1694	NewContainerStateChangeEvent creates a new container state change event .
+6823	DumpMetrics dump metrics
+3441	GetThresholdsOk returns the ThresholdCount field if it s non - nil zero value otherwise .
+3190	GetMonitorsByTags returns a list of monitored monitors .
+6306	NewServiceContainer returns a new ServiceContainer
+4784	LoadWithEnvBytes loads the environment from the given src .
+5697	options returns a slice of options .
+160	enqueue adds a queue to the shards .
+7018	NewErrorStatus returns a new error .
+7214	run starts the logger .
+6271	Check checks if the token is valid
+4716	AddNoCloseTagName adds a CloseTagName to the options list .
+3116	GenerateETag generates an etag for the given file .
+3907	readReaderRead reads data from the given buffer .
+48	CheckTargetAddress validates the target address
+2881	ValidateVirtualMachineClone validates a virtual machine .
+2446	readPixelsFromGPU reads the image from the image .
+6172	Migrate migrations
+3194	GetIntOk returns the value of int
+6991	Result returns the result of the response .
+7304	GobValue implements the Bucket interface .
+6846	PushNote sends a message to the subscription .
+3432	GetQueryConfigOk returns the QueryConfigOk field if it s non - nil zero value otherwise .
+4409	DeepCopy is an autogenerated deepcopy function copying the receiver creating a new URI .
+6123	NewHandler creates a new Handler .
+6018	TimeMust returns the time for the given key .
+4473	ParseDuration parses a string into a duration .
+4941	TLSConfig returns the TLS configuration for this Connector .
+1806	KnownVersions indicates an expected call of KnownVersions
+3999	EncodeLintDescriptionsToJSON serializes the given io . Writer to w .
+1797	APIVersion mocks base method
+2235	WaitIsTargetAvailable returns true if the target is target .
+3570	HasCritical returns true if the threshold is critical .
+237	TargetsAll returns all the targets in the pool .
+3185	EditComment update comment
+2753	FlattenVMwareDVSConfigInfo flattens a VMware DVSDVSConfig into a VM object
+5479	price returns a string representation of the given unit .
+5563	FindPerformanceSpacePrice returns the price for a given volume .
+6538	AddDialer adds a Dialer to the Dialer .
+3312	HasDefinition returns true if the graph is defined .
+5932	PostEZCountTime writes an EZCount time .
+6885	resize resizes the window .
+3828	NodeID returns the node ID
+1045	NewVaultReadQuery creates a vault read query .
+5097	IsObjectIdHex returns true if the given string is an object ID .
+220	NewManager creates a new manager
+3227	HasKey returns true if the API key exists
+4848	GenSQLServer generates a SQLServer .
+4623	numToString converts a string to a string .
+5431	Uptime returns the current time
+222	Run starts the manager .
+687	NewDnsimpleProvider creates a new DnsimplementsProvider
+5265	OptClientManualServerAddress is a functional option to set the default server .
+3511	GetProperty returns the Property field if it s non - nil zero value otherwise .
+1111	parseFloat parses a string into a float64 .
+7101	Errorf logs an error message
+3782	AddTagsToHost adds tags to the host
+1488	SetHealthStatus sets the health status of the container
+2131	native returns the GVariantBuilder .
+2681	flattenClusterInfraUpdateHaUpdateConfigInfo updates the cluster info for a cluster
+1733	SetKnownStatus sets the status of the task .
+3724	GetTileDef returns the TileDef field if it s non - nil zero value otherwise .
+2677	expandClusterDrsConfigInfo returns a new ClusterDrsConfigInfo .
+2764	schemaVirtualMachineResourceAllocation returns a schema for a virtual machine .
+6235	New creates a new service .
+7206	NewNewsItem creates a new NewsItem
+2279	GetData returns the data of the selection data
+6160	AgentPreOfferingPopUp implements the Worker interface .
+6815	Update updates an existing value .
+3453	GetLogSetOk returns the LogSet field if it s non - nil zero value otherwise .
+2066	Consume waits for the buffer to be consumed .
+6839	Push pushes data to the server
+670	CreateRecord creates a new DNS record .
+3852	PageUp implements the List interface .
+158	start starts a goroutine .
+6136	PSCGetOfferingInfo implements the backend interface .
+426	ListenAndServeUNIX is like ListenAndServe but accepts a Unix socket .
+2866	String returns a string representation of a VSphereVersion .
+1836	startContainerTransitions starts a container transition
+5325	nextUID returns the next user in the database .
+562	GetReqID returns the request ID
+6399	Enumerate implements the Event interface .
+5339	AppendString appends a string to the edit .
+329	coalceBuckets returns a subset of buckets .
+6178	VerifySuspendedChannelsAndTryVerify implements the Monitor interface .
+254	ApplyConfig applies the given configuration to the manager .
+1633	SetGPUIDs sets the GPU IDs
+6874	Writer sets the writer to the writer .
+166	Validate validates this RuleGroups
+5089	Field adds a field to the field .
+1248	publishMetrics is used to publish metrics
+1954	Header indicates an expected call of Header
+1034	logError logs an error .
+3879	lintName returns the name of the given name .
+5484	CreateResource creates a new resource
+937	NewDriver creates a new driver
+4620	getSourceLines returns the lines of the given file .
+1785	MakeRequest mocks base method
+5730	LimitChan returns a channel that can be sent to the channel .
+2099	Delete removes a key from the cache .
+6282	Save saves the specified ipvs .
+3021	validateVirtualMachineFolder validates a virtual machine .
+1374	sendChange sends an event to the scheduler .
+4963	UInt32ToBytes converts a uint32 to a byte slice .
+4974	ContainerMetrics returns the metrics for the given app .
+6371	All returns true if the predicate matches the predicate predicate .
+6711	APIClients returns a list of all API clients
+1341	NewStateManager returns a new StateManager .
+2548	expandCustomIPSettings is used to expand custom IP addresses
+4740	StringMap returns a slice of strings
+210	Collect collects metrics .
+2555	expandLinkDiscoveryProtocolConfig returns a pointer to a LinkDiscoveryProtocolConfig .
+3074	Query returns the request form
+3249	HasTransferAllUserComments returns true if this ChannelSlackRequest has been set .
+5857	FetchWorksheets returns a list of worksheet names .
+1624	UpdateSecretVersionStageWithContext mocks base method
+622	isAWSAlias returns the alias for the given endpoint .
+4850	GenOracle generates a URL from a URL .
+5657	Update implements the KeybaseKeybase interface .
+5138	Warn implements Color interface .
+1989	ResolveTask resolves the given Docker container ID .
+834	deviceFlowAuth is used to authenticate a user token .
+6328	Equal returns true if two strings are equal .
+2470	enable enables the layout of the buffer .
+6965	fixWeekend is a helper function to fix a week .
+5605	WithTimeout adds the timeout to the list vMPar params
+4918	ReadCesu8 reads from the reader .
+6598	WaitConditionNegate adds a condition to the query .
+6522	GetOrders returns a list of orders
+4636	Add adds a new point to the index .
+6411	PeekBack returns the next item in the list .
+336	refresh is used to refresh all files .
+2844	Update implements the Config interface .
+4364	Range returns the range of bytes in the range .
+5419	AppendChild adds a new child entity to the entity .
+3035	WithUserAgent sets the user agent
+564	chain returns the middleware middleware for the middleware .
+5304	CompareFile compares two files .
+2795	BasePropertiesFromReference returns the properties of the resource .
+103	targetFromGroup returns a slice of targets from the target group .
+6959	ContainsAll returns true if the set contains all values .
+6736	OnStart implements Peer .
+4015	pathUp moves the file to the current directory .
+864	waitVMPowerState waits until the given VM is reached .
+3551	GetDeletedAtOk returns the DeletedAt field if it s non - nil zero value otherwise .
+2967	DiskMigrateRelocateRelocateOperation returns a list of disks that match the specified resource .
+5206	BatchQuery creates a new QueryBatchQuery .
+7303	Delete removes a key from the bucket .
+6788	Unmarshal unmarshals data into JSON
+3766	GetDowntimes returns a list of Downtimes
+5794	CreateOutlierReport creates a new OutlierReport .
+1253	createPublishHealthRequests creates a new instance of PublishHealthRequest
+3567	HasPrefix returns true if the template variable is a prefix .
+1442	AddContainer adds a container to the container
+6011	IntIf returns the value of the given key .
+4274	remountReadonly attempts to remount the given path .
+5328	NextSystemGID returns the next system id .
+2212	SimpleActionNew creates a new SimpleAction .
+5045	Skip skips the given number .
+6620	SelfCmder returns the Cmdderr for the given executable .
+4408	UnmarshalJSON implements json . Unmarshaler
+6345	UrlFor returns the URL for the given route .
+3960	Reset resets the writer .
+3808	NewServer creates a new Server .
+3568	GetCritical returns the Critical field if it s non - nil zero value otherwise .
+6764	NewNetAddressStrings returns a slice of net . NetAddressStrings
+5988	BytesPerSec returns the number of bytes per second .
+4853	GenODBC generates a URL for the given URL .
+2198	InitI18n initializes a new I18n .
+2640	queryVmfsDatastoreExtendOptions returns a slice of VfsDatastoreOptions .
+6977	SetHeader sets the content of the request .
+2011	GenerateCredentialsRelativeRelativeURI returns a string representation of the CredentialsRelativeURL .
+6805	String returns a string representation of a flag .
+709	NewRcodezeroChanges returns a new RcodeZeroChange .
+2284	native returns a copy of the separator .
+7222	Log implements Logger .
+3692	GetMustShowBreakdownOk returns the MustShowBreakdownOk field if it s non - nil zero value otherwise .
+1997	addToStatsContainerMapUnsafe adds a container to the container .
+6147	keyFromChannelData returns the key from the given channel .
+4668	NewFile creates a new File .
+4999	Destroy destroys the Dataset
+5473	Delete deletes the specified id .
+2755	expandDVSCreateSpec creates a DVSCreenSpec from the given resource .
+235	Stop stops the manager .
+6971	getValue returns the value for the given key
+2662	FlattenBaseClusterDasAdmissionControlPolicy is a helper function to flatten ACLs .
+1489	GetHealthStatus returns the Status of the container
+3994	validateGTLDs validates a list of TTLs .
+1737	GetCredentialsID returns the credentials associated with the task .
+2906	SetRestart sets the restart parameter

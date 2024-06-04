@@ -1,0 +1,1000 @@
+1309	Perform HTTP request
+228	Parses the value of the given value .
+51	Remove blank values from a hash
+563	Add a group to a venue .
+501	Get all segments for a given item
+457	Initializes the generator .
+285	Perform an HTTP POST request .
+209	Get a folder
+1385	Returns a list of JIDs to be included in the JSS
+1116	Create a new cache .
+178	Sets a folder ID for a given ID .
+1209	Set column number
+864	Destroy a friend
+65	Runs the given block in the response body .
+61	Executes the given action on the service .
+191	This method is used to dispatch a field in the format .
+447	Deletes a file with the given path
+476	Add a record to the index
+1034	Normalizes the given object .
+1232	Process the number of rows from the table .
+54	Validates that the specified query is valid .
+1149	Copies a file to the remote server .
+407	Ensure the given argument is a valid message type
+1330	Executes the given host .
+1390	Initializes a new Date object
+859	Set the price
+451	Connect to the server
+919	Iterates over each item in the list .
+1206	Set a column in a column
+569	Returns list of trending users
+13	Creates a mock call for the given request
+326	Check if the text matches the given string .
+865	Sets the offset on the server .
+696	Send request via HTTP
+1370	Get a list of follow links
+318	Finds the maximum number of records by id .
+440	Display flash messages .
+689	Add a new network configuration to the specified container .
+1392	Raises an exception for this exception .
+189	Raise an exception if the item is not present
+778	Finds a movie by id
+198	Copy an item from the container
+735	Parses the node and returns the result
+704	Add a virtual network to a VM
+1236	Retrieve the previous column from the table .
+541	Get a user s information .
+88	Sets the credentials for this credential .
+940	Updates the descendants of this node .
+1098	Initialize the column
+255	Create a new Session instance .
+775	Returns an array containing the intervals in the given range .
+161	Update a single document
+1130	Adds a point to the given address .
+600	Deletes the given ID .
+1287	Creates a new daemon instance .
+1266	Performs a move command .
+740	Processes a single file .
+1182	Returns a new Array with the results of self .
+393	Configures the notification interval for the given trigger .
+142	Merge two cells .
+93	Normalize fields .
+466	Returns the parameters for the request
+592	Get the distinct values for a given field .
+163	Creates a new Resource
+1382	Process number of seconds .
+206	Subscribes to the notification .
+1359	Acquire a lock
+1365	Sets the page information about the current page .
+928	Creates a new table with the given options .
+1301	Send a notification message .
+747	Determine the filename from the extension .
+333	Convert a class name into a class name .
+758	Fetches the feature information .
+727	Finds a format by name .
+429	Define a text attribute
+546	Add a user to a user
+146	Get a sheet by name
+1247	Export the translations for the current locale .
+1300	Send SMS message to SMS .
+350	Assigns the attributes of the resource .
+1093	Returns the content of the post .
+1395	Find resource by name
+334	Close the buffer .
+946	Checks if the file exists
+777	Retrieves the movie for a given movie .
+552	Mark a note
+1310	Waits for a given deadline .
+1140	Generate log lines
+449	Reads from + file + .
+664	Enumerate a specific device
+114	Determines if the file exists .
+469	Verify that the request is valid
+1386	Creates a new Config object .
+646	Returns the file type of the file .
+821	Generate a foreign key name
+548	Get a specific tip
+135	Iterates over the remote nodes .
+432	Defines a radio button .
+1161	Executes the given command .
+644	Set the width of the border .
+435	add a menu item to the menu
+1022	Search for a song
+810	Creates a new marker for a given mapper .
+939	set default values
+292	Set the HTTP client to use
+542	Get the user s photos
+1393	Hash representation of the object .
+505	Get list of campaigns
+1378	Search the color for a color value
+1103	Sets the name of the given name .
+538	Get a list of all users in the authenticating client .
+1197	Collects all the parameters from the API .
+877	Validates the object .
+1195	Runs the game with the given name .
+817	Creates a new Geometry object
+741	Transforms a text into a text type .
+1311	Renders the row for a model .
+283	Iterates over each URL in the page .
+1043	Retrieves a single summoner .
+1010	Add a schema to the schema
+186	Creates a new Calendar instance .
+96	Normalizes the fields of a hash .
+224	Convert input to camelCase
+313	Send a comment
+327	Determines if the user is a list of strings .
+1387	Returns the date as a string
+1221	Creates a Joins partition
+130	Create a new thread object .
+788	Update the privacy store .
+781	Update a user
+1220	Returns column positions
+958	Adds the given query to the given query .
+1083	Parse the given IO object
+514	Sets the basings for this company
+1133	Execute the given input file
+23	Replace the name of a key with the given name .
+234	Perform an HTTP request .
+1099	Converts the given value to a string
+1324	Sets the attributes of the query .
+1366	Sets the contents of a video .
+1398	Start the websocket connection
+601	All the permissions of this user .
+890	Resolve the key reference to a foreign key .
+323	Creates a new Tweet .
+929	Creates a new watcher
+6	Returns the cookies for the cookie
+539	Get a user s friends
+1025	Handles a session .
+365	Creates a new log with the given parameters
+1039	Sets the location from the container .
+217	Creates a new Client instance .
+611	Creates a new Resource
+1250	Loads the properties of the configuration file .
+1377	Create a color from a string
+1276	Bind a queue to an exchange
+765	Setup the form for the given attribute
+330	Get the name of the screen .
+1104	Finds the child node under the given value .
+1086	Returns an array of enum objects
+1	Format the result as a string
+1226	Serialize the table
+663	Initializes the application .
+1000	Convert a currency to a currency
+39	Get the results of a batch job
+229	Returns the contents of an asset
+743	Creates a temp file .
+629	Creates a new reader .
+490	Update email address
+118	Creates a new transaction .
+493	Update a template
+1376	Calculate the height of the image
+1348	Reloads all events from + file + .
+175	Sets the index of the page .
+995	Extracts the data from the API .
+141	Update a row
+1090	Processes the given object .
+257	Sanitize a URL .
+262	Create a new page from the given hash
+973	Binds the model to the model .
+1125	Updates the status of the master .
+338	Extract directories from the archive .
+1294	Creates a new instance of the given string .
+1080	Copies one or more child types of child objects
+866	Returns the default path to the directory
+433	Generates a label for the given label .
+1242	Derives the default Characteristics attribute for the given attribute .
+411	Verifies that the signature is valid
+638	Set the shade for this row .
+1285	Prepare the modes of modes
+764	Sets the associations for the given attribute .
+897	Create a new commit .
+1059	Sets the attributes of the object .
+924	Generates the table for the table .
+247	Returns the destination path for the destination file .
+507	List drafts
+460	Converts the value to a hash
+131	Add a transaction to this transaction .
+692	Generate the configuration for a specific network configuration .
+43	Checks if a given service is registered .
+1134	List all teams for a team
+471	Saves the model to the database .
+1373	Register a new port
+14	Creates a new instance of the Module instance .
+145	Get the Format Format .
+120	Add a transaction to this transaction .
+468	Refunds a transaction
+138	Determines if the user is visible for the user .
+64	Raises an exception if it fails .
+676	Renders audits .
+1196	Write the zip file to the output file .
+1052	Returns true if the statement matches the conditions
+487	Executes the block inside the given directory .
+570	Search all venues for a user
+994	Creates a new Historics query .
+438	Generates a spin .
+1214	Set meta data
+270	Visit the specified page .
+1169	Handles the default delegator .
+1180	Adds a single row to the table
+968	Set the given owner of the given owner .
+497	Create a custom field object
+1181	Create a new empty row
+833	Add metadata to the collection
+389	Release a lock
+193	Update an item in the attributes hash
+1358	Create a new Time object .
+882	Import an object into the database .
+725	Creates a new Format instance .
+867	Collect directories for the given glob pattern
+841	Convert to hash
+956	Adds the given query to the search results .
+110	initialize the connection
+201	Validates the response .
+124	Returns the maximum number of transactions
+824	Validate an IP address .
+694	Get a specific task
+223	Builds a SOAP request object .
+509	List all emails
+392	Reconnect the connection to the server
+1176	Create a new table instance .
+1351	Wait for the current thread to wait until it has been processed .
+918	Iterates over each item in the list .
+287	Perform a PUT request .
+1274	Get a list of all available labels
+375	Get the value of the queue
+1187	Creates a new playlist .
+947	Convert an array of strings to an Array .
+511	List the suppression list
+154	Saves associations
+907	Run the backup .
+1127	Select a weighted weight for a given type .
+200	Creates an item in the store .
+103	Authorize an authorization .
+1107	Create a control object .
+30	Prefix a namespace .
+1384	Send an HTTP request
+484	Deletes all records from the server
+340	Dump the local file .
+832	Returns an array of all currencies for this table .
+1186	Search for a room
+985	Updates the TTL of expire time .
+437	adds three methods - one to retrieve the text from a tree and another to check the view s existence .
+1305	Ensure the given condition is a valid condition
+1286	Extract the permissions from the subject
+337	Add an entry to the archive .
+776	Determines the matrix of the matrix .
+4	Convert an extension to a file .
+799	Instantiate a new HTTP client .
+543	Get user history
+931	Returns the capabilities of a browser .
+584	Initialize the collection .
+1216	Initialize a Collection
+996	convert currency to currency
+317	Sets up the client
+388	Acquire a lock
+607	Set the HTTParty for a service
+445	Creates a new file .
+119	Creates a new transaction .
+1110	Creates a new user .
+1166	Set the status of the collection
+642	Set the border for a given width
+117	Initializes a new Transaction .
+102	Create a new service instance .
+976	Initialize the middleware .
+1029	Renders the navigation .
+1087	Pull data from an event
+322	Loads the configuration from the config file .
+116	Push a message onto the queue .
+1040	Sets the location of this Dimension .
+164	Creates a new HTTP version .
+380	Perform an HTTP request .
+140	Format a column
+139	Create a new password object .
+481	Adds a single record to the model .
+826	Returns true if the cached value exists .
+245	Runs the seed .
+504	Update email address
+81	Check if an error is valid
+167	Creates a new proxy object
+858	Returns the price associated with the given type
+1070	Initializes a new Client .
+647	Create a new PDF file .
+534	Get a list of venues
+418	Rewrite the request .
+643	Set the bottom of the bottom .
+488	Validate the access token
+1131	Creates a new container
+1297	Parses the specs of the given spec .
+268	Fetch page by url
+614	Returns a string representation of the font .
+936	Extracts the data from the API .
+1159	Creates a new board .
+148	Reloads the resources associated with the given name .
+19	Validates arguments
+938	Extract numbers from multiple numbers
+204	Search for a subject
+150	Fetches resources from the collection
+436	Adds a table to the table .
+1036	Creates a new Coordinate instance .
+1319	Parses the command - line options .
+271	Prepares the headers for the request .
+714	Finds the DICOM object with the specified name .
+1108	Creates a new Hash with the given keys .
+500	Get custom fields for a custom field .
+756	Updates the video image
+583	Add a collection to the collection .
+1256	Writes the object to JSON .
+1388	Calculates the julian date .
+619	Store the given node .
+16	Returns the report for this report
+613	Add a font to the font .
+212	Move an existing folder
+275	Iterates over each page .
+1354	Run the command for the current agent
+236	Resolve a link
+219	Get the availability of a user .
+1364	Select a filter
+557	Check that a given check is in the current connection
+577	Get a list of all venues for a specific venue .
+431	Add a combo box .
+702	Set a virtual machine
+416	Report checksum
+540	Get user details
+1035	Builds a playlist .
+1237	Returns true if the object matches the filter .
+1344	Maps a key to a map
+104	Save the OAuth token
+1360	Creates a new timer for the given block .
+1171	Updates the state of the dependent attribute .
+566	Get a special reason
+90	Returns an array of all user agents for this user .
+7	Sets the cookie for this cookie .
+683	Creates a new virtual machine .
+267	Enqueue a url
+536	Find users by name
+1243	Sets the specified region .
+904	Return the next item in the list
+875	Set the rotation rotation
+1241	Reports the user s room .
+1235	Initializes the column
+1151	Read file from disk
+305	Set the access token
+73	Downloads the results of a given report
+1075	Vote a room
+303	Sets the consumer secret .
+880	Serializes the object to a hash
+261	Creates a new Registry .
+85	Add a report to the report .
+631	Creates a new style node .
+746	Determines whether the file exists .
+1102	Returns the name of the middleware .
+732	Loads the format files in the specified format .
+430	adds a button .
+1152	Creates a new SSH client .
+210	Get a list of all time zones .
+724	Get all requests
+1141	Execute the given operation
+997	Create a new HTTP request .
+635	Creates a new Table instance .
+767	Associate resources from the cache
+158	Create a new job
+1153	Returns true if the item is a child
+952	Sorts the collection by sorting .
+242	Set the extension parameters
+885	Loads an instance of the given object from a given hash .
+166	Render a path .
+999	Calculate the width of a point .
+819	Matches a regular expression .
+830	Transforms a value to the current object .
+181	Gets all the available time zones for a server .
+902	Creates a new HTTP client .
+422	Finds a file in the given directory .
+25	Validates that the specified parameter is valid .
+183	End time zone .
+754	Saves the image to a file .
+1316	Generates HTML code for a label
+1142	Creates a new sheet .
+801	Open the USB device .
+953	Creates a new Query object .
+421	Iterate over all files in the manifest .
+1137	Return the nearest span
+685	Set the settings for a specific network configuration .
+884	Loads all the objects in the store .
+752	Capture the output of the screenshot .
+1011	Returns a Date object for a given attribute
+254	Returns true if the session exists .
+273	Checks whether the given URL is a valid URL .
+1336	Update the attributes of a record .
+806	Write data to memory
+718	Initialize Rack middleware .
+1168	Returns the default namespace for the collection
+391	Initialize a URI object .
+893	Add a result to the group
+1355	Parses the given card .
+879	Export the contents of a file
+1106	Delete a record from the database .
+227	Publish a folder to a folder
+1084	Parses the AST of the AST .
+836	Adds a schema to the schema
+1352	Validates that the specified interval is valid .
+1199	Returns true if the boolean matches the given filter .
+358	Generates a list of records for each record .
+312	Create a new Tweet .
+840	Returns a hash containing all the attributes required by default .
+814	Creates a new Geometry object
+892	Runs the application .
+233	Request headers for request
+1259	Runs the server .
+24	Adds a new namespace to the given namespace .
+675	Calculates the changes for this audit .
+197	Move an item from the container
+408	Returns a string representation of this field .
+336	Parses raw data .
+1293	Send a notification message .
+1015	Executes the list of scripts for this script
+71	Download a report from a given report
+791	Loads all api files .
+966	Validates the format according to the specified format .
+359	Returns the identity associated with this record .
+656	Add a new Colour .
+521	Parses a list of clicks .
+409	Verifies the signature of a reference .
+695	Wait for a task to complete
+863	Add a friendship
+549	Search for a user
+339	Find the central directory for a given DICOM file .
+28	Validates the timestamp according to the given arguments .
+1231	Create a new filter object
+898	Finds all objects matching + params + .
+1046	Unlocks a lock .
+182	Start time zone .
+594	Given a list of values return a list of values .
+1079	Adds a child type to this object .
+986	Convert a hash to a hash
+111	Symbolizes the config variable .
+610	Logout from the server
+444	Creates a list of LSL services .
+353	Remove unique keys from the table
+1030	Renders breadcrumbs .
+805	Write the data chunk of the data buffer .
+321	Returns the configuration for the bot .
+446	Write content to disk
+620	Append a text node to this node .
+523	Parses a spam page .
+1017	Close the connection
+394	Subscribes to a channel .
+921	Removes a list of targets .
+590	Create a new payload
+194	Sends a sync request to the specified folder .
+260	Check if the content type is valid
+45	Require a file with the given service name .
+1172	Update a user s email address .
+1085	Return a List of all classes in the AST .
+1240	Rebuild a room .
+532	Convert the chart data to a hash
+825	Returns a hash representation of the cache .
+551	Add a new tip .
+703	Edit a virtual network section
+736	Get the document from the given URL .
+759	Creates a new Rack middleware .
+1005	Disconnect all connections .
+686	Set the port forwarding rules
+1167	Create a default rate limit for this account
+372	Require a directory with the given paths .
+441	Get a list of refunds for a given account
+964	Ensure that the value is valid
+680	Removes a VM
+1219	Creates a lookup table from the table .
+1212	Join the passed - in series with separator .
+1296	Initialize config file
+679	Finds a VPP by name .
+868	Set the color at the given index .
+127	Start a thread
+737	Returns the Subject of the message
+307	Flatten an array of strings to an array of strings .
+519	Returns an array of email addresses
+316	Get the user s auth token
+682	Creates a new VPP server with the specified parameters .
+1096	Append content to file
+1317	press a key to the keyboard
+412	Decodes options and sets options hash
+713	Get a list of tasks
+302	Adds an exception to the bot .
+567	Search for specials
+1272	Get a specific server id
+196	Get user availability
+1027	Creates a new connection with the given block .
+913	Compute the results of the results
+1269	Create a new Nokogiri client
+693	Authenticates a session .
+766	Adds a mount to the application .
+1389	Calculates the Geometry for the given date .
+630	Apply the given block to this node .
+582	Forward the current request to the delegate .
+308	returns a single tweet
+415	Returns an array of files that are included in the current directory .
+561	Add a check .
+853	Creates a new Order
+0	Prepare the + args +
+311	Search for tweets
+293	sets the request token
+215	Creates an attachment .
+1363	Extracts a file from the given file .
+804	Sets a new buffer .
+593	Parses a query .
+621	Serialize the result to a string
+670	Open the USB device .
+329	Generate an authorization URL for the request
+1335	Write a value to a hash
+452	Returns all the parts of this Document
+870	Creates a new Color instance .
+691	Creates a new Network instance .
+218	Creates a new Calendar object .
+1089	Returns the CSS class of the element
+1143	send a message to the client
+812	Creates a Geometry object
+815	Creates a new marker for a given mapper .
+753	Captures the screenshot data for the capture .
+173	Create a new folder .
+674	Read a string value from the device .
+86	Returns the headers for the request
+290	Creates a new transaction .
+527	Given a hash convert all keys to strings
+909	Finds the schedule for a given schedule .
+648	Convert a binary string to an integer .
+634	Creates a new Color object .
+343	Registers a handler for the given extension .
+95	Normalizes the given field data .
+838	Ensure the given argument is a valid holiday
+769	Returns a list of directories for the given name .
+240	Iterates over all pages in the page .
+688	Merges the specified network config into the current configuration .
+1126	Add a sentence to the sentence
+230	Get a single entry
+1207	Set the date in a column
+203	Returns a list of items that have been bound to the given date .
+1267	Parse options .
+1007	Parses a list of paths .
+47	Gets a list of WPPs .
+250	Applies operation to the operation .
+486	Initialize the git repository
+625	Applies the given style node to the terminal .
+786	Create a bookmark .
+74	Get the report for a report
+1338	Check if user is allowed
+424	Finds resource by id
+1321	Runs the collection of records .
+589	Create a new TableWrapper object
+199	Get a single item
+1357	Play the game .
+951	Encodes the given attribute as a string .
+1341	Finds documents by id
+506	Returns an array of scheduled executions
+1268	Renders links based on the given text .
+249	Handles a destination .
+151	Handles method_missing .
+671	Read data from the device
+1356	Discard any cards that have a given priority .
+5	Creates a new URL for the given url .
+768	set log level
+1271	Delete an alert alert
+109	Loads the configuration from the API .
+797	Connect to the server
+1299	Find all excluded files by name
+1277	Create a queue
+180	Creates a new Mail .
+712	Get organization information
+530	Returns the list of attachments with the email
+475	Add all the attributes to the model
+1397	Run the agent
+1154	Process the aggregation of the aggregation .
+1350	Get a list of all follow relationships for this timeline .
+1120	Get a list of fans .
+467	Get an account activity
+136	Mark this user s post .
+811	Creates a Geometry object
+1047	Searches the specification for the given object .
+1217	Create a new Logger object .
+572	Get information about a venue
+609	Login to the server .
+324	Runs the handler .
+773	Check whether the given argument is a valid boolean
+453	Checks if the transition is valid
+627	Evaluate the block .
+933	Extracts the browser value from the given string .
+516	Set the billing billing period
+1082	Initializes a new Client .
+883	Dump an object into a dump .
+456	Sets the position of the image .
+162	Apply a ticket
+761	Look up a group by name
+839	Convert an array of arguments to a Hash .
+1204	Returns range of values
+265	Create a new Client object .
+850	Returns a list of all subjects that belong to this subject
+253	Returns a hash of cookie names and values
+652	Sets the footer .
+1282	Open the draft
+533	Parses the specified number of bytes from the socket .
+496	Set the primary contact
+641	Set the height of the border
+244	Returns the XML representation of an XML document
+281	Iterates over all the links in the current page .
+450	Execute a command
+79	Save data to file
+730	Add terms to the query
+1295	Generate a string according to the given string .
+849	Set the title
+278	Iterates over each Atom .
+1173	Creates a new specimen for the specified specimen .
+1275	Subscribes to the client .
+553	Get an event
+82	Check the XML for a report .
+1225	Rename a row .
+1322	Returns the parents of this page .
+1065	Adds an annotation to the DSL .
+1229	Returns true if the row exists in the table
+710	Acquire a ticket .
+156	Create a new job
+723	Execute a block of code and wait for it .
+1064	Initialize column filter
+1307	Parse the parser .
+834	Validates the constraints according to the constraints .
+417	Get the total coverage of a report
+912	Return the last item from the list
+555	Create a connection
+477	add a hash to the index
+425	Generate an authorization code for the client
+63	Handles errors handling .
+211	Copy an existing folder to the specified folder .
+987	Get a list of rule rules
+398	Unsubscribes to the specified pattern .
+598	Perform a PUT request .
+813	Returns the bounds of this object .
+20	Validates that the given value is valid
+1023	trigger an event
+1160	Parse command line options
+1094	Returns the value of a control .
+1254	Returns the URL for a given URL
+360	This function updates the settings of a admin session .
+1038	Gets the zoom level of the object .
+399	Subscribes to the given pattern .
+1325	Creates a new Client instance .
+923	Generates a migrations table .
+559	Add a check .
+617	Insert the given text at the given index .
+225	Convert a duration to a duration
+499	Update custom options
+1342	Find records by id
+279	Initializes the router .
+927	Add a table to the table .
+1179	Prepare the sum of the sum for a given row .
+29	Add an attribute to the hash
+748	Returns true if the primary key exists in the table
+344	Convert request params to HTTP request
+684	Create a new VMs
+957	Returns the value of a query .
+414	Report checksum
+169	Return a specific experiment
+478	Deletes all records from the server
+895	Prints a list of artifacts for the project .
+637	Set the column
+1261	Register an event .
+27	Validates arguments for a Hash .
+403	Returns search results
+606	Parses the result of the command .
+1061	sets the user s avatar
+678	Outputs the filename based on filename .
+716	Adds the given block to the container .
+1032	Create a feed
+658	Sets the value of the document .
+1185	Create a room
+1193	Get a list of all namespaces in the cluster .
+472	Removes the record from the collection
+1279	Create a new connection instance .
+1092	Sets the role ID for this role .
+266	Runs the callback .
+891	Reloads the given object .
+335	Convert to a Time object
+216	Returns the name of a contact
+465	Create a new Client instance .
+900	Parse the command line arguments
+345	Sends a data frame .
+1208	Sets the date range for a given column
+284	Returns the absolute path for the given link
+1060	Checks if the current user is available
+258	Create a new Document instance
+83	Convert report definition to a report definition
+984	Returns a hash containing all values for a given var value .
+1041	Returns the input directory
+1314	Builds HTML tags for a filter
+53	This function generate the correct value for a given type .
+978	Filter values by key
+1111	Runs a command on the host .
+665	Retrieve a device by its name
+70	Determine if the payload should be used .
+667	Find a device by path
+41	Cleanup results .
+31	Get signature for a given type .
+784	List all users
+982	Returns the primary key for the table
+745	Creates a new temporary directory .
+636	Yields each item in the list .
+789	Loads the attributes of the object .
+1333	Write an attribute to a hash
+129	JSON representation of the thread
+1367	Returns true if this model is a follower
+1118	Returns a list of all users who have a specific user
+829	Verifies the value of the key is valid
+1163	Returns an array of all players for a given team
+871	Returns the path for a given server
+1222	adds three methods - one
+377	Uploads a single capture .
+171	Runs the runner .
+937	Extract number from string
+874	Set the color of the image .
+672	Sends a report to the device .
+1101	Create an annotation service
+1063	Returns the meta tag for a given attribute
+989	Activate a policy
+1337	Checks if the user has permission for the given method .
+26	Validates arguments
+319	Parses a file and returns it .
+744	Adds a new File .
+384	Set virtual attributes
+406	Returns a new instance of Factory .
+844	Returns a list of words in the list .
+77	Make a HTTP request to a specific report
+1078	Move a playlist to the playlist .
+1119	Get a list of all fans for a user .
+248	Creates a tempfile .
+1053	Process an object from the database .
+965	Validates length
+1224	Returns a collection of columns for this column .
+123	Returns the timestamp of the current transaction .
+579	Get a photo
+42	Returns the next page for the given page .
+355	Returns the attributes of the model .
+545	List all users
+708	Get a VM by name
+379	Loads a special captcha file .
+1024	Resets the polling interval for the user .
+518	Send preview for a preview
+349	Finds all records matching the query .
+12	Initializes the callback .
+749	Execute a SQL statement .
+1318	Open a file with the specified name .
+108	Creates a new Logger instance .
+443	Update a customer
+370	Export the given symbols in the list .
+470	Submit a request .
+1191	Add a collection to the collection .
+1123	Update user profile
+975	Returns response body
+1097	Renders the XML for the feed .
+276	Iterates over each XML document .
+795	Lookup a class by name
+495	List all admins
+669	Get the number of USB code for the given device .
+729	Creates a new filter
+651	Set the header
+274	Check if data is valid
+1044	Disables a user .
+251	Creates a new branch
+1353	Render an ERB template
+962	returns an array of stars
+461	Assigns a hash to a hash
+845	returns the tempfile if it exists
+876	Check the coordinates of the coordinates of a given x and y coordinates
+1074	Stop the current song .
+1260	Register observer class for given observer
+1331	Reads a value from the cache .
+1326	Parse the config file
+827	Write a value to the cache
+332	Reset all registered keys
+705	Delete a virtual network segment
+1028	Execute a block of code and return the result .
+1249	Returns translations for locale
+363	Returns a range of items in the range .
+264	Gets the path for a given URL .
+348	Tries to traverse the dependencies of a dependency .
+286	Perform an HTTP GET request
+282	Iterates over each link in the page .
+1332	Read a value from the cache
+10	Initialize the middleware .
+529	Login to a user .
+195	Sends a list of folders to the server .
+87	Creates a new Client instance .
+1371	Return the item from the queue
+1058	Returns the path of the given storage object .
+1076	Check if a room has been logged in
+568	Get a list
+246	Initialize a new Tempfile .
+1188	Update a single document
+502	Returns the list of results for a given date
+458	Check if a given symbol is a valid state
+17	Returns a new instance of the batch server
+852	Creates a new Criteria
+301	Sets up a list of filters
+226	Subscribes to a subscription .
+722	Create a new TableWrapper object .
+612	Saves the model to the database .
+1245	Returns true if the characteristic matches the given characteristic .
+803	Ensure the given argument is a valid device .
+673	Gets a report for a specific report .
+1050	Initialize the file
+802	Open a device descriptor
+352	Assign a version number based on its attributes
+816	Creates a Geometry object
+1396	Creates a new Resource instance
+755	Saves the image to a video .
+1343	Load a map from a map
+464	Initializes a new Client object
+277	Iterates over all entries in the page .
+823	Validate an IP address .
+1223	Creates a new sheet .
+1210	Set range of values
+645	Returns the width of the border
+969	Get all the submissions for this user .
+1073	Sets the stickers for the user .
+122	Checks if the given transaction is visible .
+1304	Get all the fields of a table .
+1189	Returns true if the user is available
+894	Adds a count to the given value .
+221	Retrieve a list of all room rooms .
+622	Creates a new paragraph .
+782	Find user by ID
+537	Get a list of all users for the authenticating client .
+289	Creates a transaction for the transaction .
+1117	Update user s attributes
+1174	Ensure the given argument is a valid annotation
+1056	Adds a container to this container .
+232	Returns the content of a user .
+369	Fit the given parameter to the given type .
+1006	Returns the home directory for this user .
+309	List history for a timeline
+1288	Runs the daemon .
+860	set the text of the text
+280	Iterates over each HTTP header .
+46	Returns the module name for the API .
+55	Convert the statement to a SQL statement .
+299	Runs the bot .
+1218	Require and require a dependency .
+585	Returns a string representation of the object .
+105	Validate the service
+1021	Returns an array of all avatar objects for this user .
+291	Set the default connection to the server
+480	Get info about the index
+1380	Get a list of all files in the repository
+1198	Creates a new row for a given row .
+599	Perform a DELETE request .
+188	Sets the attachment ID for this document .
+52	Returns a hash containing all values for a given key .
+1257	Reads the file from the specified file .
+489	Validate the access token
+1112	Copies a file to the given address .
+66	Logs a message to the server .
+410	Get a reference to a given document .
+503	List all webhooks for a user
+75	Get the report for a report
+1379	draw a line
+155	Reloads the resource s attributes .
+152	Loads the children of a resource
+1381	Performs a search
+659	Returns a string representation of this page .
+1312	Generates a link to the given path
+121	Checks if a transaction is visible for a transaction .
+426	Get the current user s profile
+231	Returns the system info
+397	Subscribes to the specified pattern .
+950	Perform an HTTP request
+1347	Checks if the source is valid
+846	Iterates over each product in the XML document .
+699	Get information about a VMs
+580	Add a photo to the connection .
+517	Transfer credits .
+1345	Get the number of processes
+581	Get a single venue
+920	Register a dependency
+628	Creates a new StyleBuilder .
+1270	Add an alert .
+847	Returns the title of the product
+1145	Publish message .
+977	Returns a new Filter instance .
+491	Retrieve history of all subscribed subscriptions
+378	Retrieves a captcha .
+50	Evaluate the object .
+485	Retrieve the value of a specific attribute
+390	Instantiates a new client .
+106	Creates an authentication handler .
+320	Returns a hash of all config files .
+632	Apply font style
+1303	Initializes the connection .
+596	Perform a GET request .
+1009	Runs the given action .
+80	Log headers .
+1239	Starts this room .
+615	Return the previous node .
+597	Perform an HTTP POST request .
+38	Sends a batch request to the batch server
+575	Retrieves a list of requeries
+926	Migrates all tables in the table .
+1361	Wait for the signal to finish
+1205	Add a range within a range .
+1002	Inserts the schema into the schema .
+304	Set the consumer key
+772	Builds an association .
+149	Adds a collection to the collection .
+1262	Unregister a listener .
+935	Extracts the search results from a JSON string .
+147	Write the contents of the object to the stream .
+361	Creates a new Failure object .
+144	Set the RGB color
+961	Creates a new chord .
+959	Adds the given query to the given query .
+547	Sets a list of users for a user .
+36	Finds a value under a given path .
+351	Assigns a record with the given attributes .
+1122	List all blocked users
+586	Returns all records matching the query .
+715	Finds the DICOM object with the specified name .
+405	Refresh the tokens of all tokens
+525	Update email address
+1045	Enable or disable a user attribute
+1012	Calculate audits for an audit
+1213	Format a string according to the given string .
+101	Extract attributes from a hash
+602	Write all permissions .
+58	Creates a new Time object .
+771	Returns a sorted list of all paths that match the given name .
+115	Returns true if the transaction exists .
+331	Authenticates a user with an access token
+76	Get the report for a given report
+980	Validates that the records are met .
+423	Determines the file s size .
+72	Downloads the given report as a JSON file .
+463	Creates a new Client instance .
+728	Adds an order to the query .
+84	Check the report definition for a report
+1129	Check if the conditions matches the conditions
+157	Create or update a collection of records .
+474	Finds the number of tweets that match the given arguments .
+383	Check if security is valid
+1008	Returns the number of days
+603	Sets the permissions for this user .
+1308	Returns the class of the given name .
+731	Checks if the client exists
+751	Parses the given block and returns it .
+239	Find a field by its id
+1248	Save the translations to a file .
+990	Update a policy
+687	Get the port forwarding rules
+1334	Write a value to the cache
+1146	Initializes the client .
+256	Stop the session .
+624	Add a footnote to the document .
+252	Creates a new builder .
+1215	Process all entries in the collection .
+492	List subscribed users
+306	Set the access token
+941	deletes all descendants of this model .
+1372	lookup item from cache
+376	Decrypts a captcha .
+165	Track the user s stats
+544	Get a list of members for a user .
+128	Stop the thread
+1369	Unfollow a model
+1057	Creates a new container .
+1238	Returns a list of all messages that have been processed .
+697	Uploads a file to the server .
+294	Make a request to the payload
+300	Returns a list of all blocks in this room .
+595	Generate a query string .
+988	Create a new Policy
+608	Sign in a user .
+137	Find record by id
+295	Splits a set of networks into two networks .
+419	Takes a request and returns the response as a hash
+554	Get a campaign
+387	Creates a new Reporter instance .

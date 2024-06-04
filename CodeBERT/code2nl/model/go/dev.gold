@@ -1,0 +1,1000 @@
+5238	Normalize returns the address in a form usable by a HTTP client .
+912	waitForIP waits until the host has a valid IP
+204	Stop the rule manager s rule evaluation cycles .
+6074	UnpackSignature unpacks msg from signature .
+2253	native returns a pointer to the underlying GtkImage .
+2006	ContainerDockerStats returns the last stored raw docker stats object for a container
+1828	handleResourceStateChange attempts to update resource s known status depending on the current status and errors during transition
+1143	MarshalJSON mocks base method
+6033	ObjectChange subscribes to changes for objects of a given type .
+839	NewComputeUtil creates and initializes a ComputeUtil .
+5543	Part accepts the room id to part .
+6067	Offering gets offering message through tor net .
+7308	Drop clears the database
+4467	MarshalEasyJSON writes the DateTime to a easyjson . Writer
+712	recordsForDNS gets the current records . Returns the current records or an error if the operation failed .
+4837	genQueryOptions generates standard query options .
+3456	GetQueryIsFailedOk returns a tuple with the QueryIsFailed field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+260	Stop shuts down the notification handler .
+244	Select implements storage . Querier and uses the given matchers to read series sets from the Client .
+767	NewDesignateProvider is a factory function for OpenStack designate providers
+1791	UnmarshalJSON overrides the logic for parsing the JSON - encoded ContainerStatus data
+1905	cleanupPauseContainerNetwork will clean up the network namespace of pause container
+4139	Masked returns a new network conforming to new mask .
+4931	WriteFloat64 writes a float64 .
+217	Get size of segment .
+4597	merge merges two similar Stack zapping out differences .
+1628	parseMetadataAtContainerCreate gathers metadata from task and cluster configurations then packages it for JSON Marshaling . We use this version to get data available prior to container creation Since we accept incomplete metadata fields we should not return errors here and handle them at this or the above stage .
+5865	CreateContactGroup creates a new contact group .
+5323	Exec executes a command setting both standard input output and error .
+5745	I18n is a middleware provides localization layer for your application . Paramenter langs must be in the form of en - US zh - CN etc . Otherwise it may not recognize browser input .
+4464	Scan scans a DateTime value from database driver type .
+3436	HasRenotifyInterval returns a boolean if a field has been set .
+1805	KnownVersions mocks base method
+3679	GetManageStatusTitleAlign returns the ManageStatusTitleAlign field if non - nil zero value otherwise .
+4827	ReadDir calls ioutil . ReadDir .
+2278	native returns a pointer to the underlying GtkSelectionData .
+6630	findChild finds a child node that matches the given node It returns nil if no node found . This is to see if we already have a similar node registered
+7121	try to convert value to target type panic if fail
+53	Initialize the Discoverer run .
+6216	ClientAfterCooperativeClose changed channel status to closed cooperative and launches of terminate service procedure .
+6601	KeepAlive keeps the connection open to reuse for additional requests .
+1307	sendTaskStatusToECS invokes the SubmitTaskStateChange API to send a task status change to ECS
+5719	Get gets the item for the given key . ErrCacheMiss is returned for a memcache cache miss . The key must be at most 250 bytes in length .
+3462	GetTimeRangeOk returns a tuple with the TimeRange field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+2787	flattenHostPortGroupSpec reads various fields from a HostPortGroupSpec into the passed in ResourceData .
+2276	native returns a pointer to the underlying GtkScrolledWindow .
+1273	MarshalJSON overrides the logic for JSON - encoding the TransportProtocol type
+1763	PopulateASMAuthData sets docker auth credentials for a container
+6254	ChangeOfferingStatus initiates JobAgentPreOfferingMsgBCPublish JobAgentPreOfferingPopUp or JobAgentPreOfferingDelete job depending on a selected action .
+2757	vAppSubresourceSchema represents the schema for the vApp sub - resource . This sub - resource allows the customization of vApp properties on cloned VMs .
+837	mkTokenCallback returns a callback function that can be used to save the token initially or register to the Azure SDK to be called when the token is refreshed .
+759	factory function for the designateClientInterface
+3112	Logger returns a middleware handler that logs the request as it goes in and the response as it goes out .
+792	LoadOCIConfig reads and parses the OCI ExternalDNS config file at the given path .
+2940	resourceVSphereDatastoreClusterHasSDRSConfigChange checks all resource keys associated with storage DRS to see if there has been a change in the configuration of those keys . This helper is designed to detect no - ops in a SDRS configuration to see if we really need to send a configure API call to vSphere .
+6942	Size returns the numbers of instruments in the registry .
+2817	expandVMwareUplinkPortOrderPolicy reads certain ResourceData keys and returns a VMwareUplinkPortOrderPolicy .
+4945	BasicAuthDSN return the connector DSN for basic authentication .
+2166	native returns a pointer to the underlying GtkAboutDialog .
+6611	VendorLookup obtains the vendor organization name from the MAC address s .
+355	QueryInstant performs an instant query against a Prometheus server .
+5977	NewWriterPool creates a pool that ensures the writers it wraps will respect an overall maxRate with maxBurst resolution . The semantics of the wrapped writers are the same as those of using a plain ThrottledWriter .
+3763	CreateDowntime adds a new downtme to the system . This returns a pointer to a Downtime so you can pass that to UpdateDowntime or CancelDowntime later if needed .
+4392	MarshalJSON returns the ObjectId as JSON
+1022	Start is used to start the de - duplication manager
+3100	NewRouteMap initializes and returns a new routeMap .
+645	ByNames returns multiple Sources given multiple names .
+4522	GrepNot emits every input x that does not match the regular expression r .
+2401	Draw draws the current game to the given screen .
+6794	Publish message to given channels .
+5149	Running calls Output to write . Useful when you want separate colors or prefixes . RunningPrefix is used to prefix message .
+5066	Instance implements gin s HTML render interface
+7253	Facilities returns the currently known set of facilities both those for which debug is enabled and those for which it is disabled .
+7059	NotFound specifys a not found handler for a route
+2962	datacenterFromID locates a Datacenter by its managed object reference ID .
+4729	Equal gets whether the Data and specified value are equal . Supports regexp values .
+1575	CreateSecretRequest mocks base method
+5771	Get Broker to use when creating a check
+569	HandleFunc adds the route pattern that matches any http method to execute the handlerFn http . HandlerFunc .
+375	Set sets key = value argument .
+5417	RemoveEntity removes the entity across all systems .
+1866	GetCachedSecretValue retrieves the secret value from secretData field
+6332	DecodeCookie verifies the signature and decodes the value into the cookie
+2370	Close closes the stream . When closing the stream owned by the player will also be closed by calling its Close . This means that the source stream passed via NewPlayer will also be closed . Close returns error when closing the source returns error .
+653	NewServiceSource creates a new serviceSource with the given config .
+7006	Name is a handler
+1907	transitionContainer calls applyContainerState and then notifies the managed task of the change . transitionContainer is called by progressTask and by handleStoppedToRunningContainerTransition .
+7098	Free decreases the reference count . It close the DB if the count reaches zero .
+827	ValidateCertificate validate the certificate installed on the vm .
+3113	NewTplFile cerates new template file with given name and data .
+2277	native returns a pointer to the underlying GtkSearchEntry .
+3714	HasServiceService returns a boolean if a field has been set .
+5207	RawQuery creates a query with the given string . Note that the query is not validated before sending to the server .
+6833	Devices fetches a list of devices from PushBullet .
+2988	Less helps implement sort . Interface for virtualDiskSubresourceSorter .
+1332	GetInstanceIdentityDocument mocks base method
+3032	lookupZones retrieves the zones of the project and filters them by pattern .
+2910	findVirtualDeviceInListControllerSelectFunc returns a function that can be used with VirtualDeviceList . Select to locate a controller device based on the criteria that we have laid out .
+1716	requiresASMSecret returns true if at least one container in the task needs to retrieve secret from AWS Secrets Manager
+5490	BuyNumber attempts to buy the provided phoneNumber and returns it if successful .
+2187	native returns a pointer to the underlying GtkTreeView .
+5749	Get API request
+5599	WithBody adds the body to the update Vm with state params
+5308	Equivalent to HAProxy show info command .
+584	NotFoundHandler returns the default Mux 404 responder whenever a route cannot be found .
+4990	ListZpools list all ZFS zpools accessible on the current system .
+5201	OptIndexTrackExistence enables keeping track of existence of columns .
+1401	ServeHTTP logs the method and remote address of the request .
+4375	HostnameValue returns the value of the Hostname pointer passed in or the default value if the pointer is nil .
+5973	IntegrityCheck returns two values the base OTP and the current counter . This is used for example with the Google Authenticator app s Check key value function and can be used to verify that the application and the provider are in sync .
+2005	resetStatsUnsafe resets stats for all watched containers .
+1338	CreateTags mocks base method
+3786	PostEvent takes as input an event and then posts it to the server .
+3108	InternalServerError configurates handler which is called when route handler returns error . If it is not set default handler is used . Be sure to set 500 response code in your handler .
+2211	Activate is a wrapper around g_action_activate
+5242	NewClient creates a client with the given address URI or cluster and options .
+5637	DerivePrivateKey derives the private key with index and chainCode . If prime is true the derivation is hardened . It returns the new private key and new chain code .
+4562	RunScript allows for pure plush scripts to be executed .
+1799	ContainerEvents indicates an expected call of ContainerEvents
+5608	WithPayload adds the payload to the order Vm by filter o k response
+2656	resourceVSphereComputeClusterFlattenData saves the configuration attributes from a ClusterComputeResource into the supplied ResourceData . It also saves the root resource pool for the cluster in resource_pool_id . Note that other functions handle other non - configuration related items such as path name tags and custom attributes .
+6904	Append adds a line of text to the list . Append must be called from queue .
+6294	MarshalString appends the bool to the buffer as an uint32 .
+6356	Enumerate lists each word in the Dictionary alphabetically .
+458	WriteDeflate writes deflated p to w and returns the number of compressed bytes written to w .
+1876	WriteContainerMetadataResponse writes the container metadata to response writer .
+6732	Return the data to be contained in a QR Code for this TOTP with the given label .
+262	alertmanagersFromGroup extracts a list of alertmanagers from a target group and an associated AlertmanagerConfig .
+6594	And combines the n last filters into a new filter using a And operation .
+2584	Properties is a convenience method that wraps fetching the VirtualMachine MO from its higher - level object .
+3286	GetMonitorId returns the MonitorId field if non - nil zero value otherwise .
+2193	sourceAttach attaches a source to the default main loop context .
+542	AppendBytes appends cookie representation to dst and returns the extended dst .
+1728	applyENIHostname adds the hostname provided by the ENI message to the container s docker config . At the time of implmentation we are only using it to configure the pause container for awsvpc tasks
+4646	Range returns the index entries within lat lng range .
+7179	Delete deletes specified token from current SessionCache instance .
+5881	doDec decodes in as a JWT .
+2577	Delete deletes a vsphere_virtual_machine network_interface sub - resource .
+1741	SetDesiredStatus sets the desired status of the task
+5369	LookupUID looks up an user by user ID .
+4089	SetAllow3State sets if ComboBox should use 3 states . If the current state is unknown and one disables Allow3State option then the current value resets to off
+3241	GetShowPresent returns the ShowPresent field if non - nil zero value otherwise .
+7247	Okln logs a line with an OK prefix .
+5266	ExperimentalOptClientLogImports writes all imports to the given writer in such a way that they can easily be replayed into another Pilosa cluster . It is an experimental option and may be changed or removed .
+3758	newAccessor returns a new accessor to be processed later
+1170	addPayloadTasks does validation on each task and for all valid ones adds it to the task engine . It returns a bool indicating if it could add every task to the taskEngine and a slice of credential ack requests
+2169	native returns a pointer to the underlying GVariantDict .
+2020	buildAppPorts creates app ports from proxy config
+6102	TerminateChannel tries to terminate a given channel .
+4598	less compares two Stack where the ones that are less are more important so they come up front . A Stack with more private functions is less so it is at the top . Inversely a Stack with only public functions is more so it is at the bottom .
+4415	DeepCopy copies the receiver into a new Email .
+2152	Multiply multiplies the matrix by another matrix
+6119	AddMapping maps an external port to a local port for a specific service .
+4788	computeSize retrieve the effective size of the cropped image . It is defined by Height Width and Ratio option .
+3509	GetOperatorOk returns a tuple with the Operator field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+4780	LoadJSONBytes loads JSON bytes
+3271	GetInverted returns the Inverted field if non - nil zero value otherwise .
+2965	diskApplyOperationDelete is an inner - loop helper for disk deletion operations .
+1796	NewMockDockerClient creates a new mock instance
+1133	Delete all expired items from the cache .
+4174	Execute - updates space users
+4042	ClipRect returns the current clipping rectangle
+744	getRecordID returns the ID from a record . the ID is mandatory to update and delete records
+6191	AddMapping maps an external port to a local port for a specific service to NAT - PMP interface .
+385	HasBytes returns true if the given key exists in Args .
+7054	Group calls the specified function with the subrouter for the given pattern
+898	NewDriver returns a new driver instance .
+1252	publishHealthMetricsOnce is invoked by the ticker to periodically publish metrics to backend .
+5140	Log prefixes to message before writing to Writer .
+1310	setTaskAttachmentSent sets the event s task attachment object as sent
+6488	Client OAuth authentication requires us to attach an unexpired OAuth token to the request header
+5574	Update updates the agent settings for a given instance ID .
+3458	GetQueryString returns the QueryString field if non - nil zero value otherwise .
+4885	DecodeRune unpacks the first CESU - 8 encoding in p and returns the rune and its width in bytes .
+520	Cookie fills cookie for the given cookie . Key . Returns false if cookie with the given cookie . Key is missing .
+3152	Restore from dump . path
+3126	ParseConfig loads config from config file schemas . conf aggregation . conf
+4881	IsFatal implements the driver . Error interface .
+3834	Time returns the time in 100s of nanoseconds since 15 Oct 1582 encoded in uuid . The time is only defined for version 1 and 2 UUIDs .
+4334	Unique sends the given value to a set bucket .
+2059	NewPortBindingsResponse creates PortResponse for a container .
+4532	Return a new instance of Hosts .
+7051	HMAC is JSON Web Token authentication using HMAC . If successful token context will be store with the key userid in session . If unsuccessful connection will be closed right away .
+94	offset returns the time until the next scrape cycle for the target . It includes the global server jitterSeed for scrapes from multiple Prometheus to try to be at different times .
+5572	Delete deletes the instance settings for a given instance ID .
+5904	NewHMACSigner creates a HMAC Signer for the specified Algorithm .
+938	SetConfigFromFlags assigns and verifies the command - line arguments presented to the driver .
+5584	WithBody adds the body to the update Vm params
+7248	Okf logs a formatted line with an OK prefix .
+4398	IsHostname returns true when the string is a valid hostname
+6151	AgentAfterUncooperativeClose marks channel closed uncoop .
+2185	Native returns a pointer to the underlying GtkAllocation .
+6296	MarshalString appends the uint64 to the buffer .
+5250	SyncSchema updates a schema with the indexes and fields on the server and creates the indexes and fields in the schema on the server side . This function does not delete indexes and the fields on the server side nor in the schema .
+2786	expandHostPortGroupSpec reads certain ResourceData keys and returns a HostPortGroupSpec .
+913	waitStopped waits until the host is stopped
+2404	IsMouseButtonJustReleased returns a boolean value indicating whether the given mouse button is released just in the current frame . IsMouseButtonJustReleased is concurrent safe .
+3561	HasPublicId returns a boolean if a field has been set .
+1295	getClientConfig returns the config for the ecr client based on authData
+3716	GetSizeVersionOk returns a tuple with the SizeVersion field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+26	Log implements log . Logger .
+5915	NewArena allocates a new arena of the specified size and returns it .
+7174	NewStack - create new stack based on file
+5895	NewRSASigner creates an RSA Signer for the specified Algorithm and provided low level RSA implementation .
+2157	native returns a pointer to the underlying GMainContext .
+4100	SetSelected makes the button selected . One should not use the method directly it is for RadioGroup control
+6241	ToHash returns the ethereum s hash represented by the base64 string s .
+1463	SetKnownExitCode sets exit code field in container struct
+4158	NewClient to create a new client
+871	loadOrFindTenantID figures out the AAD tenant ID of the subscription by first looking at the cache file if not exists makes a network call to load it and cache it for future use .
+7131	SetName sets header name of current instance .
+5122	collectAnsiIntoWindowsAttributes modifies the passed Windows text mode flags to reflect the request represented by the passed ANSI mode .
+2444	appendDrawTrianglesHistory appends a draw - image history item to the image .
+6894	initKeyHandler starts the internal key handler . Must be called with mutex held and as a go routine .
+5234	NewURIFromHostPort returns a URI with specified host and port .
+4988	GetZpool retrieves a single ZFS zpool by name .
+1629	parseMetadata gathers metadata from a docker container and task configuration and data then packages it for JSON Marshaling Since we accept incomplete metadata fields we should not return errors here and handle them at this or the above stage .
+3063	validateAndWrapHandlers preforms validation and wrapping for each input handler . It accepts an optional wrapper function to perform custom wrapping on handlers .
+6246	Uint64ToBytes using big endian .
+1323	NewMockSSMClientCreator creates a new mock instance
+4418	DeepCopy copies the receiver into a new Hostname .
+6378	ParallelSelect creates an Enumerable which will use all logically available CPUs to execute a Transform .
+4344	BuildKeypad builds the Keypad Graph
+4	NewInstantQuery returns an evaluation query for the given expression at the given time .
+4906	Skip skips cnt bytes from reading .
+2655	resourceVSphereComputeClusterApplyDelete process the removal of a cluster .
+4002	failResult is a small utility function for creating a failed lint result .
+159	stop the shards ; subsequent call to enqueue will return false .
+916	Remove removes an host
+2973	Update updates a vsphere_virtual_machine disk sub - resource .
+7198	Put registers handlers with the given pattern for PUT method
+6813	Child returns a populated pointer for a given path . If the path cannot be found a null pointer is returned .
+6609	New returns a new OUI database loaded from the specified file .
+2519	expandHostNetworkSecurityPolicy reads certain ResourceData keys and returns a HostNetworkSecurityPolicy .
+1961	duplicate of dockerCPUShares in task_linux . go
+474	ReleaseBody retires the response body if it is greater than size bytes . This permits GC to reclaim the large buffer . If used must be before ReleaseResponse . Use this method only if you really understand how it works . The majority of workloads don t need this method .
+1973	ContainerRemove mocks base method
+7192	ServeHTTP implement http . Handler interface
+4647	NewClusteringIndex creates index that clusters the points at three levels with cell size 0 . 5 5 and 500km . Useful for creating maps .
+701	newFilteredRecords returns a collection of RecordSets based on the given endpoints and domainFilter .
+5995	Sets a host to an IP . Note that this is not the FQDN but a hostname .
+3981	Valid determines if the provided when time is within the GTLDPeriod for the gTLD . E . g . whether a certificate issued at when with a subject identifier using the specified gTLD can be considered a valid use of the gTLD .
+6684	ErrUnsupportedIdentity indicates the processor does not support the given identity type .
+566	ServeHTTP is the single method of the http . Handler interface that makes Mux interoperable with the standard library . It uses a sync . Pool to get and reuse routing contexts for each request .
+6230	GetGUISettings returns gui settings .
+4363	Index extracts a specific element from the array provided
+6273	GetLogs returns back end log paginated .
+1030	NewCLI creates a new CLI object with the given stdout and stderr streams .
+1051	ExitCh returns the current exit channel for this child process . This channel may change if the process is restarted so implementers must not cache this value .
+5404	GetgroupsName returns a list of the groups that the caller belongs to .
+3893	typeSwitchStmt emits to fn code for the type switch statement s optionally labelled by label .
+4503	Items emits items .
+1352	setClusterInConfig sets the cluster name in the config object based on previous state . It returns an error if there s a mismatch between the the current cluster name with what s restored from the cluster state
+2171	native returns a pointer to the underlying GtkHeaderBar .
+4322	AddSSHKey adds a new SSH key to the project
+7146	readByte creates a single random byte .
+4969	DerivePBKDF2 implements Password Based Key Derivation Function 2 RFC 2898 . Derives key of keyBitLength size given password salt iteration count and hash function
+3466	HasUntilDate returns a boolean if a field has been set .
+1735	GetKnownStatusTime gets the KnownStatusTime of the task
+4417	SetBSON sets the Hostname from raw bson data
+6187	GetProducts returns all products available to the agent .
+5979	Len is the number of currently given out throttled writers .
+5651	Recover converts a seedphrase to a private key and persists it encrypted with the given passphrase . Functions like Create but seedphrase is input not output .
+1647	NewMockTaskResource creates a new mock instance
+5840	RemoveText removes a text metric
+2553	expandHostVirtualSwitchBeaconConfig reads certain ResourceData keys and returns a HostVirtualSwitchBeaconConfig .
+3268	GetCustomImageUrl returns the CustomImageUrl field if non - nil zero value otherwise .
+5502	NewDefaultLogger return a logger split by fileSize by default
+3059	buildAndSelectGuestIPs builds a list of IP addresses known to VMware tools skipping local and auto - configuration addresses . The builder is non - discriminate and is only deterministic to the order that it discovers addresses in VMware tools .
+3588	HasWarningRecovery returns a boolean if a field has been set .
+4239	NewNamedStream creates a new named stream .
+3698	GetMustShowErrorsOk returns a tuple with the MustShowErrors field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+991	MapSet stores the value v into a key mk in the map named k .
+2030	buildLinuxMemorySpec validates and builds the task memory spec
+1840	waitForStopReported will wait for the task to be reported stopped and return true or will time - out and return false . Messages on the mtask . dockerMessages and mtask . acsMessages channels will be handled while this function is waiting .
+524	Write writes request header to w .
+2769	flattenVAppConfig reads in the vAppConfig from a running virtual machine and sets all keys in vapp .
+172	NewFanout returns a new fan - out Storage which proxies reads and writes through to multiple underlying storages .
+4819	Stdin sets the process s standard input .
+4537	FetchVersion fetches version information from discovery client and parses
+1885	New is used to create a new cgroup hierarchy
+4820	Stdout sets the process s standard output .
+1804	InspectImage mocks base method
+58	Matches returns whether the matcher matches the given string value .
+581	NotFound sets a custom http . HandlerFunc for routing paths that could not be found . The default 404 handler is http . NotFound .
+5798	UpdateUser updates passed user .
+5169	StartGeneric starts a generic segment .
+482	CopyTo copies req contents to dst except of body stream .
+1875	TaskContainerMetadataHandler returns the handler method for handling task and container metadata requests .
+552	Reset a routing context to its initial state .
+257	Alertmanagers returns a slice of Alertmanager URLs .
+7042	Reuse an established websocket . Conn .
+2706	restoreVimClient loads the saved session from disk . Note that this is a helper function to LoadVimClient and should not be called directly .
+580	Trace adds the route pattern that matches a TRACE http method to execute the handlerFn http . HandlerFunc .
+4211	ValidateRequestWithLeeway validates the token within the http request . The provided leeway value is used to compare time values .
+1949	UnmarshalJSON decodes the container type field in the JSON encoded string into the ContainerType object
+2281	for drag - data - get
+5480	capitalize the first letter in s
+3976	Start - helper method to serve a network bus service
+1755	GetExecutionStoppedAt returns the task executionStoppedAt timestamp
+1083	String returns the string format for this wait variable
+5925	WriteIndented indents all lines four spaces .
+7228	Noticef logs provided message with formatting in NOTICE level .
+4677	ParseSource parses the source and returns the result .
+4720	AddRelayTransport constructs a relay and adds it as a transport to the host network .
+3872	addPath appends path to paths if path does not already exist in paths . Returns the new paths .
+1990	ResolveContainer resolves the api container object given container id .
+6427	Peek returns the next item in the Queue without removing it .
+3874	UnmarshalStrict is like Unmarshal except that any fields that are found in the data that do not have corresponding struct members or mapping keys that are duplicates will result in an error .
+6615	NewCmdWithRunner creates a new CmdWithRunner for the provided name and runner . Returns an error if the provided name is not a legal command name .
+3334	GetLastResolvedTs returns the LastResolvedTs field if non - nil zero value otherwise .
+1559	SetDeviceType sets the DeviceType field s value .
+772	adds endpoint into recordset aggregation loading original values from endpoint labels first
+794	ApplyChanges applies a given set of changes to a given zone .
+5398	IsOfSystem indicates whether it is a system group .
+3531	HasMinFailureDuration returns a boolean if a field has been set .
+2902	HasChange checks to see if there has been a change in the resource data since the last update . Note that this operation may only be useful during update operations depending on subresource - specific workflow .
+3469	HasUntilOccurrences returns a boolean if a field has been set .
+3367	GetClientX509CertURLOk returns a tuple with the ClientX509CertURL field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+3825	SetNodeInterface selects the hardware address to be used for Version 1 UUIDs . If name is then the first usable interface found will be used or a random Node ID will be generated . If a named interface cannot be found then false is returned . SetNodeInterface never fails when name is .
+7076	FromJSON allows a fixture to be created from json input
+5972	YubiKey reads an OATH - HOTP string as returned by a YubiKey and returns three values . The first value contains the actual OTP the second value contains the YubiKey s token identifier and the final value indicates whether the input string was a valid YubiKey OTP . This does not check whether the code is correct or not it only ensures that it is well - formed output from a token and splits the output into the code and the public identity .
+443	WriteString appends s to response body .
+5516	Handler is the main HTTP handler for the Messenger service . It MUST be attached to some web server in order to receive messages
+5353	SetForUid sets the value of the environment variable named by the key that affects a particular user . It returns an error if any .
+5293	Extract returns positional and named variables extracted from the URL host .
+806	addHostOnlyDHCPServer adds a DHCP server to a host - only network .
+496	Host returns Host header value .
+3298	GetAlertType returns the AlertType field if non - nil zero value otherwise .
+5965	Increment will increment an HOTP source s counter . This is useful for providers like the Google Authenticator app which immediately increments the counter and uses the 0 counter value as an integrity check .
+2779	Update updates a ResourcePool .
+6558	Arg appends a new argument to the command .
+7058	Use attaches middleware to a route
+895	Start starts an existing GCE instance or create an instance with an existing disk .
+2036	IsValidNetworkDevice is used to differentiate virtual and physical devices Returns true only for pci or vif interfaces
+1569	NewMockSecretsManagerAPI creates a new mock instance
+1558	SetDeviceName sets the DeviceName field s value .
+4393	MarshalEasyJSON writes the ObjectId to a easyjson . Writer
+3675	HasLegend returns a boolean if a field has been set .
+1148	AddAllImageStates mocks base method
+1503	MarshalJSON is used to serialize the type to json per the Marshaller interface
+3789	ViewMetricMetadata allows you to get metadata about a specific metric .
+2046	RetryWithBackoffCtx takes a context a Backoff and a function to call that returns an error If the context is done nil will be returned If the error is nil then the function will no longer be called If the error is Retriable then that will be used to determine if it should be retried
+7163	Compile retrieves and processes the specified asset sources and compiles them to the specified variable in the source file .
+617	Routes creates a REST router for the todos resource
+3630	HasShowDistribution returns a boolean if a field has been set .
+6619	SupplierWithPrependedArgs returns a new Supplier that invokes the provided supplier and returns the result of calling RunnerWithPrependedArgs on the returned runner with the result of applying the provided argsFunc function to the provided command .
+7056	Handle all methods with a given pattern
+7012	SetBg sets background color
+4508	Reverse yields items in the reverse of the order it received them .
+802	SaveIPv4 changes the ipv4 configuration of the host - only network .
+414	NewPipeConns returns new bi - directional connection pipe .
+5342	CommentM inserts the comment character in lines that mach any regular expression in reLine in the named file .
+4428	SetBSON sets the UUID from raw bson data
+6848	NewCachedLoader creates a Loader that will cache the provided namespace on initialization and return data from that cache on Get
+120	newParser returns a new parser .
+764	CreateRecordSet creates recordset in the given DNS zone
+6173	NewMonitor creates new instance of billing monitor . interval specifies how often channels checks must be performed .
+6952	Get retrieves the environment variable key
+1936	AllImageStates indicates an expected call of AllImageStates
+1362	IsAWSErrorCodeEqual returns true if the err implements Error interface of awserr and it has the same error code as the passed in error code .
+3329	GetLastNoDataTsOk returns a tuple with the LastNoDataTs field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+3978	HasClientSubscribed - True if a client subscribed to this server with the same topic
+3943	Substitute returns string with superseded all substrings from provided substitution map . Substitution map will be applied in alphabetic order . Many passes on one substitution another one could apply .
+1751	GetPullStartedAt returns the PullStartedAt timestamp
+7083	Name assign a name to the container .
+3285	HasCanceled returns a boolean if a field has been set .
+480	SetBodyString sets request body .
+1348	printECSAttributes prints the Agent s ECS Attributes based on its environment
+3104	handle adds new route to the router tree .
+17	scalarBinop evaluates a binary operation between two Scalars .
+3198	GetStringId is a helper routine that allows screenboards and timeboards to be retrieved by either the legacy numerical format or the new string format . It returns the id as is if it is a string converts it to a string if it is an integer . It return an error if the type is neither string or an integer
+2172	native returns a pointer to the underlying GtkListBox .
+6423	Enumerate peeks at each element of this queue without mutating it .
+6431	countScalars returns the count of items in input up to but not including the first non - scalar item . A scalar is a single value item ie not a keyvalser .
+3727	GetTitleText returns the TitleText field if non - nil zero value otherwise .
+2336	UserToDevice is a wrapper around cairo_user_to_device .
+3465	GetUntilDateOk returns a tuple with the UntilDate field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+5706	putToBottom puts Sentinel address to the bottom of address list . We call this method internally when see that some Sentinel failed to answer on application request so next time we start with another one . Lock must be held by caller .
+5984	NewMeasuredWriter wraps a writer .
+6417	Sorti rearranges the position of integer entries in this list so that they are ascending .
+4552	Arbitrary numbers used to do a simple topological sort of resources .
+5422	NewGroup creates a new broadcast group .
+5885	Expiration is a GServiceAccount option to set a expiration limit for tokens generated from the token source .
+3986	CheckRDNSequenceWhiteSpace returns true if there is leading or trailing whitespace in any name attribute in the sequence respectively .
+1268	NewASMClient mocks base method
+1555	Monitor mocks base method
+2430	RotateGeo is deprecated as of 1 . 2 . 0 - alpha . Use Rotate instead .
+1783	Disconnect mocks base method
+479	AppendBodyString appends s to request body .
+4744	EncryptAES encrypts plaintext using AES with the given key . key should be either 16 24 or 32 bytes to select AES - 128 AES - 192 or AES - 256 . plaintext must not be shorter than key .
+6027	Returns an slice of ints64 or the specified slice Some conversion is done to handle the fact that JSON ints are represented as floats .
+4441	DeepCopy copies the receiver into a new ISBN10 .
+499	SetUserAgent sets User - Agent header value .
+6127	SuggestGasPrice retrieves the currently suggested gas price to allow a timely execution of a transaction .
+2569	NewNetworkInterfaceSubresource returns a network_interface subresource populated with all of the necessary fields .
+468	BodyWriteTo writes request body to w .
+410	RequestURI returns RequestURI - i . e . URI without Scheme and Host .
+4785	LoadWithEnvJSONBytes loads JSON bytes with Env
+3905	ParseVerb parses the verb at the beginning of f . It returns the verb how much of the input was consumed and an error if any .
+4119	SetMaximized opens the view to full screen or restores its previous size
+6985	NewWriter - get a new s3 writer
+4350	SequenceEntropy calculates the entropy for sequences such as 4567 or cdef
+1289	GetCgroupRoot returns cgroup root of the resource
+465	BodyWriter returns writer for populating response body . If used inside RequestHandler the returned writer must not be used after returning from RequestHandler . Use RequestCtx . Write or SetBodyStreamWriter in this case .
+4160	Whisper write something in private to someone on twitch whispers are heavily spam protected so your message might get blocked because of this verify your bot to prevent this
+656	filterByAnnotations filters a list of services by a given annotation selector .
+6974	New creates a new Reader . The filename is a list of mimetypes and extensions . If utf8 is true ; charset = utf - 8 will be added when setting http headers .
+1522	Merge merges two config files preferring the ones on the left . Any nil or zero values present in the left that are not present in the right will be overridden
+561	AllowContentType enforces a whitelist of request Content - Types otherwise responds with a 415 Unsupported Media Type status .
+4874	SetIdx implements the driver . Error interface .
+556	Add will append a URL parameter to the end of the route param
+5531	NewLuaObjectFromName creates a new LuaObject from the object designated by the sequence of subfields .
+7060	AddHandlerBuilder adds a builder to construct handlers
+1926	initializeTaskENIDependencies initializes all of the dependencies required by the Agent to support the awsvpc networking mode . A non nil error is returned if an error is encountered during this process . An additional boolean flag to indicate if this error is considered terminal is also returned
+3307	GetSourceType returns the SourceType field if non - nil zero value otherwise .
+982	Execute evaluates this template in the provided context .
+7293	CopyFile copies the entire database to file at the given path . A reader transaction is maintained during the copy so it is safe to continue using the database while a copy is in progress .
+4666	newHelperMethodYield creates and returns a helper method yield .
+2016	verify all the field names in the response are what we expected . this is needed because a direct unmarshal is not case sensitive so can t ensure that the response is in valid format
+4742	StringFindBetween returns the string between the first occurrences of the tokens start and stop . The remainder of the string after the stop token will be returned if found . If the tokens couldn t be found then the whole string will be returned as remainder .
+4870	In returns true if the parameter field is an input field .
+325	nthLast returns the nth most recent element added to the ring .
+5073	Run creates a new transaction with ops and runs it immediately . The id parameter specifies the transaction id and may be written down ahead of time to later verify the success of the change and resume it when the procedure is interrupted for any reason . If empty a random id will be generated . The info parameter if not nil is included under the i field of the transaction document . Operations across documents are not atomically applied but are guaranteed to be eventually all applied in the order provided or all aborted as long as the affected documents are only modified through transactions . If documents are simultaneously modified by transactions and out of transactions the behavior is undefined . If Run returns no errors all operations were applied successfully . If it returns ErrAborted one or more operations can t be applied and the transaction was entirely aborted with no changes performed . Otherwise if the transaction is interrupted while running for any reason it may be resumed explicitly or by attempting to apply another transaction on any of the documents targeted by ops as long as the interruption was made after the transaction document itself was inserted . Run Resume with the obtained transaction id to confirm whether the transaction was applied or not . Any number of transactions may be run concurrently with one runner or many .
+671	DeleteRecord wraps the Delete method of the API s Record service
+3434	GetRenotifyInterval returns the RenotifyInterval field if non - nil zero value otherwise .
+5385	NewInfo returns a info describing the named file .
+4781	LoadTOMLBytes loads TOML bytes
+4630	ErrorStack returns a string that contains both the error message and the callstack .
+4282	GetAdditionalGroupsPath looks up a list of groups by name or group id against the group file . If a group name cannot be found an error will be returned . If a group id cannot be found it will be returned as - is .
+2591	Relocate wraps the Relocate task and the subsequent waiting for the task to complete .
+2136	native returns a pointer to the underlying GtkAccelMap .
+1673	NewASMAuthResource creates a new ASMAuthResource object
+5486	Delete the Application with the given sid . If the Application has already been deleted or does not exist Delete returns nil . If another error or a timeout occurs the error is returned .
+5867	FetchBroker retrieves broker with passed cid .
+2573	baseVirtualDeviceToBaseVirtualEthernetCard converts a BaseVirtualDevice value into a BaseVirtualEthernetCard .
+1955	WriteHeader mocks base method
+2175	native returns a pointer to the underlying GtkSearchBar .
+3242	GetShowPresentOk returns a tuple with the ShowPresent field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+1072	childEnv creates a map of environment variables for child processes to have access to configurations in Consul Template s configuration .
+5287	elementsFromLine returns a list of elements each representing a single item which will belong to a column of output .
+2457	NextPos returns the tile s next position . NextPos is used only at testing so far .
+3745	GetImageUrl returns the ImageUrl field if non - nil zero value otherwise .
+2590	MoveToFolder moves a virtual machine to the specified folder .
+6159	checkInPeriod checks an offering being in period specified by periodKey .
+594	ContentCharset generates a handler that writes a 415 Unsupported Media Type response if none of the charsets match . An empty charset will allow requests with no Content - Type header or no specified charset .
+76	ApplyConfig updates the state as the new config requires .
+3754	GetIncludeUnits returns the IncludeUnits field if non - nil zero value otherwise .
+5088	New creates a new Validate instance for use .
+4612	Private stuff . load loads a source file and parses the AST tree . Failures are ignored .
+819	Start starts the existing VM instance .
+600	SearchArticles searches the Articles data for a matching article . It s just a stub but you get the idea .
+4404	SetBSON sets the Base64 from raw bson data
+1746	SetAppMesh sets the app mesh config of the task
+4144	Mask returns a new masked NetworkNumber from given NetworkNumber .
+1085	NewLogFilter returns a LevelFilter that is configured with the log levels that we use .
+2859	IsResourceInUseError checks an error to see if it s of the ResourceInUse type .
+7216	SetBufferLength sets length of buffer for accepting log records .
+563	HandlerFunc builds and returns a http . Handler from the chain of middlewares with h http . Handler as the final handler .
+7202	NewSalter creates a new instance of Salter . It requires a list of sources of random data and optionally an input to salt next token .
+2001	handleDockerEvents must be called after openEventstream ; it processes each event that it reads from the docker event stream .
+3027	ToServerListQuery formats a ListOpts into a query string .
+2334	SetMatrix is a wrapper around cairo_set_matrix .
+1292	LoadImage returns UnsupportedPlatformError on the unsupported platform
+3589	GetRecoveryWindow returns the RecoveryWindow field if non - nil zero value otherwise .
+6830	NewContext returns a new context . Context and Trace with the given family and title . The trace will be stored in the context .
+4450	UnmarshalJSON sets the HexColor from JSON
+5763	Gauge sets a gauge to a value
+2478	resolveStaleImages resolves stale images .
+5010	pack28 packs 28 values from in using 1 bit each
+5357	SetsysForUid sets the value of the environment variable named by the key that affects the system as a whole . You must be Root . It returns an error if any .
+4333	Send sends the time elapsed since the creation of the Timing .
+64	HashForLabels returns a hash value for the labels matching the provided names .
+5471	Get returns a single Queue or an error .
+6693	LockServer locks an existing server preventing it s destruction without first unlocking . Deprecated use LockResource instead .
+4543	RegistryRepoName returns the repository as used in the registry URL
+2452	IsInvalidated returns a boolean value indicating whether the image is invalidated . If an image is invalidated GL context is lost and all the images should be restored asap .
+5434	WaitFor will block until a message matching the given filter is received
+848	parseTags computes the tags for the instance .
+7193	UseHandler appends a Handler to the route .
+1100	base64Decode decodes the given string as a base64 string returning an error if it fails .
+945	GetCreateFlags registers the flags this driver adds to docker - machine create
+7288	OK checks if SyslogFacility is valid .
+876	DriverName returns the name of the driver as it is registered
+6081	UpdatePassword updates the password .
+2231	WaitIsUrisAvailable is a wrapper around gtk_clipboard_wait_is_uris_available
+2308	native returns a pointer to the underlying GtkTreeStore .
+4954	Parse splitting & decoding compact serialized json web token returns slice of byte arrays each representing part of token
+1725	DockerHostConfig construct the configuration recognized by docker
+5878	getSuitableAlgFromCurve inspects the key length in curve and determines the corresponding jwt . Algorithm .
+2808	flattenVmwareDistributedVirtualSwitchVlanIDSpec reads various fields from a VmwareDistributedVirtualSwitchVlanIdSpec into the passed in ResourceData .
+1667	MarshalJSON overrides the logic for JSON - encoding a TaskVolume object
+5631	ComputePrivateKey returns the private key using the master mprivHex and chainCodeHex for the given path and index .
+5195	HasIndex returns true if the given index is in the schema .
+6987	Delete - delete an s3 bucket
+2162	AddAction is a wrapper around g_action_map_add_action
+4140	Contains returns true if NetworkNumber is in range of Network false otherwise .
+2057	NewTaskResponse creates a TaskResponse for a task .
+6931	Snapshot returns the number of values per second since the last snapshot and reset the count to zero .
+416	LastUseTime returns time the client was last used
+756	replaceRecord replaces all existing records pf the given type for the Endpoint . DNSName with 1 API call
+5196	NewPQLBaseQuery creates a new PQLQuery with the given PQL and index .
+2266	native returns a pointer to the underlying GtkOverlay .
+361	StatusMessage returns HTTP status message for the given status code .
+29	ApplyConfig updates the config field of the Handler struct
+2732	tagCategoryByName locates a tag category by name . It s used by the vsphere_tag_category data source and the resource importer .
+6317	RenderView renders a template using the provided template and vars struct and returns the rendered tamplate
+1071	allTemplatesRendered returns true if all the templates in this Runner have been rendered at least one time .
+5219	Row creates a Row query . Row retrieves the indices of all the set columns in a row . It also retrieves any attributes set on that row or column .
+2145	Native returns native c pointer to a matrix
+6072	ClientOpen decrypts message using client s key and verifies using agent s key .
+3619	GetNewStatus returns the NewStatus field if non - nil zero value otherwise .
+4519	RunFilter sorts items by the specified sorting keys . It implements the Filter interface .
+5780	DeleteMetricClusterByCID deletes metric cluster with passed cid .
+3503	HasScope returns a boolean if a field has been set .
+4594	updateLocations initializes LocalSrcPath and IsStdlib .
+79	RateLimit write to a logger .
+616	NewWrapResponseWriter wraps an http . ResponseWriter returning a proxy that allows you to hook into various parts of the response process .
+7234	getChildEntry returns a child Entry that matches the given pattern string .
+5660	CompareHashAndPassword compares a bcrypt hashed password with its possible plaintext equivalent . Returns nil on success or an error on failure .
+1221	RemoveContainerReference removes container reference from image state
+4469	UnmarshalEasyJSON sets the DateTime from a easyjson . Lexer
+295	Adapter return an adapter as storage . Storage .
+6837	PushSMS sends an SMS to the specific user from the device with the given title and url
+3024	MoveObjectTo moves a object by reference into a folder .
+4771	ReadLine reads unbuffered until a newline \ n byte and removes an optional carriege return \ r at the end of the line . In case of an error the string up to the error is returned .
+4526	Return true if the line is a comment .
+1213	APIVersion returns the client api version
+3520	GetUserAgent returns the UserAgent field if non - nil zero value otherwise .
+1044	Stop closes all idle connections for any attached clients .
+342	SetLastError sets the current error seen by the recording rule .
+2525	schemaHostNasVolumeSpec returns schema items for resources that need to work with a HostNasVolumeSpec .
+2987	Swap helps implement sort . Interface for virtualDeviceListSorter .
+6521	GetTransactions gets transactions associated with an account
+7050	SafeCreate creates a file creating parent directories if needed
+326	next advances the openMetricsLexer to the next character .
+2931	flattenClusterDependencyRuleInfo saves a ClusterDependencyRuleInfo into the supplied ResourceData .
+1720	convertENIToCNIConfig converts input eni config into cni config
+5587	DetachPersistentDisk updates the agent settings in order to delete an attached persistent disk .
+2044	GetTaskHealthMetrics mocks base method
+5463	GetNextAlertsInRange retrieves the page at the nextPageURI and continues retrieving pages until any results are found in the range given by start or end or we determine there are no more records to be found in that range . If AlertPage is non - nil it will have at least one result .
+842	staticAddress returns the external static IP address .
+2897	resourceVSphereDatastoreClusterVMAntiAffinityRuleFindEntry attempts to locate an existing VM anti - affinity rule in a datastore cluster s configuration by key . It s used by the resource s read functionality and tests . nil is returned if the entry cannot be found .
+6390	Take retreives just the first n elements from an Enumerator .
+4586	IsPtr returns true if we guess it s a pointer . It s only a guess it can be easily be confused by a bitmask .
+7242	Debugln logs a line with a DEBUG prefix .
+7165	Write meta - info to specified place
+5084	Release decrements a socket reference . The socket will be recycled once its released as many times as it s been acquired .
+6139	PSCSettle calls settle method of Privatix service contract .
+1266	UnmarshalJSON unmarshals VolumeResource object using duplicate struct VolumeResourceJSON
+1939	ENIByMac mocks base method
+7082	PublishPort publish a container s port to the host .
+1331	NewMockHttpClient creates a new mock instance
+6552	NewDataWriter returns a new callback based data buffer
+6641	Overlaps reports whether r and s have a non - empty intersection .
+1450	storeV3EndpointIDToTaskUnsafe adds v3EndpointID - > taskARN mapping to state
+7220	log creates log record and submits it for processing .
+3377	GetTokenURIOk returns a tuple with the TokenURI field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+203	NewManager returns an implementation of Manager ready to be started by calling the Run method .
+1469	IsMetadataFileUpdated returns true if the metadata file has been once the metadata file is ready and will no longer change
+2721	applyVirtualDevices is used by Create and Update to build a list of virtual device changes .
+6409	IsEmpty tests the list to determine if it is populate or not .
+3372	HasPrivateKey returns a boolean if a field has been set .
+6571	ChangeCustomHostVar creates a new CHANGE_CUSTOM_HOST_VAR Nagios command . Changes the value of a custom host variable .
+5487	URL returns the URL that can be used to play this recording based on the extension . No error is returned if you provide an invalid extension . As of October 2016 the valid values are . wav and . mp3 .
+7078	MarshalBinary allocates a byte slice containing the data from a MACMaskArg . If m . DirCount does not indicate the actual length of m . Directives or a Directive is malformed ErrorBadArgumentParameter is returned .
+6021	Returns a string at the key or the specified value if it doesn t exist or isn t a strin
+2032	overrideCgroupParent updates hostconfig with cgroup parent when task cgroups are enabled
+1304	taskShouldBeSent checks whether the event should be sent this includes both task state change and container state change events
+6450	Set is part of the flag . Value interface .
+5744	initLocales initializes language type list and Accept - Language header matcher .
+885	Stop a host gracefully
+3133	UnmarshalText from TOML
+7144	SetFromDocker parses port as provided by Docker and extract protocol and port number .
+317	NewBufferIterator returns a new iterator that buffers the values within the time range of the current element and the duration of delta before .
+7033	GetRemoteFile - get a file from a remote system and return a writecloser to it
+3855	NewCursor create a new cursor with the DefaultCursor the specified input and position at the end of the specified starting input .
+1822	emitCurrentStatus emits a container event for every container and a task event for the task
+1634	SetDriverVersion is a setter for nvidia driver version
+6689	ResetPasswordForDatabaseServer requests a snapshot of an existing database server .
+3770	GetAPIKey returns a single API key or error on failure
+2864	parseVersionFromAboutInfo returns a populated VSphereVersion from an AboutInfo data object . This function panics if it cannot parse the version correctly as given our source of truth is a valid AboutInfo object such an error is indicative of a major issue with our version parsing logic .
+2500	CopyImage copies img to a new RGBA image . Basically CopyImage just calls draw . Draw . If img is a paletted image an optimized copying method is used . CopyImage is used only internally but it is exposed for testing .
+6721	setAuthHeader sets the Swift Authorization header to r using the access token in t .
+6515	CreateUser creates a new user given an email and password
+7137	Negotiate inspects the request for the accept header and encodes the response appropriately .
+1864	retrieveSSMSecretValues retrieves secret values from SSM parameter store and caches them into memory
+1826	cleanupCredentials removes credentials for a stopped task
+193	NewAdapter creates a new instance of Adapter .
+5406	AddSystemGroup adds a system group .
+1582	DeleteSecretWithContext mocks base method
+3264	HasInvert returns a boolean if a field has been set .
+2689	Rename renames a StoragePod .
+2282	for drag - begin event
+7080	NewMulti creates a MultiLog
+568	Handle adds the route pattern that matches any http method to execute the handler http . Handler .
+6335	ServeHTTP records the time for a request and sends the result to statsd
+2286	native returns a pointer to the underlying GtkSpinButton .
+2876	expandClusterAffinityRuleSpec reads certain ResourceData keys and returns a ClusterAffinityRuleSpec .
+5255	httpRequest makes a request to the cluster - use this when you want the client to choose a host and it doesn t matter if the request goes to a specific host
+4173	Execute - adds a named asg to the configuration
+3274	GetDashboardCount returns the DashboardCount field if non - nil zero value otherwise .
+5566	WithContext adds the context to the find vms by states params
+6911	SaveEntity saves the given Identifiable into the server .
+2712	wait waits for the customization of a supplied VirtualMachine to complete either due to success or error . It does this by watching specifically for CustomizationSucceeded and CustomizationFailed events . If the customization failed due to some sort of error the full formatted message is returned as an error .
+226	NewNerveDiscovery returns a new Discovery for the given Nerve config .
+944	randomString generates a random string of given length using specified alphabet .
+7184	readMessage reads a line from the connection and parses it as an IRC message .
+2139	native returns a pointer to the underlying GtkTextView .
+1462	SetSentStatus safely sets the SentStatusUnsafe of the container
+4756	HTTPDelete performs a HTTP DELETE request
+2174	native returns a pointer to the underlying GtkRevealer .
+313	FromQueryResult unpacks a QueryResult proto .
+888	getNameAndItsPpid returns the exe file name its parent process id .
+4887	On returns if tracing methods output is active .
+3559	GetPublicId returns the PublicId field if non - nil zero value otherwise .
+2831	resourceVSphereDRSVMOverrideParseID parses an ID for the vsphere_drs_vm_override and outputs its parts .
+5968	QR generates a byte slice containing the a QR code encoded as a PNG with level Q error correction .
+6442	Swap switches the values that are stored at positions x and y
+3574	GetOk returns the Ok field if non - nil zero value otherwise .
+4966	Encode encodes given byte array to base64url string
+4189	Execute - creates spaces
+947	NewDriver creates a new VirtualBox driver with default settings .
+3155	NewWhisper create instance of Whisper
+4723	New makes a new Runner with the given testing T target and the root URL .
+1557	SetInferenceDevices sets the InferenceDevices field s value .
+2086	LinkByName mocks base method
+363	Parse parses the given string containing query args .
+5806	UpdateAcknowledgement updates passed acknowledgement .
+3572	GetCriticalRecoveryOk returns a tuple with the CriticalRecovery field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+13	evalSubquery evaluates given SubqueryExpr and returns an equivalent evaluated MatrixSelector in its place . Note that the Name and LabelMatchers are not set .
+4259	ptsname retrieves the name of the first available pts for the given master .
+6606	Exec executes a given Livestatus query .
+4410	MarshalJSON returns the Email as JSON
+5626	getPubKey reads the pubkey the ledger itself since this involves IO it may return an error which is not exposed in the PubKey interface so this function allows better error handling
+5893	Sign signs the data in buf using rand priv and hash .
+6078	GetObjectByHash finds object in a database by hash then returns an object on raw JSON format .
+6037	NewWorker returns new instance of worker .
+5493	GetPage retrieves an IncomingPhoneNumberPage filtered by the given data .
+1614	RotateSecretWithContext mocks base method
+2983	findControllerInfo determines the normalized unit number for the disk device based on the SCSI controller and unit number it s connected to . The controller is also returned .
+3533	GetMinLocationFailedOk returns a tuple with the MinLocationFailed field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+573	Delete adds the route pattern that matches a DELETE http method to execute the handlerFn http . HandlerFunc .
+5441	AddTrigger adds a trigger to the bot s handlers
+2704	SaveVimClient saves a client to the supplied path . This facilitates re - use of the session at a later date . Note the logic in this function has been largely adapted from govc and is designed to be compatible with it .
+5104	Insert queues up the provided documents for insertion .
+2571	ReadNetworkInterfaceTypes returns a list of network interface types . This is used in the VM data source to discover the types of the NIC drivers on the virtual machine . The list is sorted by the order that they would be added in if a clone were to be done .
+6946	Close flushes all pending data to reporters and releases resources .
+1020	NewKVListQuery parses a string into a dependency .
+5896	getFieldWithTag lookups jwt tag with specified tagName on obj returning its reflected value .
+2460	Update updates the tile s animation states .
+4154	Insert inserts a RangerEntry into ranger .
+2533	expandClusterHostGroup reads certain ResourceData keys and returns a ClusterHostGroup .
+3345	HasEndTime returns a boolean if a field has been set .
+2672	flattenClusterVmComponentProtectionSettings saves a ClusterVmComponentProtectionSettings into the supplied ResourceData .
+3296	GetTimezoneOk returns a tuple with the Timezone field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+5711	Addr returns an address of slave .
+2422	Draw draws the path by rendering its stroke or filling .
+4541	FqName returns namespace . name
+1042	Consul returns the Consul client for this set .
+1571	CancelRotateSecret indicates an expected call of CancelRotateSecret
+3444	GetThresholdWindowsOk returns a tuple with the ThresholdWindows field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+5447	Cancel an in - progress Call with the given sid . Cancel will not affect in - progress Calls only those in queued or ringing .
+3105	Handle registers a new request handle with the given pattern method and handlers .
+5548	RequestUsers will send an outgoing request to get the user information for all users
+6128	EstimateGas tries to estimate the gas needed to execute a specific transaction based on the current pending state of the backend blockchain .
+1425	Disconnect disconnects the connection
+5042	Batch sets the batch size used when fetching documents from the database . It s possible to change this setting on a per - session basis as well using the Batch method of Session . The default batch size is defined by the database server .
+4662	BearingTo returns the bearing from p1 to p2
+2465	availableFilename returns a filename that is valid as a new file or directory .
+3326	GetStackedOk returns a tuple with the Stacked field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+4488	UnmarshalJSON sets the Date from JSON
+6829	TitleFromContext is a convenience function that returns the Trace s title from a context or an empty string if none exists
+3	NewEngine returns a new engine .
+2489	Fill fills the image with a solid color . When the image is disposed Fill does nothing . Fill always returns nil as of 1 . 5 . 0 - alpha .
+2350	flag edges as either boundary or nonboundary
+1721	convertAppMeshToCNIConfig converts input app mesh config into cni config
+3521	GetUserAgentOk returns a tuple with the UserAgent field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+6436	Get retreives the value stored in a particular position of the list . If no item exists at the given position the second parameter will be returned as false .
+4751	Error calls fmt . Println for of every error in the list and returns the concernated text . Can be called for a nil ErrorList .
+5363	== Editing Add adds a new shadowed group . If the key is not nil generates a hashed password . It is created a backup before of modify the original file .
+2639	removeDatastore is a convenience method for removing a referenced datastore .
+3809	Packets to and from any address matching a range in the list are dropped .
+3622	GetService returns the Service field if non - nil zero value otherwise .
+5534	Get stores in a the Lua value indexed at the sequence of subfields . a must be a pointer as in LuaToGo .
+1750	SetPullStartedAt sets the task pullstartedat timestamp and returns whether this field was updated or not
+4187	DeleteConfigIfExists deletes config directory if it exists .
+3876	Close closes the encoder by writing any remaining data . It does not write a stream terminating string ... .
+6502	ApiKeyClient instantiates the client with ApiKey Authentication
+6028	Returns an slice of floats or a nil slice
+1390	CleanupNS mocks base method
+5397	NewSystemGroup adds a system group .
+694	dnsimpleSuitableZone returns the most suitable zone for a given hostname and a set of zones .
+2324	SetColors sets all colors values in the RGBA .
+4222	keyIsExpired deletes the key from cache if it is expired
+5438	Run starts the bot and connects to the server . Blocks until we disconnect from the server .
+5185	DefaultCluster returns the default Cluster .
+5072	NewRunner returns a new transaction runner that uses tc to hold its transactions . Multiple transaction collections may exist in a single database but all collections that are touched by operations in a given transaction collection must be handled exclusively by it . A second collection with the same name of tc but suffixed by . stash will be used for implementing the transactional behavior of insert and remove operations .
+2745	expandSliceOfDistributedVirtualSwitchHostMemberConfigSpec expands all host entires for a VMware DVS detecting if a host spec needs to be added removed or updated as well . The whole slice is returned .
+765	UpdateRecordSet updates recordset in the given DNS zone
+6704	AddNodesToLoadBalancer adds nodes to an existing load balancer .
+6153	AgentPreServiceSuspend marks service as suspended .
+1924	Rename mocks base method
+5511	Println throw logstr to channel to print to the logger . Arguments are handled in the manner of fmt . Println .
+2542	expandCustomizationGuiUnattended reads certain ResourceData keys and returns a CustomizationGuiUnattended .
+6607	xtoi2 converts the next two hex digits of s into a byte . If s is longer than 2 bytes then the third byte must be e . If the first two bytes of s are not hex digits or the third byte does not match e false is returned .
+1631	parseNetworkMetadata parses the docker . NetworkSettings struct and packages the desired metadata for JSON marshaling Since we accept incomplete metadata fields we should not return errors here and handle them at this stage .
+1207	Returns the Docker SDK Client
+200	setEvaluationTimestamp updates evaluationTimestamp to the timestamp of when the rule group was last evaluated .
+378	SetNoValue sets only key as argument without the = . Only key in argumemt like key1&key2
+3892	switchStmt emits to fn code for the switch statement s optionally labelled by label .
+5007	EncodeAll returns a packed slice of the values from src . It a value is over 1 << 28 an error is returned .
+6961	Clear empties the set .
+6295	MarshalString appends the uint32 to the buffer .
+596	Split a string in two parts cleaning any whitespace .
+3730	GetURL returns the URL field if non - nil zero value otherwise .
+3395	GetOverallState returns the OverallState field if non - nil zero value otherwise .
+7259	NewStdFormatter crete a new formatter .
+5159	Init initializes the embedded newrelic agent with the given app name and license key .
+4715	InitializeOptions initializes the options .
+1592	GetSecretValue mocks base method
+5884	Proxy is a GServiceAccount option to set a HTTP proxy used for by the token source .
+5704	Idle indicates to the server that the client is ready to receive unsolicited mailbox update messages . When the client wants to send commands again it must first close stop .
+3145	Copy returns copy of object
+4049	FillRect paints the area with r character using the current colors
+3273	HasInverted returns a boolean if a field has been set .
+1998	GetInstanceMetrics gets all task metrics and instance metadata from stats engine .
+1208	DockerStateToState converts the container status from docker to status recognized by the agent
+5374	AddSystemUser adds a system user to both user and shadow files .
+5633	SignBTCMessage signs a Bitcoin Signed Message .
+45	LoadFile parses the given YAML file into a Config .
+7312	WaitPeerListening wait for specified peer be ready for new connections .
+7048	SafeRemoveSSH removes a file on a remote machine via an ssh client
+6308	Prefix returns an AssetPipeline that prefixes URLs with the given string
+873	saveTenantID performs an atomic write to the path with given tenantID contents .
+6376	First retrieves just the first item in the list or returns an error if there are no elements in the array .
+3482	GetTags returns the Tags field if non - nil zero value otherwise .
+1792	MarshalJSON overrides the logic for JSON - encoding the ContainerStatus type
+1440	TaskByArn returns a task for a given ARN
+6587	EnableSvcNotifications creates a new ENABLE_SVC_NOTIFICATIONS Nagios command . Enables notifications for a particular service . Notifications will be sent out for the service only if notifications are enabled on a program - wide basis as well .
+5700	Performs required field checking on a struct
+4243	BoundingBox returns the region encoded by the given string geohash .
+3805	A zero Port is taken to mean no port provided per BEP 7 .
+411	AppendBytes appends full uri to dst and returns the extended dst .
+4566	Clone a template . This is useful for defining helpers on per instance of the template .
+2041	ContainerDockerStats indicates an expected call of ContainerDockerStats
+6949	FilterBefore returns rows created before a provided key . It accepts a filter and result shaping arguments
+994	MapValues returns the list of values in the map sorted by key .
+3739	GetSearch returns the Search field if non - nil zero value otherwise .
+1092	keyExistsFunc returns true if a key exists false otherwise .
+6565	GetString returns a string value for a specific column .
+3806	Generate the CRC used to make or validate secure node ID .
+5468	GetPage returns a single page of resources . To retrieve multiple pages use GetPageIterator .
+4351	ExtraLeetEntropy calulates the added entropy provied by l33t substitustions
+4578	splitPath splits a path into its components . The first item has its initial path separator kept .
+4877	Level implements the driver . Error interface .
+2599	UUIDs returns all UUIDs in a MOIDForUUIDResults .
+7302	CreateBucketIfNotExists creates a new bucket if it doesn t already exist and returns a reference to it . Returns an error if the bucket name is blank or if the bucket name is too long . The bucket instance is only valid for the lifetime of the transaction .
+3625	GetShowBreakdown returns the ShowBreakdown field if non - nil zero value otherwise .
+5018	ParseURL parses a MongoDB URL as accepted by the Dial function and returns a value suitable for providing into DialWithInfo . See Dial for more details on the format of url .
+6676	Len returns the vector s length .
+5892	Client returns a HTTP client using the bearer token .
+7307	PutGob serialize v using gob and put it into the key .
+4135	Equal is the equality test for 2 network numbers .
+3495	GetAggrOk returns a tuple with the Aggr field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+6804	Bool looks up the value of a bool flag returns false if no bool flag exists
+3652	GetToTs returns the ToTs field if non - nil zero value otherwise .
+1303	Info indicates an expected call of Info
+6092	TopUpChannel initiates JobClientPreChannelTopUp job .
+7057	Options handles OPTIONS methods with a given pattern
+3888	stmtList emits to fn code for all statements in list .
+3686	GetManageStatusTitleTextOk returns a tuple with the ManageStatusTitleText field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+2123	TypeString returns the g variant type string for this variant .
+6158	AgentPreOfferingDelete calls psc remove an offering .
+2025	NewNamedError creates a NamedError .
+6880	MakeWidget creates a generic Widget structure .
+5223	RowTopN creates a TopN query with the given item count and row . This variant supports customizing the row query .
+2271	native returns a pointer to the underlying GtkRange .
+6370	Enumerate lists the items in a Directory
+4270	NewConsole creates new console for process and returns it
+3969	New returns new EventBus with empty handlers .
+5134	Output calls UI . Output to write . OutputFGColor and OutputBGColor are used for color .
+1959	GetClient on linux will simply return the cached client from the map
+2249	native returns a pointer to the underlying GObject as a GtkFileFilter .
+3603	HasFrom returns a boolean if a field has been set .
+634	validateChangeBatch validates that the changes passed to InMemory DNS provider is valid
+5845	FetchRuleSets retrieves all rule sets available to API Token .
+2340	Draw draws the sprite .
+1920	MkdirAll mocks base method
+2225	native returns a pointer to the underlying GtkCheckButton .
+2751	flattenDVSNameArrayUplinkPortPolicy reads various fields from a DVSNameArrayUplinkPortPolicy into the passed in ResourceData .
+2619	SliceInterfacesToManagedObjectReferences converts an interface slice into a slice of ManagedObjectReferences with the type of t .
+7315	Unsubscribe handler from the bus . It will return false if the handler not subscribed .
+4424	DeepCopy copies the receiver into a new CIDR .
+660	ExoscaleWithLogging injects logging when ApplyChanges is called
+1235	constructNetworkConfig takes in the config from agent and construct the configuration that s accepted by the libcni
+1894	synchronizeContainerStatus checks and updates the container status with docker
+3137	SetMaxSize of cache
+5684	Error implements the builtin error interface for demangleErr .
+1251	publishHealthMetrics send the container health information to backend
+5786	FetchAnnotations retrieves all annotations available to the API Token .
+1752	SetPullStoppedAt sets the task pullstoppedat timestamp
+526	Header returns request header representation . The returned representation is valid until the next call to RequestHeader methods .
+3398	GetOverallStateModified returns the OverallStateModified field if non - nil zero value otherwise .
+3339	HasLastTriggeredTs returns a boolean if a field has been set .
+2710	SavedVimSessionOrNew either loads a saved SOAP session from disk or creates a new one .
+4445	DeepCopy copies the receiver into a new CreditCard .
+3816	Returns how many nodes are in the node table .
+3406	HasContent returns a boolean if a field has been set .
+510	Reset clears response header .
+1694	NewContainerStateChangeEvent creates a new container state change event
+6823	DumpMetrics returns the metrics prometheus would return when collected as a string for fun and testing
+3441	GetThresholdsOk returns a tuple with the Thresholds field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+3190	GetMonitorsByTags retrieves monitors by a slice of tags
+6306	NewServiceContainer returns a new ServiceContainer
+4784	LoadWithEnvBytes loads YAML bytes with Env
+5697	options returns the demangling options to use based on the command line flags .
+160	enqueue a sample . If we are currently in the process of shutting down or resharding will return false ; in this case you should back off and retry .
+7018	NewErrorStatus creates an error that implements ErrorStatus based off a string
+7214	run starts async log records processing .
+6271	Check returns true if given string matches stored .
+4716	AddNoCloseTagName appends name to . NoCloseTagNames set .
+3116	GenerateETag generates an ETag based on size filename and file modification time
+3907	Reader read handler .
+48	CheckTargetAddress checks if target address is valid .
+2881	ValidateVirtualMachineClone does pre - creation validation of a virtual machine s configuration to make sure it s suitable for use in cloning . This includes but is not limited to checking to make sure that the disks in the new VM configuration line up with the configuration in the existing template and checking to make sure that the VM has a single snapshot we can use in the even that linked clones are enabled .
+2446	readPixelsFromGPU reads the pixels from GPU and resolves the image s stale state .
+6172	Migrate executes migration scripts .
+3194	GetIntOk is a helper routine that returns a boolean representing if a value was set and if so dereferences the pointer to it .
+6991	Result reads response result data into given object . Object should be passed by reference .
+7304	GobValue retrieves a value written by PutGob and decode it .
+6846	PushNote sends a note to the specific Channel with the given title and body
+3432	GetQueryConfigOk returns a tuple with the QueryConfig field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+4409	DeepCopy copies the receiver into a new URI .
+6123	NewHandler creates a new handler .
+6018	Returns a time . Time or panics
+4473	ParseDuration parses a duration from a string compatible with scala duration syntax
+4941	TLSConfig returns the TLS configuration of the connector .
+1806	KnownVersions indicates an expected call of KnownVersions
+3999	EncodeLintDescriptionsToJSON outputs a description of each lint as JSON object one object per line .
+1797	APIVersion mocks base method
+2235	WaitIsTargetAvailable is a wrapper around gtk_clipboard_wait_is_target_available
+3570	HasCritical returns a boolean if a field has been set .
+237	TargetsAll returns active and dropped targets grouped by job_name .
+3185	EditComment changes the message and possibly handle of a particular comment .
+2753	flattenVMwareDVSConfigInfo reads various fields from a VMwareDVSConfigInfo into the passed in ResourceData . This is the flatten counterpart to expandVMwareDVSConfigSpec as the configuration info from a DVS comes back as this type instead of a specific ConfigSpec .
+5479	Price flips the sign of the amount and prints it with a currency symbol for the given unit .
+5563	Find the price in the given package with the specified size
+6538	AddDialer adds a sub - dialer usable by this dialer . Dialers added first will be selected first based on the address .
+3312	HasDefinition returns a boolean if a field has been set .
+5932	Using the EZ API posts a count to a stat at a specific time using DefaultReporter .
+6885	resize sets new x and y maxima . resize shall be called from queue context .
+3828	NodeID returns the 6 byte node id encoded in uuid . It returns nil if uuid is not valid . The NodeID is only well defined for version 1 and 2 UUIDs .
+1045	NewVaultReadQuery creates a new datacenter dependency .
+5097	IsObjectIdHex returns whether s is a valid hex representation of an ObjectId . See the ObjectIdHex function .
+220	NewManager is the Discovery Manager constructor .
+3227	HasKey returns a boolean if a field has been set .
+4848	GenSQLServer generates a mssql DSN from the passed URL .
+4623	numToString converts a number a string using the given alpabet .
+5431	Uptime returns the uptime of the bot
+222	Run starts the background processing
+687	NewDnsimpleProvider initializes a new Dnsimple based provider
+5265	OptClientManualServerAddress forces the client use only the manual server address
+3511	GetProperty returns the Property field if non - nil zero value otherwise .
+1111	parseFloat parses a string into a base 10 float
+7101	Errorf calls Logger . Errorf method with provided arguments .
+3782	AddTagsToHost does exactly what it says on the tin . Given a list of tags add them to the host . The source is optionally specified and defaults to users as per the API documentation .
+1488	SetHealthStatus sets the container health status
+2131	native returns a pointer to the underlying GVariantBuilder .
+2681	flattenClusterInfraUpdateHaConfigInfo saves a ClusterInfraUpdateHaConfigInfo into the supplied ResourceData .
+1733	SetKnownStatus sets the known status of the task
+3724	GetTileDef returns the TileDef field if non - nil zero value otherwise .
+2677	expandClusterDrsConfigInfo reads certain ResourceData keys and returns a ClusterDrsConfigInfo .
+2764	schemaVirtualMachineResourceAllocation returns the respective schema keys for the various kinds of resource allocation settings available to a virtual machine . This is an abridged version of ResourceAllocationInfo with only the keys present that make sense for virtual machines .
+6235	New function for initialize the service for generating the Endpoint Message .
+7206	NewsItem related functions and methods Create a NewsItem
+2279	GetData is a wrapper around gtk_selection_data_get_data_with_length . It returns a slice of the correct size with the selection s data .
+6160	AgentPreOfferingPopUp pop ups an offering .
+6815	Update performs a partial update with the given value at the specified path .
+3453	GetLogSetOk returns a tuple with the LogSet field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+2066	Consume reads the buffer and write to a listener channel
+6839	Push pushes the data to a specific device registered with PushBullet . The data parameter is marshaled to JSON and sent as the request body . Most users should call one of PusNote PushLink PushAddress or PushList .
+670	CreateRecord wraps the Create method of the API s Record service
+3852	PageUp moves the visible list backward by x items . Where x is the size of the visible items on the list . The selected item becomes the first visible item . If the list is already at the bottom the selected item becomes the last visible item .
+158	start the shards ; must be called before any call to enqueue .
+6136	PSCGetOfferingInfo calls getOfferingInfo of Privatix service contract .
+426	ListenAndServeUNIX serves HTTP requests from the given UNIX addr using the given handler . The function deletes existing file at addr before starting serving . The server sets the given file mode for the UNIX addr .
+2866	String implements stringer for VSphereVersion .
+1836	startContainerTransitions steps through each container in the task and calls the passed transition function when a transition should occur .
+5325	nextUID returns the next free user id to use according to whether it is a system s user .
+562	GetReqID returns a request ID from the given context if one is present . Returns the empty string if a request ID cannot be found .
+6399	Enumerate peeks at each element in the stack without mutating it .
+5339	AppendString is like Append but writes the contents of string s rather than an array of bytes .
+329	coalesceBuckets merges buckets with the same upper bound . The input buckets must be sorted .
+6178	VerifySuspendedChannelsAndTryToTerminate scans all suspended channels and terminates those of them who are staying suspended too long .
+254	ApplyConfig updates the status state as the new config requires .
+1633	SetGPUIDs sets the GPUIDs
+6874	Writers sets the Writers
+166	Validate validates all rules in the rule groups .
+5089	Field allows validation of a single field still using tag style validation to check multiple errors
+1248	publishMetrics invokes the PublishMetricsRequest on the clientserver object .
+1954	Header indicates an expected call of Header
+1034	logError logs an error message and then returns the given status .
+3879	lintName returns a different name if it should be different .
+5484	CreateResource makes a POST request to the given resource .
+937	NewDriver instantiates a Rackspace driver .
+4620	Reads souce file lines from disk if not cached already .
+1785	MakeRequest mocks base method
+5730	LimitChan returns a rate - limiting channel . it is the usual simple golang - idiomatic rate - limiting semaphore . This function merely initializes it with certain buffer size and sends that many values so it is ready to be used .
+2099	Delete removes the entry associated with the key from cache
+6282	save reads the applied ipvsadm rules from the host and saves them as i . Services
+3021	validateVirtualMachineFolder checks to make sure the folder is a VM folder and returns it if it is or an error if it isn t .
+1374	sendChange adds the change to the sendable events queue . It triggers the handler s submitTaskEvents async method to submit this change if there s no go routines already sending changes for this event list
+4963	UInt32ToBytes unwrap uint32 value to byte array of length 4 using big endian
+4974	ContainerMetrics is deprecated in favor of ContainerEnvelopes since returning the ContainerMetric type directly hides important information like the timestamp . The returned values will be the same as ContainerEnvelopes just with the Envelope stripped out .
+6371	All tests whether or not all items present in an Enumerable meet a criteria .
+6711	ApiClients retrieves a list of all API clients
+1341	NewStateManager constructs a new StateManager which saves data at the location specified in cfg and operates under the given options . The returned StateManager will not save more often than every 10 seconds and will not reliably return errors with Save but will log them appropriately .
+2548	expandCustomizationIPSettings reads certain ResourceData keys and returns a CustomizationIPSettings .
+4740	Map a function on each element of a slice of strings .
+210	Collect implements prometheus . Collector .
+2555	expandLinkDiscoveryProtocolConfig reads certain ResourceData keys and returns a LinkDiscoveryProtocolConfig .
+3074	Query querys form parameter .
+3249	HasTransferAllUserComments returns a boolean if a field has been set .
+5857	FetchWorksheets retrieves all worksheets available to API Token .
+1624	UpdateSecretVersionStageWithContext mocks base method
+622	isAWSAlias determines if a given hostname belongs to an AWS Alias record by doing an reverse lookup .
+4850	GenOracle generates a ora DSN from the passed URL .
+5657	Update changes the passphrase with which an already stored key is encrypted . oldpass must be the current passphrase used for encryption newpass will be the only valid passphrase from this time forward .
+5138	Warn calls UI . Warn to write . Useful when you want separate colors or prefixes . WarnFGColor and WarnBGColor are used for color .
+1989	ResolveTask resolves the api task object given container id .
+834	deviceFlowAuth prints a message to the screen for user to take action to consent application on a browser and in the meanwhile the authentication endpoint is polled until user gives consent denies or the flow times out . Returned token must be saved .
+6328	Equal returns a boolean reporting whether a == b
+2470	enable binds the array buffer the given program to use the array buffer .
+6965	If a holiday falls on a Saturday it is celebrated the preceding Friday ; if a holiday falls on a Sunday it is celebrated the following Monday .
+5605	WithTimeout adds the timeout to the list Vm params
+4918	ReadCesu8 reads a size CESU - 8 encoded byte sequence and returns an UTF - 8 byte slice .
+6598	WaitConditionNegate negates the most recent wait condition .
+6522	GetOrders gets orders associated with an account
+4636	Add adds a point to the index . If a point with the same Id already exists it gets replaced .
+6411	PeekBack returns the entry logicall stored at the back of the list without removing it .
+336	refresh reads all files matching the discovery s patterns and sends the respective updated target groups through the channel .
+2844	Update updates a vsphere_virtual_machine cdrom sub - resource .
+4364	Range extracts a selection of elements from the array provided inclusive
+5419	AppendChild appends a child to the BasicEntity
+3035	WithUserAgent allows specifying a custom user agent option to send with requests when the underlying client library supports it .
+564	chain builds a http . Handler composed of an inline middleware stack and endpoint handler in the order they are passed .
+5304	CompareFile verifies that files with names path1 path2 have same contents .
+2795	BasePropertiesFromReference combines BaseFromReference and BaseProperties to get a base - level ComputeResource managed object for a specific managed object reference .
+103	targetsFromGroup builds targets based on the given TargetGroup and config .
+6959	ContainsAll checks if all values exist in the set .
+6736	OnStart implements BaseService .
+4015	Goes up in the directory tree if it is possible
+864	waitVMPowerState polls the Virtual Machine instance view until it reaches the specified goal power state or times out . If checking for virtual machine state fails or waiting times out an error is returned .
+3551	GetDeletedAtOk returns a tuple with the DeletedAt field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+2967	DiskMigrateRelocateOperation assembles the VirtualMachineRelocateSpecDiskLocator slice for a virtual machine migration operation otherwise known as storage vMotion .
+5206	BatchQuery creates a batch query with the given queries .
+7303	Delete removes a key from the bucket . If the key does not exist then nothing is done and a nil error is returned . Returns an error if the bucket was created from a read - only transaction .
+6788	Unmarshal message from byte array .
+3766	GetDowntimes returns a slice of all downtimes .
+5794	CreateOutlierReport creates a new outlier report .
+1253	createPublishHealthRequests creates the requests to publish container health
+3567	HasPrefix returns a boolean if a field has been set .
+1442	AddContainer adds a container to the state . If the container has been added with only a name and no docker - id this updates the state to include the docker id
+6011	Returns an int at the key and whether or not the key existed and the value was an int
+4274	remountReadonly will bind over the top of an existing path and ensure that it is read - only .
+5328	NextSystemGID returns the next free system group id to use .
+2212	SimpleActionNew is a wrapper around g_simple_action_new
+5045	Skip skips over the n initial documents from the query results . Note that this only makes sense with capped collections where documents are naturally ordered by insertion time or with sorted results .
+6620	selfCmder returns a Cmder that creates a command that re - invokes the currently running executable .
+4408	UnmarshalJSON sets the URI from JSON
+6345	UrlFor returns the relative URL for the route name
+3960	Reset clears the state of the Writer z such that it is equivalent to its initial state from NewWriter but instead writing to w . No access to the underlying io . Writer is performed .
+3808	NewServer initializes a new DHT node server .
+3568	GetCritical returns the Critical field if non - nil zero value otherwise .
+6764	NewNetAddressStrings returns an array of NetAddress es build using the provided strings .
+5988	BytesPerSec tells the rate per second at which bytes were read since last measurement .
+4853	GenODBC generates a odbc DSN from the passed URL .
+2198	InitI18n initializes the i18n subsystem .
+2640	queryVmfsDatastoreExtendOptions is a stop - gap method that implements QueryVmfsDatastoreExtendOptions . It will be removed once the higher level HostDatastoreSystem object supports this method .
+6977	SetHeader sets the Content - Type for a given ResponseWriter and filename extension
+2011	GenerateCredentialsEndpointRelativeURI generates the relative URI for the credentials endpoint for a given task id .
+6805	String looks up the value of a string flag returns if no string flag exists
+709	NewRcodezeroChanges returns a RcodeZero specific array with rrset change objects .
+2284	native returns a pointer to the underlying GtkSeparatorMenuItem .
+7222	Log logs provided message .
+3692	GetMustShowBreakdownOk returns a tuple with the MustShowBreakdown field if it s non - nil zero value otherwise and a boolean to check if the value has been set .
+1997	addToStatsContainerMapUnsafe adds the statscontainer into stats for tracking and returns a boolean indicates whether this container should be tracked for collecting metrics
+6147	keyFromChannelData returns the unique channel identifier used in a Privatix Service Contract .
+4668	NewFile creates and returns a file .
+4999	Destroy destroys a ZFS dataset . If the destroy bit flag is set any descendents of the dataset will be recursively destroyed including snapshots . If the deferred bit flag is set the snapshot is marked for deferred deletion .
+5473	Delete the Queue with the given sid . If the Queue has already been deleted or does not exist Delete returns nil . If another error or a timeout occurs the error is returned .
+2755	expandDVSCreateSpec reads certain ResourceData keys and returns a DVSCreateSpec .
+235	Stop cancels all running scrape pools and blocks until all have exited .
+6971	getValue gets the raw value for a given key
+2662	flattenBaseClusterDasAdmissionControlPolicy saves a BaseClusterDasAdmissionControlPolicy into the supplied ResourceData .
+1489	GetHealthStatus returns the container health information
+3994	validateGTLDs checks that all entries have a valid parseable DelegationDate string and if not - empty a valid parseable RemovalDate string . This function assumes an entry with an empty DelegationDate is an error . Use delegatedGTLDs to filter out entries that were never delegated before validating .
+1737	GetCredentialsID gets the credentials ID for the task
+2906	SetRestart sets reboot_required in the global ResourceData . The key is only required for logging .
