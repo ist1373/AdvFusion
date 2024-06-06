@@ -1,4 +1,4 @@
-# Source code of AdvFusion.
+# Source code of AdvFusion:
 
 ## "AdvFusion: Adapter-based Knowledge Transfer for Code Summarization on Code Language Models"
 
