@@ -1,0 +1,6 @@
+adapters==1.0.0
+transformers==4.45.1
+pandas==1.4.1
+numpy==1.22.1
+torch==2.0.1
+tqdm== 4.66.5
