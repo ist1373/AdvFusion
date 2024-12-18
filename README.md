@@ -1,7 +1,5 @@
 # Source code of AdvFusion:
 
-## "AdvFusion: Adapter-based Knowledge Transfer for Code Summarization on Code Language Models"
-
 
 This repository contains the implementation and results of ["AdvFusion: Adapter-based Knowledge Transfer for Code Summarization on Code Language Models"](https://arxiv.org/pdf/2307.07854), a novel Parameter Efficient Fine-Tuning (PEFT) approach designed to improve knowledge transfer across programming languages for software engineering tasks. The paper explores the potential of multilingual PEFT architectures to enhance performance in tasks such as code summarization and method name prediction.
 
