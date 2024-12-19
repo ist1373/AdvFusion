@@ -46,6 +46,9 @@ Code summarization for CodeBERT in [code2nl Folder](./CodeBERT/code2nl).
 
 Method name prediction for CodeBERT in [method_name_prediction Folder](./CodeBERT/code2nl).
 
+## Attention Contribution Results
+
+You can find the contribution of each language for different target languages in [RQ2_Results Folder](./RQ2_Results).
 
 ## Citation
 
